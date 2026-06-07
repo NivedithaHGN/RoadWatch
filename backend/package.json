@@ -1,0 +1,19 @@
+{
+  "name": "roadwatch-backend",
+  "version": "1.0.0",
+  "description": "Backend and premium frontend for ROADWATCH Infrastructure Dashboard",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1",
+    "socket.io": "^4.8.3",
+    "sqlite3": "^5.1.7"
+  },
+  "author": "Antigravity Team",
+  "license": "ISC"
+}

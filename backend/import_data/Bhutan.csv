@@ -1,0 +1,355 @@
+osm_id,road_name,road_type,ref,maxspeed,road_health_score,road_condition,potholes_count,accident_count,accident_severity,complaints_count,complaint_type,traffic_density,vehicle_count,allocated_budget_usd,spent_budget_usd,maintenance_type,contractor_name,contractor_rating,weather_condition
+22965641,Wangdi-Trongsa Highway,primary,PNH 1,0,49,Average,9,4,Low,12,Cracks,High,6684,459196,325841,Resurfacing,RoadCare,3.3,Sunny
+22965811,Trongsa-Bumthang Highway,primary,PNH 1,0,65,Average,11,15,Medium,12,Broken Divider,Low,390,53075,255830,Resurfacing,UrbanTrack,3.8,Foggy
+27278202,Chunzom - Paro Highway,tertiary,PNH 6,0,81,Good,12,5,Low,4,Broken Divider,High,5921,249098,172486,Divider Repair,UrbanTrack,4,Foggy
+27278203,Chunzom - Paro Highway,tertiary,PNH 6,0,50,Average,8,3,Low,24,Broken Divider,High,3918,398173,123755,Resurfacing,Bhutan Infra,4.1,Foggy
+76811944,Samdrup Jongkhar - Trashigang Highway,primary,PNH 3,0,61,Average,15,3,Low,22,Pothole,Medium,402,131178,107855,Divider Repair,UrbanTrack,3,Cloudy
+76811949,Samdrup Jongkhar - Trashigang Highway,primary,PNH 3,0,36,Poor,15,7,High,14,Cracks,High,2036,494295,32140,Divider Repair,UrbanTrack,3.1,Sunny
+76811955,Bumthang-Mongar Highway,secondary,PNH 1,40,39,Poor,2,13,High,6,Cracks,High,8203,101884,322203,Pothole Repair,SafeHighway,4.4,Sunny
+76811968,Kurizampa,secondary,PNH 1,0,28,Poor,12,7,Medium,5,Cracks,High,8020,471173,316301,Resurfacing,SafeHighway,3.4,Cloudy
+76811970,Samdrup Jongkhar - Trashigang Highway,primary,PNH 3,50,75,Good,19,6,Low,4,Broken Divider,Medium,5943,262917,173399,Resurfacing,Bhutan Infra,4.3,Sunny
+76811971,Samdrup Jongkhar - Trashigang Highway,primary,PNH 3,0,20,Poor,17,4,Low,15,Cracks,Medium,9940,113879,360907,Pothole Repair,SafeHighway,4.5,Sunny
+76811974,Chagzam bridge,primary,PNH 1,0,89,Good,0,9,High,3,Pothole,Medium,1315,224514,155986,Resurfacing,UrbanTrack,3.1,Rainy
+76811977,Bumthang-Mongar Highway,secondary,PNH 1,40,47,Average,17,0,Medium,7,Pothole,Low,9391,434051,30313,Divider Repair,UrbanTrack,2.6,Sunny
+76811985,Samdrup Jongkhar - Trashigang Highway,primary,PNH 3,0,77,Good,0,2,Medium,8,Cracks,Medium,5979,315918,54205,Divider Repair,RoadCare,3.9,Sunny
+76811990,Samdrup Jongkhar - Trashigang Highway,primary,PNH 3,0,61,Average,19,8,Medium,21,Waterlogging,High,2553,353729,353165,Resurfacing,UrbanTrack,3.8,Sunny
+76821968,Chunzom - Paro Highway,primary,PNH 6,0,67,Average,10,6,Medium,13,Cracks,Low,4602,402605,245731,Resurfacing,Bhutan Infra,2.7,Rainy
+76821969,Thimphu to Phuentsholing Highway,primary,AH-48,0,86,Good,2,2,High,21,Broken Divider,Medium,7721,245628,92300,Divider Repair,SafeHighway,4.8,Cloudy
+76821979,Chunzom - Paro Highway,primary,PNH 6,0,55,Average,0,14,High,22,Cracks,Low,5296,187945,321019,Pothole Repair,RoadCare,4.2,Rainy
+76821980,Bazaar,trunk,NH317A,0,32,Poor,7,9,Medium,13,Broken Divider,Low,5391,54874,189469,Resurfacing,SafeHighway,3.2,Rainy
+76821986,Chunzom - Paro Highway,primary,PNH 6,0,57,Average,10,4,High,5,Broken Divider,Medium,4575,346595,273374,Divider Repair,SafeHighway,4.8,Foggy
+105000000,Gelephu - Trongsa Highway,primary,PNH 4,0,31,Poor,16,1,High,23,Cracks,Medium,7778,195490,62687,Resurfacing,RoadCare,4,Sunny
+116000000,Changjiji Zam,trunk,AH-48,50,87,Good,9,2,Medium,18,Cracks,Medium,3687,301149,352796,Pothole Repair,Bhutan Infra,4.1,Rainy
+116000000,Wangchu Lam,trunk,AH-48,50,79,Good,0,3,Low,10,Broken Divider,Low,1598,241252,282428,Pothole Repair,UrbanTrack,2.5,Rainy
+151000000,Sarpang - Wangdue Highway,primary,PNH 5,0,93,Good,14,0,Medium,4,Waterlogging,Medium,4880,52375,249731,Resurfacing,SafeHighway,3.4,Foggy
+151000000,Gelephu - Trongsa Highway,primary,PNH 4,0,84,Good,12,9,Low,23,Waterlogging,Low,5623,402207,45860,Pothole Repair,RoadCare,4.5,Sunny
+151000000,Tingtibi - Zhemgang Highway,secondary,SNH8,0,81,Good,8,7,High,5,Broken Divider,Medium,9667,326878,382052,Divider Repair,Bhutan Infra,2.5,Cloudy
+155000000,Chunzom - Paro Highway,tertiary,PNH 6,0,27,Poor,6,5,Medium,6,Broken Divider,High,6959,460794,135859,Pothole Repair,Bhutan Infra,3.4,Rainy
+182000000,Olarongchu Zam,trunk,AH-48,50,80,Good,2,12,High,0,Waterlogging,Medium,9194,193953,194788,Pothole Repair,SafeHighway,3.7,Foggy
+182000000,Tingchhu Lam SE,primary,PNH 1,50,44,Average,12,13,Low,13,Broken Divider,High,4452,325245,371359,Pothole Repair,UrbanTrack,4.3,Sunny
+182000000,Khamtoe Lam SE,primary,PNH 1,0,20,Poor,5,13,Medium,23,Waterlogging,Low,5123,234948,238055,Resurfacing,Bhutan Infra,3.2,Rainy
+182000000,Khamtoe Lam SE,primary,PNH 1,0,28,Poor,16,9,Medium,19,Pothole,Medium,1189,164714,132687,Resurfacing,SafeHighway,2.9,Rainy
+182000000,Chazam - Trashiyangtse Highway,primary,PNH12,0,37,Poor,20,13,Medium,18,Broken Divider,High,3388,295639,212066,Divider Repair,UrbanTrack,4,Foggy
+182000000,Chazam - Trashiyangtse Highway,primary,PNH12,0,62,Average,9,13,Low,20,Cracks,High,1752,449272,80407,Pothole Repair,UrbanTrack,4.6,Cloudy
+182000000,Chazam - Trashiyangtse Highway,primary,PNH12,0,85,Good,20,8,Low,5,Broken Divider,Low,9088,52876,255483,Pothole Repair,RoadCare,3.2,Cloudy
+182000000,Chazam - Trashiyangtse Highway,primary,PNH12,0,59,Average,18,5,Medium,4,Pothole,Low,8153,312741,256002,Pothole Repair,UrbanTrack,2.8,Foggy
+183000000,Chunzom - Paro Highway,tertiary,PNH 6,0,70,Average,5,9,High,19,Broken Divider,High,6357,148937,100897,Resurfacing,RoadCare,2.8,Cloudy
+183000000,Bondey - Haa Highway,primary,SNH6,0,77,Good,9,4,Low,13,Waterlogging,Medium,2948,86220,396393,Divider Repair,RoadCare,4.1,Foggy
+183000000,Bondey - Haa Highway,primary,SNH6,0,45,Average,4,13,Low,3,Pothole,Low,2747,234922,165652,Pothole Repair,Bhutan Infra,4.7,Cloudy
+183000000,Bondey - Haa Highway,primary,SNH6,0,63,Average,9,11,Low,8,Pothole,Medium,3993,165186,113688,Resurfacing,SafeHighway,2.8,Rainy
+188000000,Thimphu to Phuentsholing Highway,trunk,AH-48,30,43,Average,16,6,Medium,1,Waterlogging,Medium,8052,471375,166319,Resurfacing,SafeHighway,4.8,Rainy
+188000000,Babesa Zero,trunk,AH-48,30,77,Good,11,3,High,9,Broken Divider,Low,8194,202812,144336,Divider Repair,Bhutan Infra,4.3,Foggy
+188000000,Thimphu to Phuentsholing Highway,trunk,AH-48,30,30,Poor,4,10,Medium,14,Cracks,Low,8733,70511,133889,Divider Repair,RoadCare,3.4,Sunny
+188000000,Thimphu to Phuentsholing Highway,trunk,AH-48,30,70,Average,9,12,Low,1,Cracks,Medium,2080,178035,391631,Resurfacing,SafeHighway,3.6,Rainy
+188000000,Zimdra Zam,trunk,AH-48,50,63,Average,11,4,Low,0,Waterlogging,Low,6909,479708,289555,Divider Repair,RoadCare,3.5,Sunny
+188000000,Zimdra Zam,trunk,AH-48,50,90,Good,20,0,Medium,19,Pothole,Low,2341,276280,393272,Divider Repair,RoadCare,4.8,Rainy
+188000000,S Doebum Lam,trunk,AH-48,50,77,Good,1,4,Low,6,Broken Divider,High,2913,372746,241476,Divider Repair,SafeHighway,4.4,Rainy
+188000000,S Doebum Lam,trunk,AH-48,50,67,Average,4,13,Low,23,Waterlogging,Low,8236,209612,201784,Resurfacing,UrbanTrack,4.9,Sunny
+188000000,Olarongchu Zam,trunk,AH-48,50,84,Good,16,13,Low,12,Waterlogging,Medium,3621,349333,322375,Divider Repair,Bhutan Infra,2.5,Sunny
+188000000,Changjiji Zam,trunk,AH-48,50,34,Poor,2,6,Medium,18,Cracks,Low,6051,465338,133887,Pothole Repair,RoadCare,4.7,Foggy
+188000000,S Doebum Lam,trunk,AH-48,50,27,Poor,2,8,Low,0,Broken Divider,Low,833,72897,356610,Resurfacing,Bhutan Infra,4.8,Cloudy
+188000000,Sipsu - Samtse Highway,secondary,SNH7,0,47,Average,13,12,High,4,Broken Divider,Low,2123,393573,298907,Pothole Repair,SafeHighway,2.7,Sunny
+188000000,Sipsu - Samtse Highway,secondary,SNH7,0,76,Good,19,6,High,8,Waterlogging,High,6185,282948,361647,Divider Repair,RoadCare,2.5,Sunny
+188000000,Sipsu - Samtse Highway,secondary,SNH7,0,56,Average,10,3,High,8,Cracks,Low,5872,325794,224211,Resurfacing,UrbanTrack,3.7,Foggy
+189000000,Khamtoe Lam SE,primary,PNH 1,0,86,Good,8,0,High,8,Broken Divider,Medium,7293,198197,369349,Divider Repair,SafeHighway,4.7,Rainy
+191000000,Bondey - Haa Highway,primary,SNH6,0,79,Good,17,11,Medium,2,Pothole,Medium,785,204920,210741,Divider Repair,SafeHighway,4,Cloudy
+192000000,Misina - Punakha Highway,primary,PNH 8,0,72,Good,3,13,High,13,Pothole,Medium,3667,85707,288195,Pothole Repair,SafeHighway,4.5,Rainy
+192000000,Misina - Punakha Highway,primary,PNH 8,0,80,Good,11,0,Medium,8,Pothole,Medium,2337,85291,211845,Resurfacing,UrbanTrack,3,Rainy
+193000000,Punakha - Gasa,secondary,SNH5,0,56,Average,5,12,Low,25,Waterlogging,Medium,9785,185288,290631,Pothole Repair,RoadCare,2.9,Sunny
+193000000,Punakha - Gasa,secondary,SNH5,0,72,Good,2,5,Low,24,Broken Divider,High,3196,59030,304588,Pothole Repair,UrbanTrack,2.6,Rainy
+219000000,Punakha - Gasa,secondary,SNH5,0,45,Average,13,14,Medium,17,Cracks,Low,8467,153595,166831,Pothole Repair,UrbanTrack,3.4,Cloudy
+232000000,Chuzom-Haa Highway,primary,PNH 7,0,40,Poor,14,14,High,8,Waterlogging,High,5220,380704,347429,Pothole Repair,RoadCare,4.4,Rainy
+232000000,Namgayling Lam,residential,1,40,57,Average,5,11,Medium,15,Cracks,High,5890,369151,280192,Pothole Repair,SafeHighway,4.9,Foggy
+237000000,S Doebum Lam,trunk,AH-48,50,44,Average,7,13,Low,17,Broken Divider,Low,117,390728,257829,Divider Repair,UrbanTrack,3.5,Rainy
+237000000,S Doebum Lam,trunk,AH-48,0,40,Poor,16,7,Medium,24,Pothole,Low,8900,143454,61041,Divider Repair,SafeHighway,3.1,Cloudy
+237000000,Babesa Zam,trunk,AH-48,50,53,Average,2,1,Medium,0,Cracks,Medium,154,459146,205942,Pothole Repair,SafeHighway,3.2,Rainy
+237000000,Babesa Zam,trunk,AH-48,50,76,Good,11,11,Low,15,Cracks,High,3961,316541,20339,Resurfacing,Bhutan Infra,4.9,Sunny
+258000000,Chunzom - Paro Highway,tertiary,PNH 6,0,53,Average,14,3,Low,0,Waterlogging,Low,9867,215673,328388,Pothole Repair,SafeHighway,4.9,Sunny
+258000000,Chunzom - Paro Highway,tertiary,PNH 6,0,93,Good,15,15,Medium,6,Waterlogging,Low,9490,81171,397868,Resurfacing,RoadCare,3.3,Foggy
+278000000,Bumthang-Mongar Highway,primary,PNH 1,40,51,Average,9,14,High,8,Pothole,High,3709,321143,320151,Pothole Repair,UrbanTrack,4.8,Sunny
+279000000,Chunzom - Paro Highway,tertiary,PNH 6,0,31,Poor,15,1,Medium,24,Broken Divider,Medium,728,339272,206040,Pothole Repair,Bhutan Infra,4.4,Rainy
+279000000,Chunzom - Paro Highway,tertiary,PNH 6,0,73,Good,20,8,Medium,7,Pothole,Low,1731,294757,27222,Divider Repair,UrbanTrack,3.6,Rainy
+286000000,Chunzom - Paro Highway,tertiary,PNH 6,0,74,Good,1,13,Low,6,Waterlogging,Low,5417,437400,234891,Pothole Repair,Bhutan Infra,3.6,Foggy
+286000000,Chunzom - Paro Highway,primary,PNH 6,0,61,Average,17,12,High,18,Broken Divider,Medium,7977,454754,393166,Divider Repair,Bhutan Infra,3.8,Rainy
+286000000,Chunzom - Paro Highway,primary,PNH 6,0,77,Good,14,10,Low,5,Waterlogging,High,5639,495433,12875,Pothole Repair,SafeHighway,5,Rainy
+286000000,Bondey - Haa Highway,primary,SNH6,0,83,Good,16,4,High,19,Cracks,Low,5632,390715,187379,Pothole Repair,Bhutan Infra,4.8,Rainy
+286000000,Bondey - Haa Highway,primary,SNH6,0,76,Good,19,12,Low,4,Broken Divider,High,2874,214813,150605,Pothole Repair,RoadCare,3.2,Rainy
+297000000,Samdrup Jongkhar - Trashigang Highway,primary,PNH 3,0,54,Average,19,7,High,3,Waterlogging,Medium,7997,387182,318536,Pothole Repair,Bhutan Infra,3.7,Foggy
+297000000,Samdrup Jongkhar - Trashigang Highway,primary,PNH 3,0,58,Average,10,7,High,21,Cracks,High,5874,127841,71225,Resurfacing,SafeHighway,4.6,Rainy
+309000000,Chamkar Zam (Bridge),primary,PNH 1,0,37,Poor,5,4,Medium,11,Pothole,Low,2422,225987,367476,Resurfacing,Bhutan Infra,4.3,Rainy
+310000000,Sarpang - Wangdue Highway,primary,PNH 5,0,71,Good,9,4,High,11,Pothole,Low,4707,319041,72839,Pothole Repair,SafeHighway,4.4,Cloudy
+314000000,Punakha - Gasa,secondary,SNH5,0,38,Poor,15,6,High,22,Broken Divider,Low,4139,398819,49560,Pothole Repair,Bhutan Infra,2.9,Cloudy
+314000000,Punakha - Gasa,secondary,SNH5,0,49,Average,17,7,Medium,20,Pothole,High,7638,481918,55156,Divider Repair,Bhutan Infra,2.7,Rainy
+314000000,Punakha - Gasa,secondary,SNH5,0,52,Average,18,11,Medium,12,Broken Divider,Low,7448,68962,83331,Pothole Repair,RoadCare,3.7,Foggy
+327000000,Chuzom-Haa Highway,primary,PNH 7,0,55,Average,16,3,High,9,Broken Divider,Medium,6316,328022,364014,Divider Repair,UrbanTrack,3.3,Foggy
+327000000,Dumcho Bailey Bridge (Chuzom-Haa Highway),primary,PNH 7,0,63,Average,13,13,Medium,16,Waterlogging,Low,4113,107534,358303,Resurfacing,SafeHighway,3.6,Cloudy
+327000000,Bridge (Chuzom-Haa Highway),primary,PNH 7,0,88,Good,6,11,Low,21,Pothole,Medium,6345,167386,369152,Resurfacing,RoadCare,4.8,Sunny
+327000000,Chuzom-Haa Highway,primary,PNH 7,0,35,Poor,10,2,Medium,8,Broken Divider,Low,269,50472,21207,Pothole Repair,UrbanTrack,4.2,Cloudy
+338000000,Chunzom - Paro Highway,tertiary,PNH 6,0,80,Good,9,10,Medium,24,Cracks,High,7038,339701,271195,Resurfacing,RoadCare,3.8,Sunny
+338000000,Chuzom-Haa Highway,primary,PNH 7,0,77,Good,9,14,Medium,20,Waterlogging,High,7982,76020,104791,Divider Repair,Bhutan Infra,3.4,Rainy
+338000000,Thimphu to Phuentsholing Highway,trunk,AH-48,0,83,Good,15,9,Low,17,Cracks,Medium,7469,91382,287147,Resurfacing,SafeHighway,3.8,Rainy
+341000000,Chazam - Trashiyangtse Highway,primary,PNH12,0,34,Poor,20,0,Medium,8,Cracks,Low,9360,411399,204942,Resurfacing,UrbanTrack,3.2,Rainy
+341000000,Tingtibi - Panbang Highway,primary,PNH10,0,75,Good,5,7,Medium,2,Waterlogging,Medium,8641,156881,45847,Resurfacing,Bhutan Infra,4.8,Foggy
+342000000,Thimphu to Phuentsholing Highway,primary,AH-48,0,95,Good,10,7,Low,10,Waterlogging,Low,1001,115810,207226,Divider Repair,UrbanTrack,2.9,Rainy
+342000000,ཕུན་ཚོགས་གླིང་ - ཐིམ་ཕུག་ གཞུང་ལམ།,primary,AH-48,0,40,Poor,4,6,Medium,20,Broken Divider,Medium,5445,250547,74929,Pothole Repair,UrbanTrack,3.4,Cloudy
+342000000,ཕུན་ཚོགས་གླིང་ - ཐིམ་ཕུག་ གཞུང་ལམ།,primary,AH-48,0,65,Average,4,11,Medium,12,Waterlogging,Medium,5541,264748,54997,Divider Repair,UrbanTrack,2.7,Foggy
+342000000,ཕུན་ཚོགས་གླིང་ - ཐིམ་ཕུག་ གཞུང་ལམ།,primary,AH-48,0,22,Poor,15,2,High,14,Broken Divider,Medium,7829,223273,51750,Resurfacing,RoadCare,3.2,Foggy
+342000000,Thimphu to Phuentsholing Highway,trunk,AH-48,0,48,Average,19,0,Medium,14,Cracks,Low,3267,339541,96459,Divider Repair,SafeHighway,2.5,Rainy
+342000000,Thimphu to Phuentsholing Highway,trunk,AH-48,0,67,Average,14,5,High,14,Broken Divider,High,3211,426381,244342,Resurfacing,SafeHighway,4.3,Foggy
+342000000,Thimphu to Phuentsholing Highway,trunk,AH-48,0,56,Average,1,0,Medium,9,Cracks,Low,5947,306300,266389,Divider Repair,UrbanTrack,3.4,Sunny
+342000000,Thimphu to Phuentsholing Highway,primary,AH-48,0,51,Average,17,15,Low,20,Broken Divider,High,6601,77721,304413,Resurfacing,RoadCare,4.3,Rainy
+342000000,Thimphu to Phuentsholing Highway,primary,AH-48,0,94,Good,15,3,High,9,Pothole,Low,4436,342827,301575,Resurfacing,RoadCare,3.9,Sunny
+342000000,Thimphu to Phuentsholing Highway,primary,AH-48,0,52,Average,14,12,High,11,Waterlogging,Low,5177,317884,323696,Divider Repair,Bhutan Infra,2.6,Sunny
+342000000,Misina - Punakha Highway,primary,PNH 8,0,60,Average,13,2,Low,12,Waterlogging,Low,8944,54236,240376,Pothole Repair,RoadCare,2.8,Rainy
+342000000,S Doebum Lam,trunk,AH-48,50,67,Average,6,0,Medium,8,Broken Divider,Low,536,479861,398656,Divider Repair,SafeHighway,4.4,Cloudy
+342000000,S Doebum Lam,trunk,AH-48,50,23,Poor,13,9,Medium,1,Cracks,Medium,6460,190036,19098,Divider Repair,UrbanTrack,3.7,Rainy
+342000000,S Doebum Lam,trunk,AH-48,50,72,Good,20,14,Low,25,Cracks,Low,7407,496911,382609,Resurfacing,Bhutan Infra,3.1,Foggy
+342000000,Wangchhu Lam,trunk,AH-48,50,45,Average,14,9,Medium,17,Cracks,Low,9190,169540,79115,Resurfacing,RoadCare,4.8,Cloudy
+342000000,S Doebum Lam,trunk,AH-48,50,47,Average,3,7,Medium,12,Waterlogging,Low,7637,208619,13863,Pothole Repair,RoadCare,3.2,Foggy
+342000000,Wangchhu Lam SE,trunk,AH-48,50,58,Average,9,5,Medium,2,Broken Divider,High,2093,486273,399009,Resurfacing,RoadCare,4.1,Rainy
+342000000,S Doebum Lam,trunk,AH-48,50,81,Good,5,5,Medium,9,Waterlogging,High,1288,216435,335849,Resurfacing,SafeHighway,4.8,Rainy
+342000000,S Doebum Lam,trunk,AH-48,50,29,Poor,17,1,Medium,13,Broken Divider,Medium,4275,279260,86519,Divider Repair,Bhutan Infra,3.4,Sunny
+342000000,Thimphu to Phuentsholing Highway,trunk,AH-48,30,44,Average,8,3,Low,19,Cracks,Low,3530,207166,94379,Divider Repair,UrbanTrack,4,Sunny
+346000000,Chazam - Trashiyangtse Highway,primary,PNH12,0,90,Good,0,15,Low,2,Pothole,Low,7276,365842,148178,Divider Repair,SafeHighway,4.5,Cloudy
+364000000,Sipsu - Samtse Highway,secondary,SNH7,0,71,Good,17,14,Medium,24,Broken Divider,Medium,5551,195886,292603,Resurfacing,SafeHighway,3.9,Foggy
+364000000,Sipsu - Samtse Highway,secondary,SNH7,0,28,Poor,5,3,High,12,Cracks,High,8236,471571,268311,Divider Repair,SafeHighway,4.4,Foggy
+364000000,Sipsu - Samtse Highway,secondary,SNH7,0,54,Average,8,1,Medium,14,Pothole,High,9527,405073,215591,Pothole Repair,UrbanTrack,4.7,Foggy
+364000000,Sipsu - Samtse Highway,secondary,SNH7,0,83,Good,8,9,High,15,Broken Divider,High,2660,249884,269243,Resurfacing,UrbanTrack,3.5,Foggy
+364000000,Sipsu - Samtse Highway,secondary,SNH7,0,92,Good,9,14,High,12,Broken Divider,Low,2407,221829,315876,Divider Repair,Bhutan Infra,4.9,Cloudy
+364000000,Sipsu - Samtse Highway,secondary,SNH7,0,41,Average,19,9,High,19,Waterlogging,High,7104,149683,100772,Pothole Repair,UrbanTrack,2.5,Rainy
+365000000,Thimphu to Phuentsholing Highway,primary,AH-48,0,24,Poor,19,9,Medium,19,Waterlogging,Medium,4433,476499,174381,Divider Repair,Bhutan Infra,2.7,Rainy
+365000000,S Doebum Lam,trunk,AH-48,50,69,Average,18,6,Medium,18,Waterlogging,Low,643,239818,98002,Resurfacing,UrbanTrack,4.9,Sunny
+365000000,Wangchu Lam,trunk,AH-48,50,51,Average,2,8,Medium,17,Waterlogging,High,5073,442239,305157,Resurfacing,RoadCare,2.6,Cloudy
+365000000,Màphö Lam,primary,PNH 1,30,91,Good,8,7,Medium,13,Broken Divider,Low,6848,243261,121350,Divider Repair,RoadCare,3.4,Rainy
+365000000,S Doebum Lam,trunk,AH-48,0,31,Poor,13,10,High,10,Waterlogging,Low,1785,146170,244027,Resurfacing,SafeHighway,4.8,Sunny
+365000000,S Doebum Lam,trunk,AH-48,50,43,Average,12,4,Low,9,Cracks,Medium,6862,227277,247675,Pothole Repair,Bhutan Infra,3.3,Foggy
+365000000,Doebum Zur Lam 304 SW,trunk_link,PNH 1,30,37,Poor,4,10,Low,16,Waterlogging,Medium,314,217450,372838,Divider Repair,SafeHighway,3.7,Cloudy
+365000000,Tingchhu Lam SE,primary,PNH 1,30,84,Good,11,12,High,0,Cracks,Low,2419,362010,305111,Resurfacing,Bhutan Infra,3,Cloudy
+370000000,Chuzom-Haa Highway,primary,PNH 7,0,61,Average,13,12,Low,20,Waterlogging,Low,6997,484529,24170,Pothole Repair,SafeHighway,2.8,Rainy
+370000000,Chuzom-Haa Highway,primary,PNH 7,0,37,Poor,7,2,Medium,22,Cracks,Low,6472,76032,176937,Pothole Repair,Bhutan Infra,4.2,Rainy
+370000000,Chuzom-Haa Highway,primary,PNH 7,0,76,Good,7,6,High,3,Broken Divider,Medium,6243,321401,311756,Divider Repair,RoadCare,4.4,Sunny
+372000000,Gelephu - Trongsa Highway,primary,PNH 4,0,84,Good,19,5,Medium,5,Waterlogging,Low,5616,424850,148555,Divider Repair,RoadCare,3.3,Cloudy
+372000000,Sarpang - Wangdue Highway,primary,PNH 5,0,36,Poor,2,15,Medium,5,Broken Divider,Medium,3581,128396,236983,Resurfacing,RoadCare,4.4,Rainy
+372000000,Sarpang - Wangdue Highway,primary,PNH 5,0,94,Good,8,3,High,3,Broken Divider,Low,5680,140880,17730,Divider Repair,UrbanTrack,2.8,Sunny
+392000000,Damchu-Chukha Bypass,primary,AH-48,0,49,Average,6,5,Low,17,Pothole,High,9218,53496,78292,Divider Repair,SafeHighway,3.5,Foggy
+392000000,Damchu-Chukha Bypass,primary,AH-48,0,71,Good,13,4,Medium,18,Cracks,Low,6194,410970,289640,Pothole Repair,SafeHighway,3.5,Cloudy
+392000000,Thimphu to Phuentsholing Highway,primary,AH-48,0,87,Good,1,4,Low,11,Waterlogging,Low,5210,305420,73261,Resurfacing,SafeHighway,3,Rainy
+393000000,Chuzom-Haa Highway,primary,PNH 7,0,62,Average,0,1,Medium,13,Pothole,Low,2296,338345,203028,Divider Repair,RoadCare,3.8,Sunny
+399000000,Sarpang - Wangdue Highway,primary,PNH 5,0,88,Good,17,2,Medium,23,Broken Divider,High,6660,312544,236320,Resurfacing,RoadCare,4.7,Cloudy
+399000000,Sarpang - Wangdue Highway,primary,PNH 5,0,28,Poor,8,7,High,16,Broken Divider,Low,906,147260,31161,Divider Repair,SafeHighway,2.7,Cloudy
+399000000,Sarpang - Wangdue Highway,primary,PNH 5,0,90,Good,2,8,High,6,Cracks,Low,9797,183940,371511,Divider Repair,Bhutan Infra,3.6,Foggy
+399000000,Sarpang - Wangdue Highway,primary,PNH 5,0,23,Poor,15,7,Low,7,Broken Divider,High,9888,459138,207615,Resurfacing,RoadCare,3.1,Sunny
+399000000,Sarpang - Wangdue Highway,primary,PNH 5,0,88,Good,1,4,Low,4,Broken Divider,Medium,5732,363793,241211,Divider Repair,Bhutan Infra,3.1,Foggy
+399000000,Sarpang - Wangdue Highway,primary,PNH 5,0,71,Good,5,11,High,22,Pothole,High,9242,332979,273197,Resurfacing,UrbanTrack,3.7,Sunny
+399000000,Sarpang - Wangdue Highway,primary,PNH 5,0,78,Good,2,5,High,0,Waterlogging,Medium,4219,475274,356190,Resurfacing,RoadCare,3.3,Sunny
+399000000,Sarpang - Wangdue Highway,primary,PNH 5,0,93,Good,1,14,Low,3,Broken Divider,Medium,9309,348758,152618,Divider Repair,UrbanTrack,4.2,Cloudy
+404000000,Tingtibi - Panbang Highway,primary,PNH10,0,74,Good,18,9,Medium,15,Pothole,Low,1703,407427,284644,Divider Repair,Bhutan Infra,2.5,Rainy
+404000000,Tingtibi - Panbang Highway,primary,PNH10,0,40,Poor,18,11,Low,19,Pothole,Medium,608,123921,188990,Resurfacing,Bhutan Infra,4.4,Sunny
+408000000,Samdrup Jongkhar - Trashigang Highway,primary,PNH 3,0,34,Poor,8,9,Medium,15,Cracks,Low,7763,66975,196131,Pothole Repair,UrbanTrack,4.3,Foggy
+408000000,Samdrup Jongkhar - Trashigang Highway,primary,PNH 3,0,59,Average,20,12,High,15,Pothole,Medium,7143,492052,321954,Divider Repair,RoadCare,4.9,Cloudy
+408000000,Samdrup Jongkhar - Trashigang Highway,primary,PNH 3,0,72,Good,16,2,High,11,Cracks,Medium,6132,89855,166498,Pothole Repair,SafeHighway,4.2,Foggy
+409000000,Samdrup Jongkhar - Trashigang Highway,primary,PNH 3,0,53,Average,14,12,Low,21,Waterlogging,High,6096,201083,193257,Resurfacing,SafeHighway,4.7,Rainy
+421000000,Chazam - Trashiyangtse Highway,primary,PNH12,0,47,Average,3,2,High,24,Waterlogging,Low,8741,478774,304061,Pothole Repair,RoadCare,3,Cloudy
+425000000,Samdrup Jongkhar - Trashigang Highway,primary,PNH 3,0,25,Poor,12,10,High,3,Pothole,High,5725,90719,122935,Resurfacing,UrbanTrack,4.1,Cloudy
+425000000,Samdrup Jongkhar - Trashigang Highway,primary,PNH 3,0,74,Good,6,13,Low,10,Broken Divider,High,8161,66477,253472,Pothole Repair,UrbanTrack,3.6,Foggy
+426000000,Chuzom-Haa Highway,primary,PNH 7,0,77,Good,13,15,Low,5,Waterlogging,Low,5387,434123,314468,Pothole Repair,SafeHighway,3,Rainy
+426000000,Chuzom-Haa Highway,primary,PNH 7,0,38,Poor,3,5,Medium,12,Pothole,Medium,1132,234775,200553,Divider Repair,SafeHighway,4.8,Cloudy
+439000000,Khatoe Lam SE,primary,PNH 1,0,48,Average,8,4,High,13,Broken Divider,Medium,4797,347155,232099,Divider Repair,UrbanTrack,2.6,Foggy
+441000000,Sarpang - Wangdue Highway,primary,PNH 5,0,41,Average,3,0,Medium,17,Waterlogging,High,2456,286186,375037,Pothole Repair,Bhutan Infra,2.9,Sunny
+441000000,Chunzom - Paro Highway,tertiary,PNH 6,0,55,Average,17,5,High,15,Waterlogging,High,2260,193881,42978,Pothole Repair,RoadCare,3.3,Rainy
+441000000,Chunzom - Paro Highway,tertiary,PNH 6,0,46,Average,19,13,Medium,21,Pothole,High,4617,213223,199753,Divider Repair,RoadCare,4.6,Rainy
+442000000,Samdrup Jongkhar - Trashigang Highway,trunk,PNH 3,0,37,Poor,4,10,Medium,17,Pothole,Medium,8819,237746,85849,Resurfacing,Bhutan Infra,2.8,Foggy
+449000000,Thimphu to Phuentsholing Highway,trunk,AH-48,0,36,Poor,15,9,Low,12,Cracks,Low,7384,211959,291761,Resurfacing,Bhutan Infra,3.2,Cloudy
+462000000,Sipsu - Samtse Highway,secondary,SNH7,0,80,Good,9,8,Medium,17,Pothole,Low,7199,316707,285818,Pothole Repair,SafeHighway,2.9,Rainy
+462000000,Sipsu - Samtse Highway,secondary,SNH7,0,70,Average,17,15,Medium,2,Waterlogging,High,5953,195765,206663,Pothole Repair,UrbanTrack,3,Rainy
+462000000,Sipsu - Samtse Highway,secondary,SNH7,0,58,Average,0,0,Medium,23,Broken Divider,Low,6643,335283,101790,Divider Repair,Bhutan Infra,3,Foggy
+462000000,Sipsu - Samtse Highway,secondary,SNH7,0,61,Average,16,3,High,2,Broken Divider,Medium,2530,263118,335849,Resurfacing,SafeHighway,3.9,Cloudy
+462000000,Sipsu - Samtse Highway,secondary,SNH7,0,74,Good,18,7,High,17,Broken Divider,Medium,2127,74568,215524,Divider Repair,SafeHighway,3.6,Foggy
+462000000,Sipsu - Samtse Highway,secondary,SNH7,0,91,Good,1,9,Low,2,Broken Divider,Low,8703,226123,367820,Divider Repair,RoadCare,3.2,Rainy
+462000000,Sipsu - Samtse Highway,secondary,SNH7,0,39,Poor,9,1,Medium,16,Waterlogging,Low,5365,165902,80387,Resurfacing,Bhutan Infra,3.3,Rainy
+462000000,Gathriya Zam,secondary,SNH7,0,49,Average,12,12,Medium,9,Cracks,Low,1723,351071,377475,Pothole Repair,Bhutan Infra,2.8,Cloudy
+462000000,Sipsu - Samtse Highway,secondary,SNH7,0,52,Average,13,2,Medium,1,Pothole,High,8403,322243,385512,Divider Repair,SafeHighway,4.8,Foggy
+462000000,Sipsu - Samtse Highway,secondary,SNH7,0,75,Good,18,15,Low,0,Cracks,Medium,4813,167924,69229,Pothole Repair,SafeHighway,3.3,Cloudy
+462000000,Sipsu - Samtse Highway,secondary,SNH7,0,66,Average,2,5,Medium,4,Cracks,High,3405,459784,219169,Divider Repair,Bhutan Infra,4.2,Foggy
+462000000,Sipsu - Samtse Highway,secondary,SNH7,0,42,Average,19,8,Low,7,Cracks,Medium,5727,51427,234131,Divider Repair,Bhutan Infra,4.2,Sunny
+462000000,Sipsu - Samtse Highway,secondary,SNH7,0,70,Average,8,8,Medium,9,Cracks,Low,4898,213541,137222,Divider Repair,UrbanTrack,4.8,Foggy
+462000000,Sipsu - Samtse Highway,secondary,SNH7,0,49,Average,16,4,High,13,Cracks,High,3282,430929,217119,Divider Repair,UrbanTrack,2.8,Sunny
+462000000,Sipsu - Samtse Highway,secondary,SNH7,0,79,Good,8,12,High,7,Cracks,Medium,1472,188940,339282,Resurfacing,RoadCare,3.5,Rainy
+464000000,Samdrup Jongkhar - Trashigang Highway,primary,PNH 3,0,35,Poor,4,4,Low,9,Pothole,Medium,6045,256886,15323,Pothole Repair,RoadCare,3.4,Rainy
+464000000,Samdrup Jongkhar - Trashigang Highway,primary,PNH 3,0,94,Good,8,12,High,24,Pothole,Medium,1350,368475,321612,Pothole Repair,RoadCare,2.7,Foggy
+465000000,Mongar Lhuntse Highway,secondary,SNH3,0,45,Average,8,15,Medium,10,Pothole,High,6252,162561,142400,Resurfacing,RoadCare,4.3,Cloudy
+465000000,Tangmachu Bridge,secondary,SNH3,0,38,Poor,13,14,Medium,12,Waterlogging,Low,8381,499392,219620,Pothole Repair,UrbanTrack,3.4,Cloudy
+472000000,Sarpang - Wangdue Highway,primary,PNH 5,0,23,Poor,19,9,Low,22,Cracks,Low,5936,329322,253839,Divider Repair,UrbanTrack,4.5,Cloudy
+472000000,Sarpang - Wangdue Highway,primary,PNH 5,0,72,Good,18,14,Medium,9,Broken Divider,Low,9871,358725,31149,Divider Repair,RoadCare,3.5,Sunny
+472000000,Sarpang - Wangdue Highway,primary,PNH 5,0,57,Average,11,5,Medium,19,Cracks,High,2672,415656,14573,Pothole Repair,UrbanTrack,2.6,Sunny
+472000000,Sarpang - Wangdue Highway,primary,PNH 5,0,39,Poor,9,9,Medium,13,Broken Divider,High,3347,363946,298469,Resurfacing,RoadCare,3.7,Cloudy
+472000000,Sarpang - Wangdue Highway,primary,PNH 5,0,72,Good,10,10,Medium,18,Broken Divider,High,7126,241006,57363,Divider Repair,Bhutan Infra,4,Foggy
+495000000,Gelephu - Trongsa Highway,primary,PNH 4,0,24,Poor,16,12,High,3,Cracks,Low,7526,75459,151516,Pothole Repair,RoadCare,3.7,Cloudy
+495000000,Bumthang-Mongar Highway,secondary,PNH 1,40,36,Poor,20,9,Medium,18,Pothole,Low,3852,259484,16143,Resurfacing,RoadCare,4.4,Rainy
+496000000,Tingtibi - Panbang Highway,primary,PNH10,0,44,Average,0,2,High,7,Pothole,High,9865,245926,209839,Divider Repair,Bhutan Infra,3,Cloudy
+498000000,Chazam - Trashiyangtse Highway,primary,PNH12,0,92,Good,14,13,Low,7,Broken Divider,Low,4083,383478,121000,Resurfacing,Bhutan Infra,4.9,Sunny
+500000000,Sarpang - Wangdue Highway,primary,PNH 5,0,26,Poor,3,3,Medium,25,Broken Divider,High,2168,437133,194725,Pothole Repair,UrbanTrack,3.5,Foggy
+500000000,Sarpang - Wangdue Highway,primary,PNH 5,0,29,Poor,20,12,Low,10,Waterlogging,Medium,2127,375674,97484,Pothole Repair,Bhutan Infra,3.9,Sunny
+511000000,Trongsa-Bumthang Highway,primary,PNH 1,40,55,Average,12,8,High,15,Cracks,Medium,445,149095,242893,Resurfacing,SafeHighway,4.3,Cloudy
+525000000,Thimphu to Phuentsholing Highway,primary,AH-48,0,54,Average,10,1,High,14,Waterlogging,High,1654,230658,60451,Pothole Repair,Bhutan Infra,3.7,Foggy
+526000000,Gelephu - Trongsa Highway,primary,PNH 4,20,87,Good,17,6,Low,3,Cracks,High,7335,138630,204846,Resurfacing,UrbanTrack,4.5,Rainy
+539000000,Gelephu - Trongsa Highway,primary,PNH 4,0,56,Average,17,5,Low,15,Broken Divider,Medium,6677,263151,196348,Divider Repair,UrbanTrack,3.6,Sunny
+590000000,Damchu-Chukha Bypass,primary,AH-48,0,27,Poor,20,4,Low,2,Pothole,Low,6187,198438,340692,Resurfacing,UrbanTrack,3.5,Cloudy
+590000000,Damchu-Chukha Bypass,primary,AH-48,0,56,Average,18,1,Medium,5,Broken Divider,High,9250,139512,77663,Resurfacing,RoadCare,4.4,Cloudy
+605000000,Thimphu to Phuentsholing Highway,trunk,AH-48,0,32,Poor,7,0,Medium,7,Waterlogging,Low,7378,116359,383329,Resurfacing,RoadCare,4.9,Rainy
+608000000,Sipsu - Samtse Highway,secondary,SNH7,0,68,Average,12,4,Low,22,Waterlogging,High,1908,226118,191150,Divider Repair,UrbanTrack,2.9,Sunny
+608000000,Sipsu - Samtse Highway,secondary,SNH7,0,27,Poor,14,0,High,24,Cracks,High,5362,57883,146969,Pothole Repair,UrbanTrack,3.6,Cloudy
+615000000,Sipsu - Samtse Highway,secondary,SNH7,0,66,Average,4,13,Low,9,Broken Divider,Medium,8484,461190,319696,Divider Repair,Bhutan Infra,4.6,Foggy
+615000000,Sipsu - Samtse Highway,secondary,SNH7,0,39,Poor,14,8,High,23,Pothole,Low,8799,485973,84632,Resurfacing,SafeHighway,3.5,Foggy
+615000000,Sipsu - Samtse Highway,secondary,SNH7,0,61,Average,18,6,High,18,Cracks,Medium,9113,346974,34044,Pothole Repair,RoadCare,2.9,Rainy
+615000000,Sipsu - Samtse Highway,secondary,SNH7,0,34,Poor,12,1,Low,0,Broken Divider,Low,1224,130261,244612,Resurfacing,UrbanTrack,3.6,Cloudy
+615000000,Sipsu - Samtse Highway,secondary,SNH7,0,65,Average,2,6,Low,18,Broken Divider,High,5346,391761,90287,Pothole Repair,RoadCare,4.6,Foggy
+615000000,Sipsu - Samtse Highway,secondary,SNH7,0,88,Good,18,6,Medium,9,Waterlogging,Low,9442,193473,201165,Pothole Repair,RoadCare,3.4,Sunny
+615000000,Sipsu - Samtse Highway,secondary,SNH7,0,84,Good,16,6,Low,8,Broken Divider,Medium,2589,53160,45643,Divider Repair,SafeHighway,4.7,Cloudy
+615000000,Sipsu - Samtse Highway,secondary,SNH7,0,60,Average,0,11,High,18,Cracks,High,2098,444016,244773,Pothole Repair,UrbanTrack,4.5,Cloudy
+615000000,Sipsu - Samtse Highway,secondary,SNH7,0,23,Poor,13,12,High,5,Broken Divider,Low,3509,264934,47401,Pothole Repair,Bhutan Infra,3.1,Cloudy
+615000000,Sipsu - Samtse Highway,secondary,SNH7,0,54,Average,0,10,Low,8,Waterlogging,High,309,213868,371092,Resurfacing,RoadCare,4.1,Sunny
+615000000,Sipsu - Samtse Highway,secondary,SNH7,0,67,Average,11,14,High,5,Broken Divider,Low,9202,307903,289615,Divider Repair,UrbanTrack,2.9,Sunny
+615000000,Sipsu - Samtse Highway,secondary,SNH7,0,39,Poor,12,0,Low,13,Waterlogging,High,7999,143351,34964,Divider Repair,RoadCare,4.4,Foggy
+615000000,Chazam - Trashiyangtse Highway,primary,PNH12,0,27,Poor,6,11,Low,19,Broken Divider,Low,5281,278330,242352,Resurfacing,Bhutan Infra,2.7,Sunny
+615000000,Sarpang - Wangdue Highway,primary,PNH 5,0,85,Good,11,8,Low,17,Broken Divider,Low,4395,298948,359097,Resurfacing,Bhutan Infra,4.7,Foggy
+615000000,Sarpang - Wangdue Highway,primary,PNH 5,0,29,Poor,18,5,Low,13,Broken Divider,Low,5702,76201,370905,Resurfacing,SafeHighway,3.6,Foggy
+615000000,Sarpang - Wangdue Highway,primary,PNH 5,0,21,Poor,13,9,Low,21,Pothole,Medium,7963,344408,118338,Resurfacing,Bhutan Infra,4.1,Foggy
+615000000,Sarpang - Wangdue Highway,primary,PNH 5,0,26,Poor,14,6,High,23,Waterlogging,High,4979,94037,242438,Divider Repair,RoadCare,4.5,Cloudy
+615000000,Chunzom - Paro Highway,tertiary,PNH 6,0,79,Good,1,8,Low,7,Broken Divider,Medium,4870,325060,188493,Pothole Repair,SafeHighway,2.7,Sunny
+615000000,Chunzom - Paro Highway,primary,PNH 6,0,43,Average,7,8,High,10,Pothole,Medium,4743,329044,193982,Resurfacing,Bhutan Infra,2.6,Sunny
+615000000,Chunzom - Paro Highway,primary,PNH 6,0,84,Good,16,3,Low,15,Pothole,Medium,6658,493969,375927,Pothole Repair,UrbanTrack,2.8,Foggy
+615000000,Thimphu to Phuentsholing Highway,primary,AH-48,0,93,Good,18,2,Medium,15,Waterlogging,Low,1590,102127,29883,Resurfacing,UrbanTrack,3.2,Rainy
+615000000,Thimphu to Phuentsholing Highway,primary,AH-48,0,57,Average,5,9,High,22,Waterlogging,High,4733,203735,327201,Resurfacing,RoadCare,4,Rainy
+615000000,Thimphu to Phuentsholing Highway,primary,AH-48,0,31,Poor,20,2,Low,0,Waterlogging,High,9033,101043,282200,Resurfacing,UrbanTrack,4.2,Cloudy
+615000000,Thimphu to Phuentsholing Highway,primary,AH-48,0,58,Average,3,1,Low,16,Waterlogging,High,3935,476530,351538,Divider Repair,UrbanTrack,3.6,Foggy
+615000000,Thimphu to Phuentsholing Highway,primary,AH-48,0,66,Average,5,8,Medium,7,Pothole,High,659,438715,211092,Pothole Repair,UrbanTrack,4.2,Rainy
+615000000,Thimphu to Phuentsholing Highway,primary,AH-48,0,69,Average,15,11,High,20,Pothole,Low,7603,101094,60037,Divider Repair,UrbanTrack,3.9,Foggy
+615000000,amochu,primary,AH-48,0,54,Average,4,3,High,7,Pothole,High,5135,429726,26544,Resurfacing,Bhutan Infra,3.7,Cloudy
+616000000,Mongar Lhuntse Highway,secondary,SNH3,0,55,Average,13,4,Medium,13,Waterlogging,Low,7395,414093,204462,Divider Repair,SafeHighway,3.3,Sunny
+619000000,N Samdhen Zhung Lam,primary,PNH 4,0,83,Good,7,9,Medium,22,Waterlogging,High,9007,445744,311794,Pothole Repair,Bhutan Infra,4.9,Rainy
+620000000,Tingtibi - Panbang Highway,primary,PNH10,0,71,Good,5,15,Low,2,Waterlogging,Low,6784,393704,77916,Pothole Repair,RoadCare,4.9,Sunny
+621000000,Tingtibi - Panbang Highway,primary,PNH10,0,72,Good,19,0,High,13,Cracks,Low,7534,158005,320648,Pothole Repair,RoadCare,4.4,Foggy
+621000000,Tingtibi - Panbang Highway,primary,PNH10,0,89,Good,17,2,High,16,Waterlogging,Low,3266,79824,97990,Resurfacing,SafeHighway,4.1,Sunny
+621000000,Tingtibi - Panbang Highway,primary,PNH10,0,28,Poor,4,10,Low,20,Waterlogging,High,4638,202428,205336,Pothole Repair,UrbanTrack,4.8,Sunny
+621000000,Tingtibi - Panbang Highway,primary,PNH10,0,93,Good,0,7,Medium,23,Broken Divider,Medium,3352,261955,245099,Resurfacing,UrbanTrack,3.2,Rainy
+622000000,Tingtibi - Panbang Highway,primary,PNH10,0,21,Poor,14,6,Medium,22,Pothole,Medium,924,238333,156655,Resurfacing,SafeHighway,4.3,Cloudy
+622000000,Tingtibi - Panbang Highway,primary,PNH10,0,73,Good,17,6,Low,1,Cracks,Medium,9192,206128,86406,Pothole Repair,RoadCare,4.9,Foggy
+622000000,Sangsari,primary,PNH10,0,81,Good,16,2,Medium,5,Pothole,Low,2771,266849,208408,Pothole Repair,RoadCare,2.6,Cloudy
+622000000,Tingtibi - Panbang Highway,primary,PNH10,0,24,Poor,12,11,High,11,Broken Divider,High,3208,206759,15944,Divider Repair,UrbanTrack,4.7,Sunny
+622000000,Rendibi Bridge,primary,PNH10,0,67,Average,20,2,Low,17,Pothole,Medium,5940,148201,390514,Divider Repair,SafeHighway,3.6,Sunny
+622000000,Gelephu - Trongsa Highway,primary,PNH 4,0,95,Good,6,6,Low,22,Cracks,Low,2765,186714,180490,Divider Repair,Bhutan Infra,3.2,Rainy
+623000000,Gelephu - Trongsa Highway,primary,PNH 4,0,32,Poor,5,7,High,8,Pothole,Low,2139,284839,272332,Divider Repair,RoadCare,4.7,Rainy
+623000000,Gelephu - Trongsa Highway,primary,PNH 4,0,68,Average,3,4,High,5,Cracks,Medium,4874,331953,190527,Resurfacing,RoadCare,2.6,Rainy
+623000000,Gelephu - Trongsa Highway,primary,PNH 4,0,36,Poor,5,6,High,6,Waterlogging,Low,9414,266190,80464,Divider Repair,RoadCare,3.2,Cloudy
+623000000,Gelephu - Trongsa Highway,primary,PNH 4,0,44,Average,7,2,High,12,Waterlogging,Medium,7926,156742,167004,Divider Repair,RoadCare,4.3,Sunny
+624000000,Gelephu - Trongsa Highway,primary,PNH 4,0,22,Poor,3,1,High,10,Cracks,High,1501,278575,279002,Resurfacing,Bhutan Infra,3,Cloudy
+626000000,Sarpang - Wangdue Highway,primary,PNH 5,0,82,Good,11,8,High,1,Broken Divider,High,7928,275884,23770,Resurfacing,RoadCare,3,Sunny
+626000000,Sarpang - Wangdue Highway,primary,PNH 5,0,38,Poor,16,14,Low,10,Broken Divider,High,7812,304604,73088,Divider Repair,UrbanTrack,3.8,Rainy
+626000000,Sarpang - Wangdue Highway,primary,PNH 5,0,91,Good,8,4,Low,8,Cracks,Low,622,371437,391338,Pothole Repair,UrbanTrack,2.7,Sunny
+631000000,Sarpang - Wangdue Highway,primary,PNH 5,0,50,Average,1,2,Medium,8,Waterlogging,High,7793,397890,39110,Resurfacing,Bhutan Infra,5,Foggy
+631000000,Sarpang - Wangdue Highway,primary,PNH 5,0,37,Poor,20,9,High,19,Broken Divider,Low,7802,62759,189503,Divider Repair,UrbanTrack,2.7,Rainy
+639000000,Damchu-Chukha Bypass,primary,AH-48,0,39,Poor,3,9,Medium,10,Cracks,Medium,7073,325340,191629,Divider Repair,Bhutan Infra,2.9,Sunny
+639000000,Thimphu to Phuentsholing Highway,primary,AH-48,0,38,Poor,6,3,Low,4,Cracks,High,7502,387806,96781,Divider Repair,UrbanTrack,5,Sunny
+641000000,Gelephu - Trongsa Highway,primary,PNH 4,0,25,Poor,5,1,Low,10,Waterlogging,Medium,8683,374424,393323,Pothole Repair,UrbanTrack,2.8,Rainy
+641000000,Gelephu - Trongsa Highway,primary,PNH 4,0,94,Good,16,11,Medium,11,Broken Divider,High,216,434477,112945,Pothole Repair,Bhutan Infra,3,Sunny
+665000000,Khamtoe Lam SE,primary,PNH 1,0,29,Poor,0,11,Medium,25,Cracks,Low,9763,446263,82699,Resurfacing,UrbanTrack,4.1,Cloudy
+666000000,Punakha - Gasa,secondary,SNH5,0,49,Average,3,3,Medium,18,Pothole,Medium,5234,442637,218528,Divider Repair,RoadCare,3.6,Rainy
+666000000,Sarpang - Wangdue Highway,primary,PNH 5,0,31,Poor,19,5,Medium,16,Pothole,High,1735,161982,339054,Resurfacing,Bhutan Infra,4.5,Sunny
+666000000,Sarpang - Wangdue Highway,primary,PNH 5,0,74,Good,17,4,Low,18,Pothole,Low,4720,60505,105582,Divider Repair,UrbanTrack,4,Rainy
+666000000,Tingtibi - Panbang Highway,primary,PNH10,0,34,Poor,8,10,Low,8,Waterlogging,Medium,5678,415035,366996,Divider Repair,SafeHighway,4.2,Cloudy
+666000000,Gelephu - Trongsa Highway,primary,PNH 4,0,82,Good,4,8,Medium,21,Cracks,Medium,3221,183355,179345,Divider Repair,SafeHighway,4.2,Cloudy
+666000000,Gelephu - Trongsa Highway,primary,PNH 4,0,68,Average,18,6,High,9,Pothole,High,9296,444546,70535,Resurfacing,SafeHighway,4.6,Cloudy
+666000000,Gelephu - Trongsa Highway,primary,PNH 4,0,24,Poor,16,5,High,16,Broken Divider,Low,832,170480,224426,Resurfacing,SafeHighway,4.6,Foggy
+667000000,Wangdi-Trongsa Highway,primary,PNH 1,0,36,Poor,0,2,High,15,Pothole,Medium,9790,360452,161159,Pothole Repair,UrbanTrack,2.7,Foggy
+667000000,Wangdi-Trongsa Highway,primary,PNH 1,0,82,Good,8,11,Low,7,Broken Divider,Medium,6172,181677,324007,Pothole Repair,UrbanTrack,2.8,Rainy
+668000000,Bondey - Haa Highway,primary,SNH6,0,82,Good,19,11,High,23,Waterlogging,Medium,9950,456952,67904,Resurfacing,RoadCare,4.8,Rainy
+668000000,Bondey - Haa Highway,primary,SNH6,0,88,Good,20,0,Low,4,Cracks,Low,4493,301768,307203,Resurfacing,Bhutan Infra,3.9,Rainy
+669000000,Bondey - Haa Highway,primary,SNH6,0,69,Average,5,4,High,19,Waterlogging,High,5887,338539,364640,Resurfacing,Bhutan Infra,4.1,Cloudy
+669000000,Gelephu - Trongsa Highway,primary,PNH 4,0,79,Good,20,10,Low,24,Waterlogging,Medium,6956,365807,356609,Divider Repair,Bhutan Infra,2.6,Rainy
+685000000,Wangchhu Lam SE,trunk,AH-48,50,27,Poor,19,2,High,11,Cracks,Medium,9413,372576,300283,Pothole Repair,UrbanTrack,3.4,Sunny
+692000000,Gelephu - Trongsa Highway,primary,PNH 4,0,66,Average,10,1,High,13,Pothole,Medium,2251,209932,216628,Divider Repair,RoadCare,4.7,Sunny
+693000000,Semtokha Lam,primary,PNH 1,0,25,Poor,6,3,High,23,Broken Divider,Low,2513,62824,295063,Resurfacing,SafeHighway,4,Cloudy
+693000000,Tingchhu Lam,primary,PNH 1,0,72,Good,6,4,Low,17,Waterlogging,High,2004,343441,355764,Pothole Repair,SafeHighway,3.1,Rainy
+693000000,Khamtoe Lam SE,primary,PNH 1,0,37,Poor,14,6,High,12,Waterlogging,Low,173,126595,388259,Pothole Repair,UrbanTrack,4,Cloudy
+693000000,Tingchhu Lam,primary,PNH 1,0,94,Good,8,8,Medium,4,Waterlogging,Medium,2822,207860,324774,Pothole Repair,SafeHighway,4.8,Sunny
+693000000,Tingchhu Lam,primary,PNH 1,0,52,Average,9,5,Low,19,Waterlogging,Low,8773,173508,159768,Divider Repair,Bhutan Infra,3.5,Rainy
+693000000,Khamtoe Lam SE,primary,PNH 1,0,39,Poor,11,13,High,4,Waterlogging,High,3368,139637,341648,Resurfacing,Bhutan Infra,3.2,Sunny
+693000000,Sipsu - Samtse Highway,secondary,SNH7,0,81,Good,12,14,Low,25,Cracks,Low,9550,444820,20388,Resurfacing,SafeHighway,3.6,Rainy
+697000000,Gelephu - Trongsa Highway,primary,PNH 4,0,37,Poor,12,2,Medium,3,Waterlogging,Low,9865,86104,278287,Divider Repair,RoadCare,5,Foggy
+697000000,Gelephu - Trongsa Highway,primary,PNH 4,0,46,Average,15,0,High,23,Waterlogging,Medium,7831,409679,327192,Resurfacing,Bhutan Infra,3.7,Cloudy
+697000000,Gelephu - Trongsa Highway,primary,PNH 4,0,57,Average,11,10,Medium,24,Cracks,Medium,1516,208058,64493,Divider Repair,UrbanTrack,4.7,Cloudy
+697000000,Gelephu - Trongsa Highway,primary,PNH 4,0,51,Average,19,12,High,2,Waterlogging,Medium,6229,178439,201291,Divider Repair,RoadCare,4.3,Cloudy
+699000000,Chazam - Trashiyangtse Highway,primary,PNH12,0,37,Poor,3,2,Low,20,Waterlogging,Medium,8527,450153,91190,Resurfacing,SafeHighway,4.2,Sunny
+699000000,Mongar Lhuntse Highway,secondary,SNH3,0,45,Average,4,3,Medium,21,Pothole,Medium,9383,425080,368357,Resurfacing,SafeHighway,3.4,Rainy
+699000000,Mongar Lhuntse Highway,secondary,SNH3,0,24,Poor,20,11,Medium,21,Waterlogging,Low,2686,485278,319303,Divider Repair,RoadCare,3.8,Cloudy
+699000000,Mongar Lhuntse Highway,secondary,SNH3,0,88,Good,7,10,Low,8,Pothole,Low,9693,108733,10827,Pothole Repair,Bhutan Infra,3.4,Foggy
+699000000,Mongar Lhuntse Highway,secondary,SNH3,0,20,Poor,4,7,Low,6,Cracks,High,5244,265555,368948,Divider Repair,SafeHighway,3,Cloudy
+699000000,Gelephu - Trongsa Highway,primary,PNH 4,0,57,Average,12,13,Low,25,Broken Divider,High,966,56944,311822,Divider Repair,UrbanTrack,3.3,Sunny
+699000000,Gelephu - Trongsa Highway,primary,PNH 4,0,38,Poor,6,12,High,9,Waterlogging,High,8995,465685,118988,Resurfacing,SafeHighway,4.5,Cloudy
+784000000,Thimphu to Phuentsholing Highway,trunk,AH-48,0,30,Poor,8,2,Medium,11,Waterlogging,Medium,5251,315365,244912,Resurfacing,SafeHighway,4.6,Foggy
+784000000,Thimphu to Phuentsholing Highway,trunk,AH-48,0,46,Average,7,2,High,25,Pothole,Medium,5558,62619,72657,Resurfacing,Bhutan Infra,2.8,Sunny
+804000000,S Doebum Lam,trunk,AH-48,50,41,Average,5,4,Low,1,Cracks,High,1511,403831,15549,Resurfacing,RoadCare,4.3,Rainy
+804000000,S Doebum Lam,trunk,AH-48,50,52,Average,16,3,High,7,Pothole,Low,3461,170619,54192,Resurfacing,RoadCare,4.6,Foggy
+804000000,S Doebum Lam,trunk,AH-48,0,84,Good,20,9,Medium,24,Cracks,Medium,7498,82548,88170,Divider Repair,Bhutan Infra,3.9,Sunny
+854000000,Chuzom-Haa Highway,primary,PNH 7,0,48,Average,17,9,High,18,Waterlogging,Low,3776,206154,159368,Pothole Repair,Bhutan Infra,2.9,Rainy
+854000000,Chuzom-Haa Highway,primary,PNH 7,0,65,Average,14,1,Medium,10,Cracks,Low,1418,289132,104364,Resurfacing,UrbanTrack,4.8,Sunny
+854000000,Chuzom-Haa Highway,primary,PNH 7,0,55,Average,2,15,Medium,10,Waterlogging,High,8539,77391,306611,Resurfacing,SafeHighway,3.6,Sunny
+854000000,Chuzom-Haa Highway,primary,PNH 7,0,46,Average,20,13,Low,2,Waterlogging,Medium,5553,96099,380646,Resurfacing,Bhutan Infra,4.5,Sunny
+854000000,Chuzom-Haa Highway,primary,PNH 7,0,43,Average,19,10,Medium,21,Broken Divider,High,5133,405735,120103,Divider Repair,UrbanTrack,3.4,Rainy
+854000000,Chuzom-Haa Highway,primary,PNH 7,0,85,Good,10,2,Low,25,Broken Divider,Medium,9040,386221,26722,Divider Repair,SafeHighway,4.3,Cloudy
+855000000,Thimphu to Phuentsholing Highway,primary,AH-48,0,26,Poor,10,12,Low,4,Waterlogging,High,8343,229099,360264,Resurfacing,Bhutan Infra,3.2,Sunny
+855000000,Thimphu to Phuentsholing Highway,primary,AH-48,0,34,Poor,5,4,Low,5,Broken Divider,Low,5705,279241,138870,Resurfacing,SafeHighway,4.1,Foggy
+855000000,Thimphu to Phuentsholing Highway,primary,AH-48,0,38,Poor,6,9,High,16,Broken Divider,High,1633,337863,172064,Resurfacing,RoadCare,4.3,Sunny
+855000000,Thimphu to Phuentsholing Highway,primary,AH-48,0,68,Average,12,1,Medium,5,Waterlogging,Medium,8148,102086,152373,Pothole Repair,RoadCare,4.5,Cloudy
+908000000,Gelephu - Trongsa Highway,primary,PNH 4,0,87,Good,1,15,Low,1,Pothole,High,6371,319536,285374,Divider Repair,UrbanTrack,3.3,Rainy
+908000000,Gelephu - Trongsa Highway,primary,PNH 4,0,63,Average,16,1,Low,13,Broken Divider,Low,7252,255488,39404,Divider Repair,Bhutan Infra,4.5,Foggy
+908000000,Gelephu - Trongsa Highway,primary,PNH 4,0,45,Average,10,7,Medium,3,Broken Divider,Low,5373,111841,143833,Resurfacing,RoadCare,4.1,Sunny
+908000000,Gelephu - Trongsa Highway,primary,PNH 4,0,33,Poor,19,9,Low,22,Waterlogging,High,6427,234852,316151,Pothole Repair,SafeHighway,4.5,Foggy
+908000000,Gelephu - Trongsa Highway,primary,PNH 4,0,89,Good,18,12,Low,2,Pothole,Low,8491,430703,321783,Resurfacing,SafeHighway,3.5,Cloudy
+908000000,Gelephu - Trongsa Highway,primary,PNH 4,0,54,Average,20,7,Medium,25,Pothole,Medium,3693,51538,239370,Resurfacing,SafeHighway,4.8,Sunny
+908000000,Gelephu - Trongsa Highway,primary,PNH 4,0,69,Average,12,15,Medium,16,Waterlogging,High,3271,352658,91800,Pothole Repair,SafeHighway,3.2,Cloudy
+908000000,Gelephu - Trongsa Highway,primary,PNH 4,0,33,Poor,6,3,Medium,2,Broken Divider,High,583,209712,97323,Resurfacing,RoadCare,3.1,Rainy
+908000000,Gelephu - Trongsa Highway,primary,PNH 4,0,64,Average,0,6,Low,17,Pothole,Medium,9752,61376,106167,Divider Repair,UrbanTrack,3.2,Rainy
+908000000,Gelephu - Trongsa Highway,primary,PNH 4,0,93,Good,15,7,Low,3,Broken Divider,Low,7075,283088,111917,Resurfacing,UrbanTrack,3.6,Foggy
+908000000,Gelephu - Trongsa Highway,primary,PNH 4,0,84,Good,12,4,Low,21,Waterlogging,High,2089,232811,27748,Pothole Repair,Bhutan Infra,3.8,Foggy
+908000000,Gelephu - Trongsa Highway,primary,PNH 4,0,59,Average,12,6,Medium,16,Waterlogging,Medium,3930,194631,88790,Pothole Repair,RoadCare,3.7,Sunny
+908000000,Gelephu - Trongsa Highway,primary,PNH 4,0,90,Good,1,1,Low,1,Waterlogging,Low,7278,480340,265253,Pothole Repair,RoadCare,2.7,Rainy
+908000000,Gelephu - Trongsa Highway,primary,PNH 4,0,49,Average,3,4,Low,18,Cracks,High,3944,291520,350120,Pothole Repair,Bhutan Infra,4.2,Rainy
+908000000,Gelephu - Trongsa Highway,primary,PNH 4,0,69,Average,9,4,High,0,Broken Divider,Medium,584,127474,172698,Pothole Repair,RoadCare,3.7,Cloudy
+908000000,Gelephu - Trongsa Highway,primary,PNH 4,0,65,Average,6,11,Low,6,Broken Divider,Medium,5780,450994,303456,Divider Repair,Bhutan Infra,3.8,Cloudy
+908000000,Gelephu - Trongsa Highway,primary,PNH 4,0,36,Poor,5,3,Medium,20,Cracks,High,5290,428484,219632,Resurfacing,RoadCare,2.6,Sunny
+908000000,Gelephu - Trongsa Highway,primary,PNH 4,0,81,Good,13,12,Medium,4,Cracks,High,4172,74332,324288,Resurfacing,RoadCare,4.6,Cloudy
+908000000,Gelephu - Trongsa Highway,primary,PNH 4,0,78,Good,14,7,Medium,15,Pothole,Medium,6503,492578,37794,Divider Repair,Bhutan Infra,2.8,Rainy
+909000000,Gelephu - Trongsa Highway,primary,PNH 4,0,76,Good,20,5,Low,15,Broken Divider,Low,6803,57487,12410,Pothole Repair,SafeHighway,3.3,Rainy
+909000000,Gelephu - Trongsa Highway,primary,PNH 4,0,69,Average,5,6,Medium,8,Cracks,High,5856,253028,130929,Divider Repair,UrbanTrack,3.2,Cloudy
+909000000,Gelephu - Trongsa Highway,primary,PNH 4,0,70,Average,3,15,Medium,23,Cracks,High,2795,346063,154347,Resurfacing,SafeHighway,3.6,Cloudy
+909000000,Gelephu - Trongsa Highway,primary,PNH 4,0,31,Poor,2,0,High,0,Waterlogging,Low,3021,407688,107868,Pothole Repair,UrbanTrack,4.4,Sunny
+909000000,Gelephu - Trongsa Highway,primary,PNH 4,0,69,Average,10,3,Medium,24,Pothole,Low,8051,279596,51993,Resurfacing,SafeHighway,2.9,Cloudy
+909000000,Gelephu - Trongsa Highway,primary,PNH 4,0,69,Average,19,3,Low,7,Waterlogging,Low,9047,480845,364531,Divider Repair,Bhutan Infra,3,Cloudy
+909000000,Gelephu - Trongsa Highway,primary,PNH 4,0,32,Poor,9,14,Medium,14,Broken Divider,Medium,5922,318557,295161,Divider Repair,SafeHighway,3.4,Rainy
+909000000,Gelephu - Trongsa Highway,primary,PNH 4,0,84,Good,15,4,Medium,7,Pothole,High,5308,89498,204820,Resurfacing,RoadCare,3.3,Cloudy
+909000000,Gelephu - Trongsa Highway,primary,PNH 4,0,41,Average,15,7,Low,5,Pothole,Low,3874,474073,298734,Pothole Repair,Bhutan Infra,2.8,Foggy
+909000000,Gelephu - Trongsa Highway,primary,PNH 4,0,39,Poor,19,15,Low,6,Cracks,Low,2206,422950,166204,Resurfacing,UrbanTrack,3.7,Sunny
+909000000,Gelephu - Trongsa Highway,primary,PNH 4,0,67,Average,2,0,Medium,19,Cracks,Low,357,264293,382063,Divider Repair,SafeHighway,3.9,Sunny
+909000000,Gelephu - Trongsa Highway,primary,PNH 4,0,27,Poor,14,14,Medium,21,Cracks,Low,875,373084,326865,Resurfacing,RoadCare,4.9,Rainy
+909000000,Gelephu - Trongsa Highway,primary,PNH 4,0,53,Average,7,4,High,20,Pothole,Medium,9199,86154,282215,Resurfacing,Bhutan Infra,5,Cloudy
+909000000,Gelephu - Trongsa Highway,primary,PNH 4,0,25,Poor,19,7,Medium,10,Broken Divider,High,9574,332103,285278,Divider Repair,SafeHighway,4.9,Cloudy
+910000000,Gelephu - Trongsa Highway,primary,PNH 4,0,30,Poor,11,0,Low,11,Broken Divider,High,6619,257541,287935,Resurfacing,Bhutan Infra,2.5,Rainy
+910000000,Gelephu - Trongsa Highway,primary,PNH 4,0,20,Poor,13,14,Medium,24,Broken Divider,High,6244,272242,194928,Pothole Repair,UrbanTrack,3.8,Cloudy
+910000000,Tingtibi - Panbang Highway,primary,PNH10,0,67,Average,15,9,High,8,Pothole,Low,9048,471149,342717,Divider Repair,SafeHighway,3.2,Cloudy
+910000000,Tingtibi - Panbang Highway,primary,PNH10,0,65,Average,19,12,Low,24,Pothole,High,9626,306096,121183,Resurfacing,Bhutan Infra,3.4,Rainy
+910000000,Sipsu - Samtse Highway,secondary,SNH7,0,41,Average,13,7,Medium,3,Broken Divider,High,979,197167,274503,Pothole Repair,Bhutan Infra,4.5,Rainy
+910000000,Sipsu - Samtse Highway,secondary,SNH7,0,89,Good,16,4,Low,11,Cracks,High,7580,213443,325384,Pothole Repair,SafeHighway,2.7,Foggy
+910000000,Gelephu - Trongsa Highway,primary,PNH 4,0,82,Good,9,3,High,19,Broken Divider,Low,1576,160967,60344,Resurfacing,SafeHighway,3.5,Foggy
+910000000,GC road,tertiary,1,0,45,Average,20,8,High,13,Cracks,Low,9638,165631,92075,Divider Repair,SafeHighway,3.1,Sunny
+910000000,Korphu Chiwog Road,tertiary,1,0,61,Average,1,8,Low,20,Broken Divider,Low,6122,87752,137745,Resurfacing,Bhutan Infra,3.2,Foggy
+911000000,Gelephu - Trongsa Highway,primary,PNH 4,0,92,Good,19,0,High,19,Broken Divider,Low,6864,420554,222495,Pothole Repair,SafeHighway,2.9,Foggy
+911000000,Trongsa-Bumthang Highway,primary,PNH 1,0,86,Good,14,13,Low,18,Cracks,Medium,8633,94084,262774,Pothole Repair,RoadCare,2.9,Foggy
+911000000,Trongsa-Bumthang Highway,primary,PNH 1,0,63,Average,20,2,Medium,12,Broken Divider,Medium,2921,423192,56006,Divider Repair,Bhutan Infra,4.2,Foggy
+911000000,Trongsa-Bumthang Highway,primary,PNH 1,0,29,Poor,14,5,Medium,1,Cracks,Medium,1347,65241,304293,Pothole Repair,UrbanTrack,2.7,Cloudy
+911000000,Trongsa-Bumthang Highway,primary,PNH 1,0,43,Average,20,0,High,15,Waterlogging,High,5405,325790,44219,Pothole Repair,UrbanTrack,4.4,Sunny
+911000000,Gelephu - Trongsa Highway,primary,PNH 4,0,70,Average,2,8,Medium,17,Cracks,Medium,1922,450160,162720,Pothole Repair,UrbanTrack,3.1,Foggy
+911000000,Gelephu - Trongsa Highway,primary,PNH 4,0,21,Poor,17,14,Low,24,Broken Divider,Low,8439,406230,254582,Resurfacing,Bhutan Infra,2.5,Rainy
+911000000,Gelephu - Trongsa Highway,primary,PNH 4,0,27,Poor,2,6,High,6,Broken Divider,Medium,6500,235917,396401,Resurfacing,RoadCare,3.6,Foggy
+911000000,Threasa Zam (Lower),primary,PNH 4,0,61,Average,17,8,Low,19,Waterlogging,Medium,8911,422858,20397,Resurfacing,Bhutan Infra,3.7,Sunny

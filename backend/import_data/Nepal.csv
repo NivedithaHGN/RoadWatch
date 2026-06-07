@@ -1,0 +1,400 @@
+osm_id,road_name,road_type,ref,maxspeed,road_health_score,road_condition,potholes_count,accident_count,accident_severity,complaints_count,complaint_type,traffic_density,vehicle_count,allocated_budget_usd,spent_budget_usd,maintenance_type,contractor_name,contractor_rating,weather_condition
+4840304,Kathmandu Ringroad,trunk,NH39,40,20,Poor,7,2,Low,15,Waterlogging,Low,7536,295233,158513,Divider Repair,Nepal Infra,3.2,Foggy
+4847083,Bhaktapur  Nagarkot,primary,F28,0,71,Good,18,3,High,24,Cracks,High,5273,122976,390654,Resurfacing,RoadCare,4.7,Sunny
+4847094,Araniko Highway,trunk,NH34,80,50,Average,10,7,High,0,Broken Divider,High,7435,192565,94818,Pothole Repair,RoadCare,4.3,Rainy
+23407651,.9G(M&M0 0>M.>0MM,trunk,NH01,0,55,Average,6,3,Low,23,Cracks,Low,9723,128817,295423,Resurfacing,SafeHighway,4.8,Cloudy
+23847607,.9G(M&M0 0>M.>0MM,trunk,NH01,0,39,Poor,1,0,High,23,Waterlogging,Medium,8697,433703,150035,Divider Repair,UrbanTrack,3.1,Rainy
+23847667,.9G(M&M0 0>M.>0MM,trunk,NH01,0,33,Poor,17,10,Low,10,Broken Divider,High,903,449320,243487,Divider Repair,SafeHighway,2.9,Rainy
+24613048,Siddhartha Rajmarg,trunk,NH47,0,89,Good,7,0,High,3,Cracks,Low,9143,131333,112253,Pothole Repair,SafeHighway,4.2,Sunny
+24613051,17,residential,17,30,20,Poor,16,7,High,2,Pothole,Low,4686,146950,149767,Resurfacing,UrbanTrack,4.4,Cloudy
+24613058,Pokhara Baglung Highway,trunk,F42,0,22,Poor,7,15,Medium,22,Waterlogging,High,5829,193662,75507,Resurfacing,RoadCare,4.6,Foggy
+24622135,16,residential,16,0,81,Good,18,15,High,23,Waterlogging,Low,5748,230570,184953,Resurfacing,Nepal Infra,3.7,Rainy
+24622137,13,residential,13,0,52,Average,16,14,High,0,Broken Divider,High,6465,390954,126324,Pothole Repair,Nepal Infra,2.8,Sunny
+24623131,Bhurjung Khola Marg,secondary,40DR009,0,49,Average,0,4,High,23,Waterlogging,Low,7372,208256,279979,Pothole Repair,UrbanTrack,3.3,Rainy
+24652361,Prithivi Highway,trunk,NH17,0,43,Average,5,4,High,1,Waterlogging,Medium,5657,107302,184291,Resurfacing,RoadCare,3.2,Rainy
+24666851,Prithvi Rajmarga,trunk,NH17,0,58,Average,10,5,High,10,Waterlogging,High,3867,262149,227329,Pothole Repair,UrbanTrack,3.4,Sunny
+24667319,"0,?-5( 8!",trunk,NH41,30,74,Good,14,7,Low,9,Broken Divider,Medium,4999,181796,126918,Pothole Repair,SafeHighway,2.7,Foggy
+24684520,",>2>A .>> *K0@ - ,>*>8",primary,NH18,0,72,Good,13,9,Medium,16,Pothole,High,2758,413708,272544,Resurfacing,RoadCare,4.9,Rainy
+24691222,#G6.>( 8?9 *%,trunk,NH41,30,49,Average,14,3,High,16,Broken Divider,Low,3379,147008,282347,Resurfacing,UrbanTrack,2.6,Rainy
+24691223,#G6.>( 8?9 *%,trunk,NH41,30,77,Good,14,8,High,5,Cracks,Medium,6271,310781,68111,Resurfacing,SafeHighway,3.6,Cloudy
+24719060,Khaireni-Gorkha Highway,primary,NH44,0,81,Good,1,13,Low,3,Waterlogging,Medium,6796,263333,213254,Pothole Repair,SafeHighway,3.4,Sunny
+24811176,Prithvi Highway,trunk,NH17,0,84,Good,17,2,High,14,Cracks,Low,3546,224484,306893,Pothole Repair,SafeHighway,3.9,Rainy
+24811177,Seti Bridge,trunk,NH17,0,85,Good,18,7,Medium,16,Cracks,Medium,796,365960,10776,Pothole Repair,SafeHighway,4.2,Rainy
+24811305,Prithvi Highway,trunk,NH17,0,35,Poor,10,13,Medium,11,Waterlogging,Medium,1131,266828,334319,Pothole Repair,Nepal Infra,3.9,Foggy
+24811306,Prithvi Highway,trunk,NH17,0,56,Average,17,15,High,25,Broken Divider,Medium,1913,268387,32698,Pothole Repair,RoadCare,3.8,Cloudy
+25512375,Araniko Highway,trunk,NH34,0,22,Poor,15,7,High,7,Broken Divider,High,4058,215880,132580,Resurfacing,SafeHighway,4.4,Cloudy
+25512380,Araniko Highway,trunk,NH34,0,73,Good,19,14,Low,1,Waterlogging,High,5754,88539,101456,Divider Repair,UrbanTrack,2.9,Foggy
+25512463,Pasang Lhamu Highway,primary,NH18,0,46,Average,0,14,High,3,Waterlogging,Low,7847,345822,299774,Pothole Repair,RoadCare,2.8,Sunny
+25512467,Pasang Lhamu Highway,primary,NH18,0,71,Good,20,7,Low,18,Cracks,High,3740,156941,271769,Divider Repair,SafeHighway,3.2,Cloudy
+25512472,*>8> 2M9>.A 0>.0M,primary,NH18,0,80,Good,2,4,Low,4,Waterlogging,Medium,3764,413215,323652,Pothole Repair,UrbanTrack,3.2,Foggy
+25512537,Araniko Highway,trunk,NH34,0,27,Poor,15,1,High,21,Waterlogging,Medium,6958,429517,249809,Pothole Repair,Nepal Infra,4.5,Foggy
+26770500,Dumre-Besishahar,secondary,NH25,0,35,Poor,0,3,High,8,Waterlogging,Low,4798,265710,194792,Pothole Repair,Nepal Infra,4.9,Rainy
+26787324,Birethanti-Chane,tertiary,40DR001,20,88,Good,13,6,Medium,7,Pothole,Low,6592,154279,291812,Resurfacing,UrbanTrack,4.5,Sunny
+26787325,Modi Khola Bridge,unclassified,40DR001,0,86,Good,20,7,Low,5,Pothole,Medium,2433,455107,250321,Divider Repair,SafeHighway,4,Sunny
+26923722,Besishahar - Manang Sadak,tertiary,NH25,0,93,Good,7,3,Low,17,Pothole,High,4161,330759,320025,Resurfacing,RoadCare,2.6,Cloudy
+26924112,Besishahar - Manang Sadak,tertiary,NH25,0,34,Poor,0,2,High,10,Cracks,High,4257,317540,244591,Resurfacing,RoadCare,3.3,Foggy
+26951332,Trishuli Bridge,trunk,NH17,0,89,Good,0,11,Medium,10,Waterlogging,Medium,1311,103607,254380,Divider Repair,SafeHighway,2.6,Cloudy
+26951334,Prithvi Rajmarg,trunk,NH17,0,34,Poor,6,6,Low,21,Broken Divider,Low,4889,207871,320404,Pothole Repair,UrbanTrack,4.5,Cloudy
+27021565,Siddhartha Highway,trunk,NH47,40,36,Poor,17,5,High,3,Broken Divider,High,4714,223415,241252,Resurfacing,Nepal Infra,3.6,Foggy
+27021572,Sidhartha Highway,trunk,NH47,0,57,Average,2,7,High,12,Broken Divider,High,6348,135300,357196,Resurfacing,Nepal Infra,5,Sunny
+27021587,Siddhartha Highway,trunk,NH47,0,78,Good,12,5,Medium,20,Broken Divider,Medium,8855,76065,32495,Divider Repair,UrbanTrack,3.4,Cloudy
+27021589,Siddhartha Rajmarg,trunk,NH47,0,44,Average,13,11,High,7,Waterlogging,High,5253,410365,85586,Divider Repair,UrbanTrack,3.9,Sunny
+27021590,Siddhartha Highway,trunk,NH47,0,86,Good,15,11,Low,20,Pothole,Low,4753,315161,355059,Resurfacing,SafeHighway,3.8,Sunny
+27030698,.9G(M&M0 0>M.>0MM,trunk,NH01,0,36,Poor,3,9,Low,6,Waterlogging,High,1615,382799,90700,Pothole Repair,Nepal Infra,3.1,Rainy
+27031162,.9G(M&M0 0>M.>0MM,trunk,NH01,0,94,Good,3,3,Low,10,Cracks,High,1761,187521,34424,Resurfacing,Nepal Infra,3.3,Cloudy
+27031533,Karnali Bridge,trunk,NH01,0,27,Poor,2,4,High,22,Waterlogging,High,5847,247161,20545,Resurfacing,SafeHighway,4.1,Cloudy
+27031895,.9G(M&M0 0>M.>0MM,trunk,NH01,0,74,Good,6,9,High,0,Broken Divider,High,1930,141913,316091,Pothole Repair,RoadCare,4.5,Sunny
+27031897,.9G(M&M0 0>M.>0MM,trunk,NH01,0,68,Average,3,12,Low,23,Cracks,Low,8162,89247,28416,Resurfacing,SafeHighway,4.7,Foggy
+27031898,.9G(M&M0 0>M.>0MM,trunk,NH01,0,46,Average,2,7,Low,8,Broken Divider,Medium,7029,59937,77693,Resurfacing,SafeHighway,4.6,Rainy
+27031899,.9G(M&M0 0>M.>0MM,trunk,NH01,0,54,Average,13,2,High,16,Waterlogging,High,2035,465266,64133,Pothole Repair,SafeHighway,5,Foggy
+27031901,.9G(M&M0 0>M.>0MM,trunk,NH01,0,33,Poor,19,8,High,17,Pothole,Medium,7137,80457,365379,Resurfacing,UrbanTrack,3.9,Cloudy
+27031902,.9G(M&M0 0>M.>0MM,trunk,NH01,0,59,Average,19,3,High,18,Broken Divider,High,8231,171942,246766,Divider Repair,UrbanTrack,5,Cloudy
+27031904,.9G(M&M0 0>M.>0MM,trunk,NH01,0,93,Good,19,14,High,17,Cracks,Medium,4492,361987,87524,Resurfacing,Nepal Infra,3.5,Foggy
+27031905,.9G(M&M0 0>M.>0MM,trunk,NH01,0,70,Average,20,4,Low,22,Broken Divider,Low,1417,342802,266663,Divider Repair,Nepal Infra,2.9,Cloudy
+27031906,.9G(M&M0 0>M.>0MM,trunk,NH01,0,62,Average,3,0,Medium,10,Pothole,Medium,6635,261466,150705,Resurfacing,UrbanTrack,4.6,Sunny
+27031907,.9G(M&M0 0>M.>0MM,trunk,NH01,0,82,Good,15,14,High,16,Cracks,Low,4532,220499,143794,Resurfacing,Nepal Infra,4.6,Rainy
+27031909,.9G(M&M0 0>M.>0MM,trunk,NH01,0,89,Good,9,6,Medium,13,Pothole,Medium,1075,175999,291190,Divider Repair,RoadCare,3.2,Sunny
+27032559,Siddhartha Highway,trunk,NH47,0,50,Average,16,13,High,17,Waterlogging,Low,8242,149962,89868,Divider Repair,RoadCare,4.9,Foggy
+27032645,8?&M'>0M% 0>.>0M,trunk,NH47,40,39,Poor,19,4,Low,16,Broken Divider,High,8280,164018,343699,Divider Repair,Nepal Infra,3.4,Foggy
+27032646,.9G(M&M0 0>M.>0MM,trunk,NH01,0,25,Poor,11,11,Low,1,Broken Divider,Medium,2669,86791,109250,Pothole Repair,RoadCare,2.7,Foggy
+27032647,.9G(M&M0 0>M.>0MM,trunk,NH01,0,66,Average,18,3,Low,25,Broken Divider,Low,776,493221,272114,Pothole Repair,SafeHighway,2.7,Foggy
+27032834,Prithvi Highway,trunk,NH17,0,91,Good,6,6,Low,7,Pothole,Medium,9368,133517,390087,Divider Repair,SafeHighway,3.3,Foggy
+27032839,Prithvi Highway,trunk,NH17,0,29,Poor,19,10,High,11,Waterlogging,Medium,1931,173712,210661,Pothole Repair,SafeHighway,4.7,Sunny
+27032883,Prithvi Rajmarg,trunk,NH17,0,37,Poor,6,4,High,16,Waterlogging,High,3317,358774,378807,Divider Repair,UrbanTrack,3.2,Rainy
+27033228,Pasang Lhamu Highway,primary,NH18,0,27,Poor,13,14,High,0,Pothole,Low,4323,432934,95955,Pothole Repair,UrbanTrack,2.5,Cloudy
+27033229,Pasang Lhamu Highway,primary,NH18,0,65,Average,20,14,Medium,16,Cracks,Low,9486,282265,144428,Resurfacing,SafeHighway,3.6,Rainy
+27033231,Pasang Lhamu Highway,primary,NH18,0,29,Poor,3,6,High,6,Cracks,High,8974,55655,258437,Divider Repair,UrbanTrack,4.4,Cloudy
+27033233,Pasang Lhamu Highway,primary,NH18,0,61,Average,20,2,Low,19,Waterlogging,Medium,5052,52658,270469,Pothole Repair,Nepal Infra,4.4,Cloudy
+27033235,Pasang Lhamu Highway,primary,NH18,0,48,Average,18,1,High,19,Pothole,Medium,3358,232661,24576,Resurfacing,Nepal Infra,3.5,Foggy
+27033237,Pasang Lhamu Highway,primary,NH42,0,44,Average,1,2,Low,12,Waterlogging,Low,2797,260025,258071,Pothole Repair,SafeHighway,4.3,Rainy
+27033733,Araniko Highway,trunk,NH34,80,65,Average,7,14,Low,20,Waterlogging,Medium,8706,466076,83099,Divider Repair,SafeHighway,4.2,Foggy
+27034031,.&( -#M!>0@ .>0M,trunk,NH34,0,87,Good,2,13,High,22,Waterlogging,High,2580,453404,273709,Divider Repair,Nepal Infra,3.4,Rainy
+27034169,K0*>@ 8!,primary,F26,0,65,Average,13,3,Low,6,Cracks,Medium,2387,286081,341072,Pothole Repair,SafeHighway,3.2,Cloudy
+27035197,Arniko Highway,trunk,NH34,0,55,Average,6,8,Medium,7,Waterlogging,Medium,3016,465500,254653,Divider Repair,SafeHighway,4.5,Sunny
+27035199,Araniko Rajmarg,trunk,NH34,0,87,Good,0,7,Low,0,Pothole,Low,8202,93154,323856,Pothole Repair,Nepal Infra,4.6,Sunny
+27035200,Araniko Rajmarg,trunk,NH34,0,40,Poor,18,8,Medium,10,Broken Divider,High,1859,360567,177654,Resurfacing,UrbanTrack,3.4,Rainy
+27106599,Jeep Road Beni-Lo Manthang,primary,NH48,0,35,Poor,11,8,Low,22,Pothole,Medium,7012,425969,394310,Divider Repair,SafeHighway,4.4,Foggy
+27106841,Road Beni - Jomsom,primary,NH48,0,70,Average,17,1,Low,2,Broken Divider,Medium,8126,428243,222095,Resurfacing,UrbanTrack,4.9,Foggy
+27705591,8M09>2/ .>0M,secondary,F75,0,33,Poor,13,9,Low,4,Broken Divider,Medium,1591,174859,88294,Divider Repair,Nepal Infra,4.7,Foggy
+27706053,Chunikhel Marg,unclassified,27DR029,0,71,Good,20,5,Low,16,Broken Divider,Low,3793,413901,325202,Pothole Repair,RoadCare,4.9,Rainy
+27706087,Chunikhel Marg,unclassified,27DR029,0,21,Poor,8,7,Medium,22,Pothole,High,9476,266733,298178,Divider Repair,SafeHighway,4.4,Rainy
+28832898,Dumre-Bandipur Road,secondary,F127,50,85,Good,1,4,Low,0,Waterlogging,Low,955,75948,276600,Divider Repair,RoadCare,4,Rainy
+28835829,Bharatpur-Mugling Highway,trunk,NH44,0,47,Average,11,8,High,12,Broken Divider,High,9451,74613,323069,Resurfacing,RoadCare,4.4,Sunny
+28836696,Taulihawa Road,primary,NH05,0,51,Average,17,4,Medium,12,Broken Divider,Low,8749,385671,94080,Pothole Repair,Nepal Infra,4.2,Cloudy
+28836698,Taulihawa Road,primary,NH05,0,59,Average,3,15,High,24,Cracks,Medium,2078,172026,272587,Divider Repair,RoadCare,4.8,Foggy
+30475166,.9G(M&M0 0>M.>0MM,trunk,NH01,0,28,Poor,13,6,Medium,12,Waterlogging,High,3747,208041,392998,Pothole Repair,Nepal Infra,4.8,Sunny
+30475169,.9G(M&M0 0>M.>0MM,trunk,NH01,0,40,Poor,18,8,Medium,4,Waterlogging,High,1139,198214,333482,Pothole Repair,SafeHighway,4.4,Foggy
+30475215,.9G(M&M0 0>M.>0MM,trunk,NH01,0,79,Good,2,4,Low,18,Broken Divider,High,7443,187232,24243,Divider Repair,SafeHighway,4.3,Foggy
+30475216,.9G(M&M0 0>M.>0MM,trunk,NH01,0,69,Average,14,8,Medium,2,Cracks,High,767,179429,40402,Resurfacing,SafeHighway,4.2,Foggy
+30475235,.9G(M&M0 0>M.>0MM,trunk,NH01,0,33,Poor,7,4,Low,9,Cracks,Low,9868,401446,368796,Pothole Repair,UrbanTrack,3.5,Sunny
+30475239,.9G(M&M0 0>M.>0MM,trunk,NH01,0,95,Good,17,0,Medium,6,Cracks,High,7661,422840,179756,Divider Repair,RoadCare,3.9,Cloudy
+30475471,&M7?#>2@ 0K!,secondary,F22,0,60,Average,14,11,Low,11,Broken Divider,Low,2570,52798,171326,Resurfacing,SafeHighway,3.1,Sunny
+30498781,.9G(M&M0 0>M.>0MM,trunk,NH01,0,55,Average,19,9,Low,12,Pothole,Low,1105,341731,176533,Resurfacing,RoadCare,4.6,Foggy
+30498783,.9G(M&M0 0>M.>0MM,trunk,NH01,0,44,Average,4,4,Low,1,Broken Divider,Low,343,276192,341013,Resurfacing,UrbanTrack,3.6,Cloudy
+30498835,.9G(M&M0 0>M.>0MM,trunk,NH01,0,38,Poor,15,3,High,5,Waterlogging,Low,5140,91514,73235,Pothole Repair,UrbanTrack,3.6,Sunny
+30499058,pathar khola bridge,trunk,NH01,40,73,Good,8,14,Low,25,Waterlogging,Low,9221,163525,127740,Divider Repair,SafeHighway,3.8,Rainy
+30499082,.9G(M&M0 0>M.>0MM,trunk,NH01,0,89,Good,8,8,Medium,23,Cracks,Low,3862,226712,233923,Divider Repair,Nepal Infra,3.8,Cloudy
+32087698,Kanti Lokhpath,primary,F23,50,90,Good,14,1,Low,14,Broken Divider,High,6274,163340,364089,Resurfacing,RoadCare,2.9,Rainy
+32132326,Kanti Lokhpath,primary,NH37,0,83,Good,15,12,Low,11,Waterlogging,High,7355,142399,320478,Pothole Repair,SafeHighway,3.1,Rainy
+32132990,.9>(2 .>0M,secondary,F85,0,57,Average,14,4,High,22,Waterlogging,High,774,218517,181828,Divider Repair,SafeHighway,3.6,Cloudy
+32133065,Puspalal Marg,primary,F26,0,92,Good,6,8,High,22,Waterlogging,Medium,7566,430515,275861,Resurfacing,Nepal Infra,4.5,Cloudy
+32133115,Sankhu Road,primary,F26,0,37,Poor,12,3,Low,24,Broken Divider,High,7333,261350,220139,Resurfacing,RoadCare,3,Rainy
+32133151,Sankhu Road,primary,F26,0,75,Good,11,13,Medium,25,Broken Divider,High,6834,51980,313219,Resurfacing,Nepal Infra,3.5,Foggy
+32133154,Sankhu Road,primary,F26,0,47,Average,12,0,Medium,23,Cracks,Low,4083,494998,108111,Divider Repair,SafeHighway,3.7,Cloudy
+32133466,Bode- Jorpati,primary,F92,0,70,Average,14,0,High,4,Waterlogging,High,3263,56169,296132,Divider Repair,SafeHighway,3.6,Cloudy
+32134030,dekocha,secondary,F94,0,32,Poor,11,8,High,20,Waterlogging,High,4430,263334,211491,Pothole Repair,UrbanTrack,4.2,Sunny
+32134045,Bhaktapur- Changunanrayan Road,secondary,F94,0,27,Poor,5,10,Low,9,Cracks,Medium,6483,470715,36035,Divider Repair,UrbanTrack,3.4,Foggy
+32134154,Subedi Gaun Gagalphedi Road,tertiary,27DR035,0,46,Average,9,15,Low,14,Cracks,High,5730,173228,108594,Resurfacing,Nepal Infra,2.8,Sunny
+32134157,Guru Prasad Marg(Subedi Gaun Gagalphedi Road),tertiary,27DR035,30,40,Poor,5,0,Medium,6,Broken Divider,High,1602,247348,375193,Resurfacing,RoadCare,3.9,Foggy
+32134617,K0*>@-8A(M&0@2 0K!,secondary,F27,0,92,Good,14,2,Medium,11,Waterlogging,High,4339,217940,373776,Pothole Repair,UrbanTrack,4.2,Sunny
+38603700,"*G*2 ,K> (8>(K%?.@) &G? 2K(M%2@",secondary,F90,0,79,Good,18,5,High,4,Cracks,High,2810,492951,326359,Divider Repair,RoadCare,4.4,Foggy
+38605102,Harsha chowk Makalepati Kiwachowk Magar Gaun road,unclassified,8 M ROW,0,33,Poor,15,0,Medium,7,Broken Divider,Medium,2258,284179,194565,Resurfacing,Nepal Infra,4.9,Foggy
+38605243,CHYAMASINGH NALA ROAD,primary,F97,0,62,Average,8,2,Low,13,Cracks,Medium,5951,282600,159098,Pothole Repair,Nepal Infra,3,Cloudy
+43719908,BP Highway,trunk,NH13,0,56,Average,19,0,High,3,Pothole,High,7621,165898,177669,Pothole Repair,UrbanTrack,4.6,Sunny
+43843108,Beni - Jomsom Road,primary,NH48,0,30,Poor,8,1,High,20,Broken Divider,High,5695,132497,133710,Divider Repair,SafeHighway,2.6,Foggy
+44314205,K(> .>0M *6M?.,tertiary,25DR001,0,59,Average,1,5,High,25,Broken Divider,Medium,9378,152137,394727,Resurfacing,SafeHighway,3.7,Sunny
+44314207,Machhindra Nath Sadak,unclassified,25DR002,0,80,Good,20,11,Low,16,Broken Divider,High,2628,356910,68347,Pothole Repair,SafeHighway,4.9,Sunny
+44652558,Pasang Lhamu Highway,primary,NH42,0,48,Average,2,7,Medium,7,Pothole,Low,1523,214132,179363,Resurfacing,SafeHighway,4.4,Cloudy
+44654078,.9G(M&M0 0>M.>0MM,trunk,NH01,0,73,Good,19,14,Medium,4,Waterlogging,Low,7128,233566,29230,Resurfacing,UrbanTrack,4.5,Cloudy
+44684257,.9G(M&M0 0>M.>0MM,trunk,NH01,0,23,Poor,0,15,Medium,24,Pothole,High,7995,426754,68170,Divider Repair,RoadCare,4.4,Rainy
+44684258,.9G(M&M0 0>M.>0MM,trunk,NH01,0,95,Good,5,14,Medium,12,Pothole,High,5788,78225,133934,Divider Repair,RoadCare,3.7,Cloudy
+44684260,.9G(M&M0 0>M.>0MM,trunk,NH01,0,68,Average,8,9,High,22,Cracks,Low,6970,106112,272817,Pothole Repair,RoadCare,4.8,Sunny
+44684261,.9G(M&M0 0>M.>0MM,trunk,NH01,0,80,Good,2,0,High,10,Waterlogging,High,6985,85275,21166,Divider Repair,RoadCare,3.8,Rainy
+44684262,.9G(M&M0 0>M.>0MM,trunk,NH01,0,81,Good,7,7,Medium,9,Broken Divider,Medium,4555,308573,168116,Resurfacing,RoadCare,4.1,Sunny
+44684324,.9G(M&M0 0>M.>0MM,trunk,NH01,0,93,Good,12,13,High,18,Cracks,Medium,3478,198247,308170,Pothole Repair,UrbanTrack,3.7,Sunny
+44686754,Prithvi Rajmarg,trunk,NH17,0,36,Poor,10,2,Low,9,Pothole,Low,249,279754,268103,Pothole Repair,SafeHighway,4.5,Rainy
+44687492,Bypass Road,trunk,F37,0,20,Poor,2,7,Medium,4,Broken Divider,Low,5252,497606,186391,Pothole Repair,RoadCare,3.5,Rainy
+44693215,Sauraha Main Street,secondary,F124,40,51,Average,9,5,High,2,Cracks,Medium,1822,225271,288094,Pothole Repair,RoadCare,3.1,Rainy
+44786804,Siddhartha Highway,trunk,NH47,0,40,Poor,13,1,High,22,Pothole,High,7830,89320,134426,Pothole Repair,UrbanTrack,3.2,Sunny
+44789650,Siddhartha Highway,trunk,NH47,0,90,Good,18,10,Low,10,Broken Divider,Medium,2470,329494,148745,Divider Repair,UrbanTrack,4.9,Sunny
+44789651,Sidhartha Highway,trunk,NH47,0,52,Average,11,5,Low,9,Waterlogging,Low,3107,134176,25987,Resurfacing,UrbanTrack,3.3,Sunny
+44843928,Yamdi,trunk,F42,0,66,Average,19,4,Medium,4,Waterlogging,High,4084,448918,30572,Resurfacing,UrbanTrack,4.2,Cloudy
+44843929,Pokhara Baglung Highway,trunk,NH03,60,60,Average,18,3,Low,5,Waterlogging,Medium,8944,339610,199320,Resurfacing,SafeHighway,2.7,Foggy
+45269900,Pasang Lhamu Highway,primary,NH18,0,85,Good,9,5,Medium,12,Pothole,Medium,3535,466450,55824,Pothole Repair,UrbanTrack,4.7,Rainy
+45270745,Pokhara - Baglung Highway,trunk,NH03,0,76,Good,5,10,High,12,Pothole,High,5988,203062,364835,Resurfacing,SafeHighway,4,Foggy
+45270753,Pokhara Baglung Highway,trunk,NH03,0,29,Poor,5,3,High,0,Waterlogging,Low,6120,388966,326036,Resurfacing,UrbanTrack,3.6,Rainy
+45307638,.9G(M&M0 0>M.>0MM,trunk,NH01,0,84,Good,6,8,High,16,Cracks,Medium,8514,378818,345910,Resurfacing,UrbanTrack,2.6,Cloudy
+45307640,.9G(M&M0 0>M.>0MM,trunk,NH01,0,59,Average,15,7,Medium,5,Waterlogging,Low,2980,345457,395010,Resurfacing,UrbanTrack,4.8,Cloudy
+45307642,.9G(M&M0 0>M.>0MM,trunk,NH01,0,84,Good,11,15,Medium,1,Broken Divider,Medium,7541,479839,34558,Pothole Repair,Nepal Infra,5,Cloudy
+45307643,.9G(M&M0 0>M.>0MM,trunk,NH01,0,25,Poor,0,1,High,18,Waterlogging,High,2607,382904,271893,Pothole Repair,Nepal Infra,4.6,Rainy
+45307647,.9G(M&M0 0>M.>0MM,trunk,NH01,0,95,Good,5,13,Medium,22,Broken Divider,Low,1712,472721,152480,Divider Repair,SafeHighway,3.7,Cloudy
+45307653,.9G(M&M0 0>M.>0MM,trunk,NH01,0,31,Poor,6,6,High,6,Waterlogging,Low,9220,185909,122947,Resurfacing,RoadCare,2.6,Cloudy
+45307655,.9G(M&M0 0>M.>0MM,trunk,NH01,0,51,Average,9,2,Medium,14,Cracks,Low,8450,148587,322377,Pothole Repair,SafeHighway,4.6,Foggy
+45307673,Phikkal Pashupatinagar Road,primary,F38,0,84,Good,19,7,High,14,Pothole,Low,6061,129599,195409,Pothole Repair,UrbanTrack,4.8,Cloudy
+45307674,Phikkal Pashupatinagar Road,primary,F38,0,50,Average,16,0,High,2,Broken Divider,High,3478,203139,184899,Pothole Repair,RoadCare,3.5,Sunny
+45308086,.9G(M&M0 0>M.>0MM,trunk,NH01,0,59,Average,14,12,Low,5,Pothole,Medium,4595,138697,379546,Pothole Repair,UrbanTrack,3.5,Cloudy
+45308087,.9G(M&M0 0>M.>0MM,trunk,NH01,0,72,Good,13,10,Low,9,Pothole,High,5497,390403,12317,Pothole Repair,Nepal Infra,4.4,Cloudy
+45308088,.9G(M&M0 0>M.>0MM,trunk,NH01,0,66,Average,3,11,Medium,19,Broken Divider,High,6373,434068,134353,Divider Repair,SafeHighway,3.3,Cloudy
+45308092,.9G(M&M0 0>M.>0MM,trunk,NH01,0,65,Average,15,8,Medium,22,Waterlogging,High,1837,224684,299432,Resurfacing,SafeHighway,2.6,Foggy
+45308258,.9G(M&M0 0>M.>0MM,trunk,NH01,0,83,Good,7,8,Medium,6,Pothole,Medium,3336,212193,194103,Resurfacing,UrbanTrack,2.8,Cloudy
+45308259,Kamal Bridge,trunk,NH01,0,77,Good,14,15,Medium,16,Waterlogging,High,4292,129747,116924,Resurfacing,SafeHighway,3.2,Sunny
+45309773,.9G(M&M0 0>M.>0MM,trunk,NH01,0,27,Poor,11,1,Low,23,Broken Divider,Medium,5584,128407,332783,Pothole Repair,Nepal Infra,3.4,Sunny
+45310149,Mahendra Rajmarg,trunk,NH01,0,77,Good,13,4,High,3,Broken Divider,High,6528,378645,341476,Resurfacing,RoadCare,2.9,Rainy
+45310151,.9G(M&M0 0>M.>0MM,trunk,NH01,0,33,Poor,15,12,Low,10,Broken Divider,Medium,6554,259505,357281,Divider Repair,RoadCare,3.4,Cloudy
+45310271,.9G(M&M0 0>M.>0MM,trunk,NH01,0,24,Poor,5,2,Low,8,Pothole,Medium,6746,60487,175236,Divider Repair,SafeHighway,3.8,Sunny
+45310272,.9G(M&M0 0>M.>0MM,trunk,NH01,0,38,Poor,6,6,Medium,12,Pothole,High,1302,352083,111163,Divider Repair,UrbanTrack,3.4,Sunny
+45310599,.9G(M&M0 0>M.>0MM,trunk,NH01,80,21,Poor,5,8,Medium,6,Pothole,High,2022,396396,112216,Pothole Repair,RoadCare,4.2,Rainy
+45310600,.9G(M&M0 0>M.>0MM,trunk,NH01,0,52,Average,9,9,Low,10,Pothole,Low,9344,386017,235622,Divider Repair,SafeHighway,2.8,Sunny
+45310825,.9G(M&M0 0>M.>0MM,trunk,NH01,0,49,Average,10,2,Low,1,Cracks,High,2675,230324,302239,Divider Repair,Nepal Infra,3.4,Rainy
+45310826,Mahendra Rajmarg,trunk,NH01,0,56,Average,19,3,Low,25,Pothole,Medium,5649,56827,213620,Resurfacing,RoadCare,3.6,Rainy
+45310827,Mahendra Rajmarg,trunk,NH01,0,93,Good,12,0,Medium,3,Pothole,Medium,2639,217151,287960,Divider Repair,Nepal Infra,3.9,Foggy
+45310828,.9G(M&M0 0>M.>0MM,trunk,NH01,40,54,Average,16,6,High,13,Waterlogging,Medium,8111,428383,104895,Divider Repair,RoadCare,4.5,Foggy
+45310829,Mahendra Rajmarg,trunk,NH01,0,58,Average,4,0,Low,8,Pothole,High,4278,210463,116564,Resurfacing,UrbanTrack,3.9,Cloudy
+45310830,Mahendra Rajmarg,trunk,NH01,0,93,Good,19,2,Medium,11,Pothole,Medium,3084,62624,175690,Resurfacing,UrbanTrack,2.6,Rainy
+45310831,Mahendra Rajmarg,trunk,NH01,0,21,Poor,19,2,High,8,Broken Divider,Medium,2451,303611,292292,Pothole Repair,UrbanTrack,3.6,Cloudy
+45310832,Mahendra Rajmarg,trunk,NH01,0,40,Poor,20,3,Low,22,Broken Divider,Low,9651,119443,333703,Resurfacing,RoadCare,4.2,Rainy
+45310833,.9G(M&M0 0>M.>0MM,trunk,NH01,0,54,Average,12,3,Medium,14,Pothole,Medium,5499,340749,294066,Pothole Repair,Nepal Infra,3.7,Foggy
+45310834,Mahendra Rajmarg,trunk,NH01,0,25,Poor,11,1,Medium,4,Broken Divider,Low,8169,239689,386196,Pothole Repair,UrbanTrack,2.8,Rainy
+45310835,.9G(M&M0 0>M.>0MM,trunk,NH01,0,43,Average,2,0,Medium,9,Broken Divider,Medium,3599,122959,99305,Resurfacing,SafeHighway,3.1,Foggy
+45310836,Mahendra Rajmarg,trunk,NH01,0,75,Good,1,6,High,16,Pothole,Medium,3883,418794,186764,Resurfacing,RoadCare,3.4,Cloudy
+45310837,.9G(M&M0 0>M.>0MM,trunk,NH01,0,23,Poor,6,15,Medium,10,Pothole,High,1590,481138,21328,Pothole Repair,SafeHighway,3.6,Rainy
+45310838,.9G(M&M0 0>M.>0MM,trunk,NH01,0,47,Average,1,1,Medium,3,Cracks,Low,541,383062,119915,Divider Repair,RoadCare,3.5,Foggy
+45310839,.9G(M&M0 0>M.>0MM,trunk,NH01,0,93,Good,1,0,High,24,Broken Divider,High,2742,258214,187639,Divider Repair,UrbanTrack,2.6,Cloudy
+45310840,.9G(M&M0 0>M.>0MM,trunk,NH01,0,82,Good,10,0,Low,13,Pothole,Low,9556,385139,31910,Divider Repair,UrbanTrack,4.1,Foggy
+45310841,.9G(M&M0 0>M.>0MM,trunk,NH01,0,33,Poor,16,5,High,3,Waterlogging,High,568,380887,93211,Divider Repair,SafeHighway,2.9,Cloudy
+45310842,.9G(M&M0 0>M.>0MM,trunk,NH01,0,83,Good,12,0,High,25,Cracks,Medium,5099,90963,133068,Divider Repair,RoadCare,3.8,Cloudy
+45310843,.9G(M&M0 0>M.>0MM,trunk,NH01,0,61,Average,15,10,High,11,Waterlogging,Low,9229,102711,377799,Pothole Repair,Nepal Infra,3.8,Sunny
+45310899,.9G(M&M0 0>M.>0MM,trunk,NH01,0,46,Average,1,9,Medium,25,Cracks,Medium,5064,169757,104194,Divider Repair,RoadCare,3.5,Foggy
+45310900,.9G(M&M0 0>M.>0MM,trunk,NH01,0,37,Poor,4,12,High,22,Cracks,Low,9873,119645,102559,Pothole Repair,Nepal Infra,3.8,Foggy
+45311141,.9G(M&M0 0>M.>0MM,trunk,NH01,0,26,Poor,14,4,High,2,Broken Divider,Medium,281,434387,133013,Divider Repair,RoadCare,4.4,Rainy
+45311150,.9G(M&M0 0>M.>0MM,trunk,NH01,0,50,Average,15,14,Medium,0,Waterlogging,Medium,7006,213539,203894,Pothole Repair,RoadCare,3.1,Rainy
+45311305,.9G(M&M0 0>M.>0MM,trunk,NH01,0,89,Good,15,5,Low,15,Cracks,Medium,7600,165762,71269,Resurfacing,RoadCare,4.4,Rainy
+45311373,.9G(M&M0 0>M.>0MM,trunk,NH01,0,37,Poor,20,0,Low,14,Pothole,High,1297,121173,243692,Pothole Repair,Nepal Infra,3.2,Foggy
+45311378,.9G(M&M0 0>M.>0MM,trunk,NH01,0,52,Average,0,11,Medium,11,Broken Divider,Low,8477,259516,254194,Pothole Repair,Nepal Infra,3.2,Cloudy
+45311380,.9G(M&M0 0>M.>0MM,trunk,NH01,0,53,Average,10,10,Low,20,Broken Divider,Medium,3133,242349,173440,Divider Repair,RoadCare,3.3,Foggy
+45313663,Siddhartha Highway;Mahendra Highway,trunk,NH01,0,56,Average,16,2,Medium,17,Waterlogging,High,5261,187061,384401,Resurfacing,Nepal Infra,3.8,Rainy
+45313664,Siddhartha Highway,trunk,NH47,0,79,Good,2,11,High,17,Pothole,High,4321,75261,311178,Pothole Repair,UrbanTrack,4.8,Sunny
+45313665,.9G(M&M0 0>M.>0MM,trunk,NH01,0,38,Poor,4,15,High,0,Cracks,Medium,6115,227498,170952,Resurfacing,SafeHighway,4.8,Rainy
+45321527,Parasi Road,primary,NH46,0,21,Poor,0,5,High,2,Broken Divider,Medium,3393,206316,209295,Pothole Repair,SafeHighway,3.2,Foggy
+45322944,Bypass,primary,F198,0,27,Poor,11,15,High,21,Cracks,Medium,244,340876,314984,Pothole Repair,UrbanTrack,4.4,Cloudy
+45416851,Way to Nagarkot,secondary,F28,0,60,Average,13,1,High,0,Cracks,High,6593,78972,202812,Divider Repair,Nepal Infra,3.4,Sunny
+45416907,Suntole Marg,secondary,F96,0,32,Poor,17,5,Low,11,Cracks,High,2602,65689,232046,Divider Repair,UrbanTrack,4.5,Rainy
+47704896,Chirwa to Bhanjyang,unclassified,NH02,0,47,Average,5,3,Low,19,Pothole,Low,4401,381094,275807,Divider Repair,UrbanTrack,3.7,Foggy
+51805776,BP Highway,trunk,NH13,0,49,Average,7,3,Medium,17,Broken Divider,Low,8983,303916,40649,Resurfacing,SafeHighway,3.1,Sunny
+52014114,.G@ 0>.>0M,primary,NH04,0,58,Average,8,13,Low,10,Broken Divider,High,563,442086,282777,Pothole Repair,Nepal Infra,4,Sunny
+52983338,Bungamati Farsidol Marg,unclassified,25DR002,0,65,Average,3,8,High,2,Pothole,High,5630,433708,316425,Divider Repair,Nepal Infra,4.8,Sunny
+52983341,Ekantakuna-Tikabhairab Road,secondary,NH37,0,48,Average,6,1,Low,14,Cracks,Medium,8434,308146,158431,Resurfacing,Nepal Infra,4.3,Sunny
+52983342,">(M$A(>-?>-H0, 8!",secondary,NH37,0,21,Poor,15,15,Medium,0,Pothole,Low,4462,216109,302697,Resurfacing,RoadCare,4.5,Sunny
+53097980,Chhodal Marg,unclassified,25DR001,0,30,Poor,6,12,Medium,23,Cracks,Low,4793,248149,65276,Resurfacing,RoadCare,2.8,Cloudy
+54930577,Tribhuvan Highway,primary,NH41,0,34,Poor,17,10,Medium,16,Broken Divider,Medium,6139,270497,58830,Divider Repair,RoadCare,4.7,Rainy
+54930580,Tribhuvan Highway,primary,NH41,0,70,Average,12,1,Low,5,Cracks,Low,2066,307939,56203,Pothole Repair,SafeHighway,3.6,Rainy
+54930587,Tribhuvan Highway,primary,NH41,0,62,Average,17,14,Medium,14,Broken Divider,Low,4255,325474,243444,Divider Repair,SafeHighway,3.8,Foggy
+57376878,Talchowk Begnastal Road,secondary,F129,0,64,Average,5,11,Medium,25,Cracks,Medium,266,200763,37843,Divider Repair,Nepal Infra,3.9,Foggy
+58754685,8.A8@ .>0M,secondary,F81,0,48,Average,11,9,Low,17,Waterlogging,Medium,5256,168783,130349,Divider Repair,RoadCare,2.9,Sunny
+60051234,Tribhuvan Highway,primary,NH41,0,80,Good,14,11,Medium,16,Cracks,Low,5592,98361,47224,Divider Repair,SafeHighway,3.5,Rainy
+60869503,Banbasa Barrage,trunk,NH109D,0,66,Average,18,15,Medium,1,Pothole,High,274,111110,215988,Pothole Repair,Nepal Infra,3.5,Foggy
+61014204,Kohalpur Chauraha,trunk,NH01,0,31,Poor,4,4,Medium,1,Waterlogging,High,5018,304819,295275,Resurfacing,UrbanTrack,2.8,Sunny
+61014207,15,residential,15,0,27,Poor,9,11,Low,25,Cracks,Medium,9694,148098,94873,Pothole Repair,SafeHighway,3.4,Rainy
+61014281,Nepalgunj Surkhet Road,primary,NH58,0,85,Good,4,3,Medium,16,Broken Divider,High,2703,354468,12312,Pothole Repair,SafeHighway,4,Cloudy
+61014418,Mahendra Chowk,trunk,NH01,0,93,Good,20,7,Medium,11,Pothole,Medium,7695,374738,63316,Pothole Repair,SafeHighway,3.1,Rainy
+61014419,Sidhartha Highway,trunk,NH47,0,61,Average,1,12,Medium,20,Broken Divider,High,242,384294,359489,Divider Repair,Nepal Infra,3.4,Foggy
+61113410,Arniko Highway,trunk,NH34,0,95,Good,18,14,High,21,Waterlogging,High,2661,418473,197126,Resurfacing,Nepal Infra,2.6,Rainy
+61113419,Arniko Highway,trunk,NH34,0,69,Average,18,10,High,20,Waterlogging,High,6732,270089,71851,Pothole Repair,Nepal Infra,4.2,Sunny
+61163734,",>.$@ 0?!K0 /2 .>0M",tertiary,F101,0,94,Good,16,2,Low,6,Cracks,Medium,8757,130316,195875,Pothole Repair,RoadCare,4,Sunny
+61169905,Araniko Highway,trunk,NH34,0,90,Good,12,13,High,11,Pothole,Low,4061,455303,173072,Divider Repair,SafeHighway,4.2,Rainy
+61192982,Gaurishankar Sadak,residential,naya basti,0,56,Average,15,7,High,0,Broken Divider,Low,2316,109002,242686,Divider Repair,UrbanTrack,3,Cloudy
+61193229,Siddhartha Highway,trunk,NH47,0,90,Good,10,7,Low,0,Cracks,Medium,6355,349753,68205,Pothole Repair,Nepal Infra,4.6,Rainy
+61193230,Siddhartha Highway,trunk,NH47,0,32,Poor,18,7,Low,1,Broken Divider,High,8571,114714,208956,Resurfacing,Nepal Infra,3.3,Rainy
+61193231,Siddhartha Highway,trunk,NH47,0,67,Average,13,11,Low,4,Waterlogging,Low,3117,415843,241472,Resurfacing,RoadCare,3.9,Sunny
+61193232,Siddhartha Highway,trunk,NH47,0,63,Average,6,2,Low,12,Broken Divider,High,8937,279239,34976,Pothole Repair,Nepal Infra,4.6,Cloudy
+61193233,Siddhartha Highway,trunk,NH47,0,93,Good,13,3,Low,0,Pothole,Medium,9614,70420,104319,Divider Repair,SafeHighway,3.7,Foggy
+61193235,Siddhartha Highway,trunk,NH47,0,32,Poor,0,7,High,4,Cracks,Low,8894,350672,290769,Divider Repair,SafeHighway,5,Cloudy
+61193236,Sidhartha Highway,trunk,NH47,0,82,Good,1,12,Low,11,Broken Divider,High,1775,486260,63316,Pothole Repair,SafeHighway,4.8,Foggy
+61193237,Siddhartha Highway,trunk,NH47,0,35,Poor,17,0,Medium,14,Pothole,Medium,7721,53485,376046,Divider Repair,RoadCare,4.8,Foggy
+61193239,Sidhartha Highway,trunk,NH47,0,46,Average,13,15,Medium,19,Cracks,Medium,2482,433385,286982,Pothole Repair,RoadCare,2.9,Rainy
+61193240,Siddhartha Highway,trunk,NH47,0,80,Good,14,14,High,18,Waterlogging,Medium,4752,494622,61346,Resurfacing,SafeHighway,4.8,Cloudy
+61193242,Siddhartha Highway,trunk,NH47,0,84,Good,7,2,Low,0,Cracks,Low,1956,152179,310725,Divider Repair,RoadCare,3.6,Sunny
+61193243,Siddhartha Highway,trunk,NH47,0,72,Good,18,0,High,10,Cracks,Low,1846,411660,304643,Divider Repair,RoadCare,3.9,Rainy
+61193244,Siddhartha Highway,trunk,NH47,0,83,Good,18,9,Medium,17,Cracks,High,3229,207184,312589,Resurfacing,UrbanTrack,3,Sunny
+61193245,Sidhartha Highway,trunk,NH47,0,30,Poor,9,5,Low,19,Cracks,Low,9107,254374,201051,Divider Repair,RoadCare,2.7,Sunny
+61193246,Sidhartha Highway,trunk,NH47,0,35,Poor,5,11,Low,2,Pothole,Low,1540,325017,311404,Divider Repair,SafeHighway,5,Rainy
+61193247,Siddhartha Highway,trunk,NH47,0,65,Average,1,11,Low,21,Pothole,Low,4812,410161,212206,Resurfacing,UrbanTrack,3.9,Sunny
+61193248,Siddhartha Highway,trunk,NH47,0,89,Good,2,0,Low,2,Broken Divider,Low,2003,274759,23918,Pothole Repair,RoadCare,4.5,Foggy
+61193249,Siddhartha Highway,trunk,NH47,0,48,Average,1,3,Medium,1,Cracks,High,2369,126679,288996,Resurfacing,RoadCare,2.9,Sunny
+61193250,Siddhartha Highway,trunk,NH47,0,42,Average,2,11,Low,24,Cracks,Medium,991,183458,18968,Pothole Repair,Nepal Infra,2.8,Rainy
+61348485,Gaurishankar Sadak,residential,naya basti,0,52,Average,1,0,Low,10,Cracks,High,8726,458688,339553,Divider Repair,Nepal Infra,4.6,Foggy
+61454194,Jeep Road Beni-Lo Manthang,primary,NH48,0,94,Good,10,9,Medium,16,Pothole,High,3851,161809,174415,Pothole Repair,UrbanTrack,4.4,Cloudy
+61454228,Jeep road Beni-Lo Manthang,primary,NH48,0,74,Good,4,14,Low,12,Cracks,Low,2768,276870,291084,Pothole Repair,SafeHighway,3,Foggy
+61478619,Sali Nadi Road,secondary,F26,0,94,Good,2,0,Medium,16,Broken Divider,High,2868,165268,53618,Pothole Repair,Nepal Infra,4.7,Rainy
+77972512,Nagdaha Marg,tertiary,25DR004,0,51,Average,17,8,Low,17,Broken Divider,High,8871,351484,224309,Resurfacing,UrbanTrack,4.3,Cloudy
+77985290,Ekantakuna-Tikabhairab Road,secondary,F103,0,71,Good,9,9,Low,22,Broken Divider,Low,6907,58092,390343,Resurfacing,RoadCare,3.2,Rainy
+83590999,Jeep Road Beni-Lo Manthang,primary,NH48,0,50,Average,19,8,High,19,Broken Divider,Low,3873,368360,29336,Resurfacing,SafeHighway,5,Foggy
+83592143,Jeep Road Beni-Lo Manthang,unclassified,NH48,0,64,Average,8,0,Medium,0,Cracks,Low,2562,273695,126442,Divider Repair,SafeHighway,3.2,Sunny
+84034220,Way To Ring Road,tertiary,F104,0,51,Average,17,6,Medium,10,Broken Divider,Low,5809,402835,139475,Divider Repair,RoadCare,2.6,Foggy
+84087492,9,residential,9,40,20,Poor,17,6,High,6,Waterlogging,Low,6710,482553,327150,Divider Repair,SafeHighway,2.9,Rainy
+84566287,Pasang Lhamu Highway,primary,NH18,0,85,Good,12,9,Low,11,Pothole,Medium,9167,440482,32029,Resurfacing,RoadCare,4.5,Foggy
+88363141,BP Highway,trunk,NH13,0,44,Average,19,8,High,9,Waterlogging,Medium,3194,297936,132281,Divider Repair,UrbanTrack,3.6,Cloudy
+88364076,BP Highway,trunk,NH13,0,32,Poor,4,13,High,7,Cracks,High,4597,144919,35397,Divider Repair,RoadCare,3.1,Rainy
+88364087,BP Highway,trunk,NH13,0,75,Good,3,4,Medium,2,Cracks,High,1117,345945,117064,Pothole Repair,SafeHighway,3.8,Sunny
+89688368,Bharatpur - Madi -Thori,secondary,NH44,40,66,Average,11,9,High,19,Pothole,Low,2374,213122,74108,Pothole Repair,Nepal Infra,3.1,Cloudy
+90215231,Kalu Pandey Marg,secondary,NH43,0,68,Average,14,7,Medium,25,Pothole,High,8278,361430,140311,Resurfacing,UrbanTrack,4.3,Sunny
+90215232,Kalu Pandey Highway,secondary,NH43,0,43,Average,18,5,Low,6,Waterlogging,Low,3181,190088,134191,Pothole Repair,SafeHighway,4.4,Cloudy
+90264446,Manaslu Circuit,unclassified,NH44,0,62,Average,13,6,Medium,21,Waterlogging,High,3727,128977,237005,Divider Repair,SafeHighway,4.4,Cloudy
+90264474,Manaslu Circuit,unclassified,NH44,0,67,Average,16,2,Medium,17,Broken Divider,High,5370,338479,70222,Resurfacing,UrbanTrack,4.5,Cloudy
+90264508,Gorkha - Ghyampesal Road,secondary,NH44,0,47,Average,17,9,Medium,19,Broken Divider,Low,2035,131583,32344,Resurfacing,SafeHighway,3.9,Foggy
+90264578,Manaslu Circuit,unclassified,NH44,0,95,Good,1,6,High,1,Pothole,Low,6227,261265,32691,Resurfacing,RoadCare,2.7,Sunny
+92943633,"3RD Bridge, Tirhut Canal",primary,SH64,0,40,Poor,3,6,Medium,19,Pothole,Low,2623,105734,36910,Pothole Repair,RoadCare,3.9,Sunny
+97052010,*A7M*2>2 .>0M,tertiary,F104,0,50,Average,1,10,Medium,22,Waterlogging,Low,2469,57991,59694,Pothole Repair,RoadCare,3.6,Foggy
+102000000,Shishuwa Khudi Road,secondary,40DR025,0,51,Average,15,9,Medium,1,Broken Divider,Medium,5182,154424,103876,Resurfacing,SafeHighway,4.1,Sunny
+108000000,Thado Line Bato,secondary,NH03,0,92,Good,0,5,Medium,0,Pothole,Low,8916,170649,33249,Pothole Repair,UrbanTrack,2.8,Rainy
+108000000,Prithvi Highway,trunk,NH17,0,80,Good,15,7,Low,18,Cracks,Medium,5072,432213,45724,Pothole Repair,RoadCare,4.7,Rainy
+108000000,Prithvi Highway,trunk,NH17,0,62,Average,5,0,Low,5,Broken Divider,Low,7083,102827,368696,Pothole Repair,SafeHighway,3.3,Foggy
+108000000,Khapaudi Road,secondary,40DR012,0,89,Good,16,12,Medium,0,Pothole,High,3749,404556,61528,Divider Repair,Nepal Infra,4.4,Rainy
+108000000,14,residential,14,0,39,Poor,3,13,High,4,Broken Divider,Medium,220,467972,130435,Pothole Repair,RoadCare,3.2,Cloudy
+108000000,24,residential,24,0,23,Poor,9,15,Medium,16,Waterlogging,High,1690,130329,189779,Resurfacing,SafeHighway,4.8,Rainy
+109000000,Siddhartha Highway,trunk,NH47,0,51,Average,2,4,Low,3,Waterlogging,Low,8878,431954,18386,Pothole Repair,SafeHighway,2.6,Rainy
+109000000,Siddhartha Highway,trunk,NH47,0,43,Average,5,4,High,17,Cracks,High,8411,223371,109440,Resurfacing,RoadCare,4,Sunny
+109000000,"Street No 24, Sundanda Ratan Pandey Marga",unclassified,40DR017,0,32,Poor,17,11,Medium,3,Cracks,Medium,2099,459846,119906,Pothole Repair,SafeHighway,3.9,Cloudy
+109000000,Siddhartha Highway,trunk,NH47,0,48,Average,13,13,High,12,Cracks,Medium,1007,224552,195230,Resurfacing,RoadCare,4.6,Sunny
+109000000,Sidhartha Highway,trunk,NH47,0,89,Good,5,10,Medium,2,Broken Divider,High,3818,264585,140524,Pothole Repair,SafeHighway,4.4,Sunny
+112000000,",>.$@ 0?!K0 /2 .>0M",tertiary,F101,0,41,Average,20,3,Low,3,Cracks,Low,3338,490563,158157,Resurfacing,SafeHighway,3.3,Sunny
+112000000,",?A2@,>>0 *A2",trunk,NH34,0,77,Good,3,14,High,2,Pothole,Low,8955,332296,393874,Resurfacing,RoadCare,2.9,Cloudy
+112000000,Gwarko-Lamatar,secondary,NH15,0,62,Average,8,1,High,10,Pothole,Low,8985,415791,206579,Divider Repair,Nepal Infra,4.8,Cloudy
+112000000,M5>0MK-2>.>>0 8!,secondary,NH15,0,53,Average,17,8,Low,12,Cracks,Low,8414,64933,138978,Divider Repair,UrbanTrack,4.5,Foggy
+112000000,Samakhusi Marg,secondary,F81,0,25,Poor,18,1,High,20,Pothole,Medium,1077,379704,378429,Resurfacing,RoadCare,4.9,Rainy
+112000000,K> 8>&,secondary,NH40,0,61,Average,4,8,Low,11,Waterlogging,High,5854,77622,264603,Divider Repair,Nepal Infra,4.5,Foggy
+113000000,Talchowk Begnastal Road,secondary,F129,0,81,Good,17,4,Low,23,Cracks,Medium,3798,294064,391088,Divider Repair,SafeHighway,4.7,Sunny
+113000000,Sino-Nepal Friendship Bridge,trunk,G318,0,43,Average,19,6,High,13,Cracks,Medium,1394,368404,166079,Resurfacing,UrbanTrack,4.2,Sunny
+118000000,Gorkha-Ghyampesal Road,tertiary,NH44,0,24,Poor,11,2,Medium,15,Pothole,High,6460,205393,84143,Resurfacing,Nepal Infra,4.3,Rainy
+119000000,.9G(M&M0 0>M.>0MM,trunk,NH01,0,43,Average,0,0,High,21,Waterlogging,High,1423,117515,235050,Pothole Repair,UrbanTrack,4.2,Rainy
+119000000,New Road,tertiary,35DR001,0,92,Good,3,12,Low,13,Waterlogging,High,3262,87442,246443,Resurfacing,RoadCare,4.2,Cloudy
+119000000,Bharatpur-Mugling Highway,secondary,NH44,0,74,Good,8,11,Medium,2,Waterlogging,Low,8982,309540,164786,Pothole Repair,UrbanTrack,4.4,Rainy
+119000000,.9G(M&M0 0>M.>0MM,trunk,NH01,40,37,Poor,10,1,High,23,Waterlogging,Low,4095,429589,102982,Resurfacing,SafeHighway,3.9,Rainy
+119000000,Madi Thori,secondary,NH44,0,84,Good,12,0,Medium,21,Cracks,Low,1527,95391,165495,Resurfacing,UrbanTrack,2.5,Rainy
+120000000,18,residential,18,0,23,Poor,4,1,High,17,Waterlogging,Low,714,326493,156981,Pothole Repair,RoadCare,2.7,Sunny
+120000000,.9G(M&M0 0>M.>0MM,trunk,NH01,0,40,Poor,18,1,Low,12,Pothole,Low,8901,165574,203697,Divider Repair,SafeHighway,3.2,Sunny
+120000000,.9G(M&M0 0>M.>0MM,trunk,NH01,0,62,Average,16,9,High,11,Pothole,Low,7728,366358,398582,Divider Repair,UrbanTrack,4.1,Sunny
+120000000,bagaicha to sindhali road,unclassified,44DR006,40,71,Good,10,12,Medium,16,Pothole,Low,1534,104233,21585,Pothole Repair,Nepal Infra,4,Cloudy
+120000000,Bagaicha to taara road,unclassified,44DR007,80,31,Poor,17,7,Low,3,Cracks,Medium,1131,440997,90439,Resurfacing,Nepal Infra,4.8,Rainy
+120000000,.&( -#M!>0@ *%,trunk,NH34,0,80,Good,11,2,Medium,4,Cracks,Medium,2285,226850,350241,Resurfacing,RoadCare,3.2,Cloudy
+120000000,Mirdi - Jagat Bhanjyang Road,tertiary,NH69,40,82,Good,20,1,Medium,2,Waterlogging,Low,8155,325952,290658,Resurfacing,SafeHighway,4.2,Rainy
+120000000,$M0?*A0G6M50 .>0M,trunk,NH41,0,86,Good,10,4,Low,6,Pothole,Low,7270,306740,372632,Divider Repair,Nepal Infra,3.4,Foggy
+120000000,Bayarghari Biruwa sadak,unclassified,39DR013,20,34,Poor,17,11,High,17,Broken Divider,High,6322,406725,188608,Pothole Repair,SafeHighway,4.3,Foggy
+121000000,Badhkhola-Pawai-Dulegaunda Road,secondary,39DR030,0,24,Poor,1,11,High,12,Pothole,Low,9142,53590,285037,Pothole Repair,RoadCare,3.3,Rainy
+121000000,Badhkhola-Pawai-Dulegaunda Road,secondary,39DR030,0,26,Poor,15,8,High,14,Waterlogging,High,9778,324503,187420,Pothole Repair,Nepal Infra,4.1,Rainy
+121000000,Sidhartha Highway,trunk,NH47,0,59,Average,14,6,Medium,6,Pothole,Low,6913,151929,82153,Pothole Repair,SafeHighway,4.5,Sunny
+121000000,Siddhartha Highway,trunk,NH47,0,56,Average,16,1,Medium,18,Broken Divider,Low,6852,266883,171009,Divider Repair,RoadCare,4.8,Cloudy
+121000000,Siddhartha Highway,trunk,NH47,0,89,Good,11,1,High,13,Pothole,High,2651,292694,58634,Resurfacing,UrbanTrack,4.7,Foggy
+122000000,Tribhuvan Highway,primary,NH41,0,31,Poor,12,10,Medium,9,Broken Divider,Medium,7450,183571,74998,Pothole Repair,Nepal Infra,4.2,Cloudy
+122000000,Tribhuvan Highway,primary,NH41,0,85,Good,20,4,Medium,22,Cracks,Medium,2317,461632,333867,Pothole Repair,UrbanTrack,4.2,Rainy
+123000000,K2M+A>0 8!,secondary,F25,50,77,Good,14,5,Medium,11,Cracks,Medium,1318,342955,315534,Resurfacing,SafeHighway,4.2,Cloudy
+125000000,Badhkhola-Pawai-Dulegaunda Road,secondary,39DR030,0,79,Good,3,14,High,16,Pothole,High,7738,189084,247436,Resurfacing,Nepal Infra,4.2,Rainy
+125000000,Badhkhola-Pawai-Dulegaunda Road,secondary,39DR030,0,34,Poor,1,14,High,7,Cracks,High,5740,366702,60727,Pothole Repair,RoadCare,3.9,Cloudy
+125000000,Badhkhola-Pawai-Dulegaunda Rd,secondary,39DR030,0,36,Poor,9,14,Low,9,Waterlogging,Low,5753,180073,292795,Divider Repair,UrbanTrack,3.3,Rainy
+125000000,Badhkhola-Pawai-Dulegaunda Rd,secondary,39DR030,0,68,Average,8,4,Medium,23,Waterlogging,Medium,5049,122886,187953,Pothole Repair,UrbanTrack,3.8,Sunny
+125000000,Badhkhola-Pawai-Dulegaunda Rd,secondary,39DR030,0,55,Average,11,12,Medium,16,Cracks,High,1101,78231,212695,Resurfacing,UrbanTrack,3.2,Cloudy
+125000000,Badhkhola-Pawai-Taksar-Dulegaunda Road,secondary,39DR030,0,50,Average,2,3,High,8,Pothole,Medium,7473,167041,45537,Pothole Repair,Nepal Infra,4.1,Foggy
+126000000,Siddhartha Highway,trunk,NH47,0,54,Average,9,6,High,3,Cracks,Low,7018,388834,118484,Resurfacing,UrbanTrack,3.4,Rainy
+126000000,Biruwa Main Way,residential,39DR029,0,32,Poor,19,15,Low,22,Cracks,Low,4225,392635,370565,Pothole Repair,RoadCare,4.4,Rainy
+126000000,Namobuddha Road,secondary,NH15,0,91,Good,11,12,High,7,Waterlogging,High,7613,95107,277180,Resurfacing,UrbanTrack,3.7,Sunny
+127000000,BHAKTAPUR NALA ROAD (GANESHMAN MARG),primary,F97,0,79,Good,11,12,Low,0,Cracks,High,3716,314782,143364,Pothole Repair,RoadCare,2.7,Rainy
+127000000,Thimi Gamcha Tarkhal Pataletar Road,tertiary,PR-BG-195 (24 m ROW),30,59,Average,11,0,Medium,14,Waterlogging,Low,110,154618,84589,Divider Repair,RoadCare,3.9,Rainy
+127000000,Jeep Road Beni-Lo Manthang,primary,NH48,0,80,Good,3,2,Medium,23,Waterlogging,Low,8663,146366,351232,Resurfacing,RoadCare,4.1,Cloudy
+127000000,Besishahar - Manang Sadak,tertiary,NH25,0,40,Poor,12,14,High,19,Pothole,Medium,5860,419990,141110,Pothole Repair,SafeHighway,3.6,Cloudy
+128000000,MALPI ROAD,residential,24DR010,40,86,Good,14,5,High,6,Cracks,High,6680,199609,316656,Resurfacing,SafeHighway,3,Sunny
+128000000,Banepa Panauti Khopasi Road,secondary,F29,0,74,Good,1,6,Medium,14,Waterlogging,Low,9572,218013,140546,Pothole Repair,RoadCare,3.2,Rainy
+130000000,Idgaha Road,tertiary,57A007,0,35,Poor,15,1,Medium,18,Cracks,High,3478,173614,284625,Resurfacing,UrbanTrack,4.3,Cloudy
+130000000,Ratna Rajmarg,trunk,NH58,0,26,Poor,1,7,Medium,18,Pothole,Medium,7634,134174,70642,Resurfacing,RoadCare,3.8,Sunny
+130000000,Bus Park Road,residential,F142,0,50,Average,1,12,High,3,Cracks,High,7932,173610,162881,Pothole Repair,RoadCare,2.9,Rainy
+132000000,Parasi Road,primary,NH05,0,54,Average,12,3,Low,14,Pothole,Medium,9160,269217,343280,Pothole Repair,Nepal Infra,2.6,Cloudy
+132000000,Parasi Road,primary,NH05,0,92,Good,14,3,Medium,12,Pothole,High,633,139330,133807,Resurfacing,SafeHighway,4.5,Cloudy
+133000000,Main Road,primary,NH05,0,30,Poor,16,14,Medium,11,Broken Divider,Low,6680,233466,136912,Pothole Repair,SafeHighway,2.6,Rainy
+133000000,Jaleshwar-gausala road,primary,NH28,0,95,Good,2,14,Low,19,Waterlogging,Medium,3857,324676,142491,Divider Repair,UrbanTrack,4.3,Sunny
+135000000,*A0>(K  ?.@ - (/>  ?.@,secondary,F92,0,76,Good,15,7,High,9,Waterlogging,Medium,2820,445497,361283,Pothole Repair,RoadCare,2.7,Foggy
+135000000,@0M$?*A0 0? 0K!,tertiary,F104,20,93,Good,14,9,High,1,Pothole,High,935,211320,326860,Divider Repair,Nepal Infra,4.2,Cloudy
+135000000,Thalachi Marga,unclassified,25DR001,0,39,Poor,7,4,Low,17,Waterlogging,Medium,1612,223482,248082,Divider Repair,SafeHighway,3.4,Rainy
+136000000,Bhansar Road,trunk,NH05,0,60,Average,9,7,Low,0,Pothole,Low,6863,338905,260369,Divider Repair,SafeHighway,3.8,Foggy
+136000000,Mohana Bridge,primary,NH05,0,69,Average,5,5,Medium,20,Cracks,Low,6468,52070,109972,Divider Repair,RoadCare,3.2,Cloudy
+136000000,Bhim Datta Panta Highway,trunk,NH66,0,25,Poor,19,13,Medium,19,Pothole,Medium,8885,474905,330340,Resurfacing,SafeHighway,4.1,Foggy
+136000000,Indo-Nepal Custom Road,primary,SH90,0,81,Good,19,14,Medium,20,Waterlogging,High,2951,178168,363018,Pothole Repair,Nepal Infra,3.3,Sunny
+136000000,Badaipur-Udasipur-Hasuliya Road,unclassified,71DR009,35,58,Average,2,14,Low,18,Broken Divider,Low,9283,431590,198213,Resurfacing,Nepal Infra,2.7,Rainy
+136000000,Ekantakuna-Tikabhairab Road,secondary,F103,0,46,Average,14,6,Medium,16,Waterlogging,High,2184,439575,207984,Resurfacing,UrbanTrack,3,Foggy
+136000000,>(M$A(>-(A 8!,secondary,NH37,0,61,Average,6,14,Low,21,Waterlogging,Medium,5751,330791,237328,Resurfacing,UrbanTrack,3.9,Sunny
+136000000,Ekantakuna-Tikabhairab Road,secondary,NH37,0,46,Average,4,3,High,16,Cracks,Low,3408,347709,188141,Resurfacing,UrbanTrack,2.8,Cloudy
+136000000,Ekantakuna - Tikabhairab Road,secondary,NH37,50,72,Good,19,3,Medium,3,Waterlogging,Low,5850,155320,144918,Resurfacing,SafeHighway,3.1,Foggy
+137000000,Janakpur - Yadukana,tertiary,F108,0,80,Good,17,4,Medium,14,Pothole,High,1780,138860,28851,Resurfacing,RoadCare,4.1,Rainy
+137000000,Janakpur - Khariyani,unclassified,17A006R,0,53,Average,15,7,High,19,Waterlogging,Medium,5897,190147,130759,Divider Repair,Nepal Infra,4.8,Sunny
+137000000,Janakpur - Khariyani,tertiary,17A006R,0,57,Average,10,13,Medium,1,Cracks,High,247,361097,343930,Resurfacing,RoadCare,3.2,Sunny
+137000000,Janakpur - Khariyani,tertiary,17A006R,0,81,Good,6,12,High,10,Pothole,Low,4689,254201,52725,Resurfacing,UrbanTrack,4,Sunny
+137000000,Janakpur - Khariyani,tertiary,17A006R,0,64,Average,7,9,Low,2,Broken Divider,Medium,9827,306850,272880,Pothole Repair,UrbanTrack,2.6,Rainy
+137000000,Janakpur - Khariyani,tertiary,17A006R,0,93,Good,9,13,Low,22,Cracks,Medium,7468,294065,296019,Divider Repair,UrbanTrack,3.7,Cloudy
+137000000,M5>0MK-2>.>>0,secondary,NH15,0,84,Good,7,5,Low,8,Broken Divider,Low,9324,109745,105227,Resurfacing,Nepal Infra,4.6,Sunny
+137000000,#G6.>( 8?9 *%,trunk,NH41,0,33,Poor,3,15,High,5,Cracks,High,3770,377782,336981,Divider Repair,Nepal Infra,3.4,Foggy
+138000000,Araniko Highway,trunk,NH34,0,92,Good,19,13,Medium,12,Pothole,Medium,9538,201917,59369,Pothole Repair,Nepal Infra,5,Rainy
+138000000,Araniko Highway,trunk,NH34,0,64,Average,15,14,Medium,24,Cracks,High,653,154772,349999,Divider Repair,SafeHighway,3.8,Cloudy
+138000000,Andhikhola Pul,tertiary,39DR011,0,37,Poor,13,10,High,25,Pothole,Medium,931,140868,348042,Divider Repair,SafeHighway,3.7,Foggy
+138000000,Charikot-Dolakha Road,secondary,NH28,0,88,Good,13,1,Medium,0,Cracks,Medium,5815,243227,41172,Resurfacing,Nepal Infra,4.2,Rainy
+138000000,Charikot-Lamabagar Road,secondary,NH28,0,48,Average,8,13,High,6,Broken Divider,Low,9134,321536,28891,Resurfacing,SafeHighway,4.3,Cloudy
+139000000,Khadichaur - Jiri Highway,primary,NH23,0,70,Average,6,12,High,19,Pothole,Medium,1310,374620,229221,Divider Repair,UrbanTrack,4.5,Cloudy
+139000000,Pasang Lhamu Highway,tertiary,29A005,0,85,Good,12,3,Low,18,Broken Divider,High,3306,82282,274517,Divider Repair,UrbanTrack,3.3,Sunny
+139000000,(G*>2>0 .>0M,tertiary,27DR022,0,43,Average,15,11,Low,24,Waterlogging,High,4304,424763,31979,Resurfacing,RoadCare,4.9,Foggy
+139000000,0$M( *>0M-+A$>,tertiary,F80,0,89,Good,16,3,Low,15,Pothole,Medium,8173,63164,121341,Resurfacing,RoadCare,4.6,Rainy
+139000000,Beni - Jomsom Road,primary,NH48,0,30,Poor,3,12,Medium,21,Cracks,High,1183,329332,264197,Pothole Repair,SafeHighway,2.9,Rainy
+139000000,Beni - Jomsom Road,primary,NH48,0,38,Poor,3,2,Low,17,Pothole,Medium,2191,190019,203768,Pothole Repair,RoadCare,3.4,Cloudy
+139000000,Beni - Jomsom Road,primary,NH48,0,69,Average,18,1,Low,6,Cracks,High,7873,368734,358984,Divider Repair,SafeHighway,2.6,Foggy
+139000000,Beni - Jomsom Road,primary,NH48,0,68,Average,6,6,Low,16,Pothole,Low,3187,356477,313454,Divider Repair,Nepal Infra,2.8,Rainy
+139000000,Beni - Jomsom Road,primary,NH48,0,62,Average,17,9,High,3,Pothole,Medium,9870,145438,231809,Divider Repair,SafeHighway,4.4,Foggy
+139000000,Beni - Jomsom Road,primary,NH48,0,68,Average,15,10,Medium,17,Broken Divider,Low,190,497902,156001,Pothole Repair,UrbanTrack,4.9,Foggy
+139000000,Beni - Jomsom Road,primary,NH48,0,37,Poor,9,8,Low,1,Broken Divider,High,2833,302387,179359,Divider Repair,SafeHighway,2.6,Rainy
+139000000,Maldhunga - Beni Road,trunk,NH48,0,82,Good,20,4,High,2,Waterlogging,Low,2768,222383,131245,Divider Repair,SafeHighway,3.9,Cloudy
+139000000,Dharan Marg,primary,NH08,0,39,Poor,16,1,Low,13,Cracks,Low,273,161399,275409,Resurfacing,SafeHighway,4.4,Foggy
+140000000,,trunk,NH44,0,45,Average,12,5,High,11,Cracks,High,7663,496411,357486,Resurfacing,UrbanTrack,3.9,Foggy
+140000000,Prithvi Rajmarg,trunk,NH17,0,49,Average,12,4,High,4,Cracks,High,4401,427577,318440,Divider Repair,Nepal Infra,4.4,Sunny
+140000000,Chinsengi khola Bridge,trunk,NH44,0,68,Average,11,10,Medium,17,Pothole,Low,3183,292130,125001,Resurfacing,UrbanTrack,3.5,Foggy
+140000000,Prithvi Rajmarg,trunk,NH17,0,52,Average,4,4,High,17,Waterlogging,Low,1919,229097,245664,Divider Repair,Nepal Infra,4.9,Foggy
+140000000,Dahki khola,trunk,NH17,0,46,Average,20,3,High,11,Waterlogging,Low,3148,129584,152572,Pothole Repair,UrbanTrack,4.5,Cloudy
+140000000,"&>8A> *A2""",trunk,NH44,0,42,Average,10,10,Low,24,Broken Divider,High,4413,374328,301351,Pothole Repair,SafeHighway,3.8,Foggy
+140000000,Dumpe khola,trunk,NH44,0,46,Average,3,12,Low,2,Cracks,Low,5488,193200,372206,Resurfacing,UrbanTrack,4.4,Rainy
+140000000,Galaundi khola,trunk,NH17,0,34,Poor,19,13,Medium,14,Broken Divider,Low,1657,266551,255942,Divider Repair,UrbanTrack,2.9,Rainy
+140000000,Prithvi Rajmarg,trunk,NH17,0,22,Poor,12,6,Low,9,Cracks,Medium,5370,151651,43138,Pothole Repair,SafeHighway,4.9,Sunny
+140000000,Gomati Bridge,trunk,NH17,0,46,Average,20,7,Medium,9,Cracks,Low,6812,360788,209259,Pothole Repair,UrbanTrack,3.8,Rainy
+140000000,Khahare Bridge,trunk,NH44,0,83,Good,20,12,Low,8,Waterlogging,Low,253,185056,283477,Resurfacing,RoadCare,3.7,Rainy
+140000000,Jalbire Bridge,trunk,NH44,0,43,Average,9,8,Low,17,Broken Divider,Low,4701,420127,245122,Divider Repair,SafeHighway,3.7,Foggy
+140000000,Kali khola,trunk,NH44,0,91,Good,6,14,Medium,23,Broken Divider,Low,9315,418678,263308,Pothole Repair,SafeHighway,3.3,Rainy
+140000000,Khani khola,trunk,NH44,0,60,Average,11,13,Medium,14,Cracks,Medium,1497,427432,361760,Divider Repair,Nepal Infra,2.6,Sunny
+140000000,Khor,trunk,NH44,0,73,Good,14,4,Low,3,Broken Divider,High,6421,354752,39463,Divider Repair,RoadCare,2.6,Foggy
+140000000,"2>.A,>2A5> *A2",trunk,NH44,0,68,Average,18,14,Medium,5,Waterlogging,Low,3832,295992,381477,Pothole Repair,SafeHighway,3.1,Foggy
+140000000,Prithvi Rajmarg,trunk,NH17,0,87,Good,3,3,Medium,10,Cracks,Low,8230,146304,236241,Pothole Repair,Nepal Infra,3.8,Cloudy
+140000000,.L0@ *A2,trunk,NH44,0,58,Average,12,3,Medium,3,Pothole,Low,1404,401342,291322,Resurfacing,UrbanTrack,3.3,Cloudy
+140000000,Nagdi khola,trunk,NH17,0,24,Poor,5,12,Medium,13,Cracks,High,3181,75220,221702,Divider Repair,UrbanTrack,2.7,Rainy
+140000000,Namsi khola,trunk,NH44,0,44,Average,6,3,Medium,21,Broken Divider,High,5744,140621,176597,Resurfacing,SafeHighway,4.1,Foggy
+140000000,Pokhare khola,trunk,NH17,0,50,Average,10,7,Medium,5,Cracks,Medium,2988,446027,66655,Pothole Repair,SafeHighway,4.6,Rainy
+140000000,Prithvi Rajmarg,trunk,NH17,0,60,Average,8,5,Medium,3,Waterlogging,Medium,4037,106015,29379,Divider Repair,UrbanTrack,3.5,Cloudy
+140000000,Prithvi Rajmarg,trunk,NH17,0,49,Average,10,4,Medium,18,Cracks,Medium,776,193280,70968,Resurfacing,RoadCare,4.3,Foggy
+140000000,Prithvi Rajmarg,trunk,NH17,0,49,Average,10,0,Low,19,Waterlogging,High,5244,464599,283542,Resurfacing,RoadCare,3.7,Foggy
+140000000,Prithvi Rajmarg,trunk,NH17,0,52,Average,1,3,Low,21,Cracks,Medium,6870,93992,364700,Resurfacing,UrbanTrack,4.3,Sunny
+140000000,Khatauti Khola Bridge,trunk,NH17,0,81,Good,15,0,Medium,9,Waterlogging,Low,2671,133093,37778,Pothole Repair,RoadCare,4.8,Foggy
+140000000,Mowa Khola Bridge,trunk,NH17,0,43,Average,5,1,High,11,Broken Divider,Medium,1025,462733,128830,Divider Repair,RoadCare,3,Sunny
+140000000,Belkhu Khola Bridge,trunk,NH17,0,46,Average,6,3,Medium,7,Cracks,Low,6447,492361,46724,Pothole Repair,RoadCare,3.8,Cloudy
+140000000,Hugdi Khola Bridge,trunk,NH17,0,25,Poor,12,0,Low,19,Broken Divider,Medium,2124,392427,357509,Pothole Repair,UrbanTrack,3.6,Foggy
+140000000,Prithvi Rajmarg,trunk,NH17,0,24,Poor,15,13,Low,5,Cracks,High,941,230794,73838,Resurfacing,RoadCare,4.7,Rainy
+140000000,Prithvi Rajmarg,trunk,NH17,0,77,Good,18,6,Low,0,Pothole,Medium,8919,290318,297088,Pothole Repair,Nepal Infra,2.7,Rainy
+140000000,Prithvi Rajmarg,trunk,NH17,0,33,Poor,9,1,Medium,19,Pothole,Medium,7801,199426,378922,Resurfacing,RoadCare,3.7,Sunny
+140000000,Prithvi Rajmarg,trunk,NH17,0,22,Poor,0,7,Medium,9,Broken Divider,Low,8543,201073,359479,Pothole Repair,UrbanTrack,3.9,Rainy
+140000000,Prithvi Rajmarg,trunk,NH17,0,38,Poor,14,1,Medium,23,Waterlogging,Medium,3195,383687,11770,Pothole Repair,Nepal Infra,4.3,Rainy
+140000000,Prithvi Rajmarg,trunk,NH17,0,70,Average,1,14,Medium,22,Waterlogging,Medium,1925,381897,119979,Pothole Repair,RoadCare,5,Foggy
+140000000,Prithvi Rajmarg,trunk,NH17,0,42,Average,1,2,High,19,Waterlogging,Low,5657,323584,59517,Pothole Repair,Nepal Infra,4.1,Sunny
+140000000,Soti khola,trunk,NH17,0,46,Average,6,3,High,4,Cracks,High,9364,291326,22857,Divider Repair,SafeHighway,2.6,Rainy
+140000000,Tope khola,trunk,NH44,0,34,Poor,11,15,High,23,Waterlogging,Medium,8700,258627,251496,Resurfacing,UrbanTrack,3.2,Sunny
+140000000,Bharatpur-Mugling Highway,trunk,NH44,0,31,Poor,18,4,High,20,Broken Divider,High,8609,360224,219176,Pothole Repair,SafeHighway,4.4,Sunny
+140000000,Bharatpur-Mugling Highway,trunk,NH44,0,73,Good,8,6,Medium,3,Cracks,Low,5326,297656,87418,Pothole Repair,SafeHighway,3.5,Rainy

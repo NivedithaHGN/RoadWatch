@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ROADWATCH - Complaints Center</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="sidebar">
+  <div class="sidebar-top">
+    <h1>ROADWATCH</h1>
+    <ul>
+      <li onclick="window.location.href='index.html'">
+        <span>📊</span> Dashboard
+      </li>
+      <li onclick="window.location.href='contractors.html'">
+        <span>👷</span> Contractors
+      </li>
+      <li class="active" onclick="window.location.href='complaints.html'">
+        <span>⚠️</span> Complaints
+      </li>
+      <li onclick="window.location.href='analytics.html'">
+        <span>📈</span> Analytics
+      </li>
+      <li onclick="window.location.href='reports.html'">
+        <span>📁</span> Reports
+      </li>
+      <li onclick="window.location.href='settings.html'">
+        <span>⚙️</span> Settings
+      </li>
+    </ul>
+
+    <div class="country-box">
+      <h3>Select Country</h3>
+      <select id="countrySelect">
+        <option disabled>Loading countries...</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="sidebar-footer">
+    <div class="user-profile-badge" id="userProfileBadge" onclick="window.location.href='login.html'">
+      <div class="user-avatar" id="avatarLetter">P</div>
+      <div class="user-info">
+        <span class="user-name" id="profileName">Guest Session</span>
+        <span class="user-role" id="profileRole">Sign In</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="main-content">
+  <h1 class="main-header">Citizen Complaints Center</h1>
+
+  <div class="bottom-grid" style="grid-template-columns: 1.2fr 1.8fr;">
+
+    <div class="panel">
+      <h2>Register Infrastructure Issue</h2>
+      <div id="complaintFormContainer"><form id="complaintForm" enctype="multipart/form-data">
+        <input
+          type="text"
+          id="title"
+          name="title"
+          placeholder="Complaint Title (e.g. Broken Barrier)"
+          required
+        >
+
+        <textarea
+          id="description"
+          name="description"
+          placeholder="Describe the structural issue in detail..."
+        ></textarea>
+
+        <input
+          type="text"
+          id="location"
+          name="location"
+          placeholder="Road Location or Landmark"
+          required
+        >
+
+        <div style="display: flex; flex-direction: column; gap: 6px;">
+          <label style="font-size: 0.8rem; color: var(--text-muted);">Attach Photo Evidence</label>
+          <input type="file" id="photo" name="photo" accept="image/*">
+          
+          <!-- ROADWATCH AI Illiterate Accessibility Scan Controls -->
+          <div id="aiLoader" style="display:none; color: var(--color-primary); font-size: 0.8rem; font-weight: 700; margin-top: 10px; text-shadow: 0 0 10px var(--border-glow);">
+            🔍 ROADWATCH AI scanning photo for safety issues...
+          </div>
+          <img id="aiPreview" style="display:none; max-width: 100%; border-radius: 8px; margin-top: 10px; border: 1.5px solid var(--color-primary);" alt="AI evidence preview" />
+          <div id="aiStatus" style="display:none; background: rgba(56, 211, 159, 0.05); padding: 12px; border-radius: var(--radius-md); border: 1.5px dashed var(--color-primary); font-size: 0.82rem; margin-top: 10px; line-height: 1.4;">
+          </div>
+        </div>
+
+        <button type="submit">Submit Official Complaint</button>
+      </form>
+    </div>
+
+    <div class="panel">
+      <h2>Recent Incident Logs</h2>
+      <div id="complaintsContainer" style="max-height: 520px;">
+        <!-- Dynamically Populated -->
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- Floating Chatbot -->
+<div id="chatbot-button" onclick="toggleChatbot()" style="display: flex; align-items: center; justify-content: center;">
+  <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"></path>
+  </svg>
+</div>
+
+<div id="chatbot-window">
+  <div class="chatbot-header">
+    <h4>ROADWATCH Assistant</h4>
+    <div>
+      <button onclick="toggleChatbot()" style="background:none; border:none; color:white; cursor:pointer; font-size: 1.2rem; margin-right: 5px;">−</button>
+      <button onclick="toggleChatbot()" style="background:none; border:none; color:white; cursor:pointer; font-size: 1.2rem;">✖</button>
+    </div>
+  </div>
+  <div class="chatbot-messages" id="chatbotMessages">
+    <div class="message bot-message">Hello! I'm the ROADWATCH AI. How can I assist you with infrastructure data today?</div>
+  </div>
+  <div class="chatbot-input">
+    <input type="text" id="chatbotInput" placeholder="Ask a question..." onkeypress="if(event.key === 'Enter') sendChatMessage()">
+    <button onclick="sendChatMessage()">Send</button>
+  </div>
+</div>
+
+<!-- Load TensorFlow.js and COCO-SSD for client-side AI image detection -->
+<script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs"></script>
+<script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/coco-ssd"></script>
+<script src="app.js"></script>
+<script>
+  // Hide complaint submission panel for government officials
+  (function() {
+    const userStr = localStorage.getItem('roadwatch_user');
+    if (userStr) {
+      const user = JSON.parse(userStr);
+      if (user.role === 'govt' || user.role === 'admin') {
+        const formPanel = document.querySelector('.bottom-grid .panel:first-child');
+        if (formPanel) {
+          formPanel.style.display = 'none';
+        }
+        // Also expand the complaints list to full width
+        const grid = document.querySelector('.bottom-grid');
+        if (grid) {
+          grid.style.gridTemplateColumns = '1fr';
+        }
+      }
+    }
+  })();
+</script>
+</body>
+</html>

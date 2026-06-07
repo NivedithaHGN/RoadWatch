@@ -1,0 +1,63 @@
+osm_id,road_name,road_type,road_health_score,road_condition,potholes_count,accident_count,accident_severity,complaints_count,complaint_type,traffic_density,vehicle_count,allocated_budget_usd,spent_budget_usd,maintenance_type,contractor_name,contractor_rating,weather_condition
+14238445,Dhaka-Tangail Highway,primary,51,Average,1,9,High,4,Pothole,Medium,8001,487136,177064,Divider Repair,ABC Infra,3.4,Cloudy
+15491631,Road 16,trunk,42,Average,9,3,High,8,Waterlogging,Low,2951,306280,361214,Divider Repair,Dhaka Roads Ltd,2.9,Sunny
+24225288,Tongi Kaliganj Highway,secondary,75,Good,20,13,Low,14,Cracks,Low,5216,452553,254818,Divider Repair,ABC Infra,5,Rainy
+24225293,Dhaka-Kapasia,primary,84,Good,19,3,Medium,4,Pothole,Medium,6577,332889,162132,Pothole Repair,UrbanTrack,4.6,Foggy
+24225296,Dhaka-Mymensingh,secondary,46,Average,9,15,Low,23,Cracks,High,329,488392,355190,Pothole Repair,ABC Infra,2.9,Cloudy
+24225299,Dhaka-Mymensingh,trunk,41,Average,17,4,High,14,Waterlogging,Medium,7903,467043,179645,Pothole Repair,Dhaka Roads Ltd,4.4,Foggy
+24225301,Dhaka City Bypass,secondary,38,Poor,0,4,Low,6,Cracks,High,804,76782,97888,Divider Repair,Dhaka Roads Ltd,2.7,Sunny
+24225304,Dhaka-Mymensingh,trunk,59,Average,15,15,Medium,16,Pothole,Low,5019,263367,282784,Resurfacing,Dhaka Roads Ltd,4.6,Cloudy
+24376279,Airport Rd,trunk,33,Poor,13,12,Low,16,Pothole,Low,729,324911,170113,Pothole Repair,Dhaka Roads Ltd,5,Foggy
+24386581,Dhaka Sylhet Highway,primary,65,Average,4,14,Medium,13,Waterlogging,Low,5777,94168,235396,Resurfacing,RoadCare,3.5,Sunny
+25639335,K. C. Road,primary,85,Good,10,14,Low,15,Waterlogging,High,5628,300382,387954,Pothole Repair,Dhaka Roads Ltd,3.8,Rainy
+28868407,Dhaka-Moulvibazar Highway,primary,86,Good,4,7,Medium,24,Waterlogging,Low,5178,409262,227421,Pothole Repair,Dhaka Roads Ltd,2.6,Sunny
+28869421,Sreemangal-Bhanugach Road,trunk,34,Poor,10,6,High,24,Broken Divider,Medium,3652,209738,193155,Pothole Repair,UrbanTrack,4.1,Cloudy
+28879744,Laboni Beach Road,trunk,43,Average,16,0,High,15,Pothole,High,8216,356049,18288,Divider Repair,Dhaka Roads Ltd,3.3,Rainy
+28879752,Kalatali Road,secondary,44,Average,14,5,High,24,Broken Divider,Medium,6843,393445,88676,Pothole Repair,UrbanTrack,3.5,Foggy
+28887053,Kalatali Road,trunk,59,Average,16,5,Medium,21,Broken Divider,High,5348,106522,324615,Divider Repair,RoadCare,4.8,Sunny
+28905138,Khan Jahan Ali Rd,primary,92,Good,3,5,Medium,2,Broken Divider,High,7994,349206,167449,Pothole Repair,ABC Infra,3.6,Foggy
+28911961,Dhaka-Faridpur Highway,trunk,72,Good,15,13,Low,3,Cracks,Medium,2170,229557,187329,Resurfacing,ABC Infra,2.5,Cloudy
+28953716,Sonargaon Road,secondary,76,Good,6,2,High,7,Waterlogging,Low,8003,315263,89228,Pothole Repair,ABC Infra,3.2,Foggy
+29032754,Ramgarh-Jaliapara Road,trunk,79,Good,18,1,Medium,9,Waterlogging,High,8985,356212,268698,Resurfacing,RoadCare,2.5,Rainy
+29224385,Jessore Road,primary,29,Poor,17,0,Medium,1,Broken Divider,High,3599,224565,367414,Resurfacing,ABC Infra,4.4,Cloudy
+29417575,Khan Jahan Ali Rd,trunk,58,Average,18,2,Medium,22,Waterlogging,High,5855,250036,101276,Pothole Repair,ABC Infra,3.4,Sunny
+30665900,Chittagong-Rangamati Road,trunk,84,Good,7,1,High,18,Waterlogging,Low,4398,305336,376287,Pothole Repair,Dhaka Roads Ltd,2.5,Rainy
+30665905,Chittagong-Rangamati Road,trunk,82,Good,18,1,Low,2,Pothole,Medium,1595,307812,48510,Divider Repair,RoadCare,4.6,Rainy
+30665962,Chittagong Khagrachhari Highway,secondary,58,Average,15,0,Medium,3,Cracks,Low,4259,224871,239559,Resurfacing,UrbanTrack,4.6,Sunny
+31152659,Nimtoli-Sirajdikhan-Munshiganj Road,primary,33,Poor,16,7,Low,0,Pothole,Low,1333,246714,249591,Resurfacing,ABC Infra,2.9,Sunny
+31152937,Nimtoli-Sirajdikhan-Munshiganj Road,primary,36,Poor,4,11,Medium,11,Cracks,High,528,203349,228249,Pothole Repair,Dhaka Roads Ltd,4.7,Cloudy
+31154595,Dhaka City Bypass,trunk,36,Poor,5,8,High,5,Broken Divider,Low,7610,102205,386795,Resurfacing,Dhaka Roads Ltd,4,Foggy
+31154596,Dhaka City Bypass,secondary,95,Good,4,12,High,25,Broken Divider,Medium,2957,354512,165052,Pothole Repair,UrbanTrack,2.8,Foggy
+31159104,Shahid Zaman Road-Shimultoly Road,trunk,51,Average,1,10,High,15,Broken Divider,High,7626,99014,262801,Divider Repair,UrbanTrack,4.1,Sunny
+31159105,Gazipur Road,primary,45,Average,15,11,High,5,Cracks,High,5392,213196,40821,Resurfacing,UrbanTrack,2.7,Sunny
+31159479,Kaliganj-Ghorashal Highway,secondary,55,Average,2,14,Medium,7,Broken Divider,Medium,3032,451157,146075,Divider Repair,UrbanTrack,4,Sunny
+31166211,Savar Manikgonj Highway,secondary,56,Average,5,14,High,1,Waterlogging,Low,2441,220880,398231,Divider Repair,ABC Infra,2.9,Foggy
+32027049,Sylhet-Beanibazar Highway,trunk,33,Poor,0,0,Medium,24,Waterlogging,High,9568,199184,219876,Pothole Repair,UrbanTrack,4.6,Sunny
+32027051,Jhaflong-Tamabil Bypass,secondary,38,Poor,15,13,High,0,Broken Divider,Low,6061,177401,162096,Divider Repair,UrbanTrack,3.2,Foggy
+32027418,Dhaka-Moulvibazar Highway,secondary,72,Good,6,13,High,12,Broken Divider,Low,1881,435270,106429,Divider Repair,ABC Infra,2.9,Rainy
+32527961,Shamlapur Road,trunk,55,Average,11,14,Low,16,Waterlogging,High,7169,268591,18533,Divider Repair,Dhaka Roads Ltd,3.3,Rainy
+32561573,Dhaka-Mymensingh,primary,65,Average,20,15,Medium,25,Broken Divider,Medium,2083,354432,216036,Divider Repair,UrbanTrack,4.5,Cloudy
+32644568,Dhaka-Rajshahi Highway,trunk,57,Average,17,11,High,3,Broken Divider,Low,5835,169571,184525,Divider Repair,Dhaka Roads Ltd,4.6,Rainy
+32647117,Dhaka-Rajshahi Highway,trunk,80,Good,17,12,Medium,13,Broken Divider,Medium,8859,456056,72701,Pothole Repair,Dhaka Roads Ltd,2.9,Sunny
+32647683,Rajshahi-Dhaka Hwy,trunk,87,Good,14,2,Medium,19,Pothole,Medium,5392,130006,305669,Resurfacing,ABC Infra,3.4,Cloudy
+32647821,Natore City Bypass,primary,46,Average,18,7,High,9,Pothole,Medium,6711,167332,113616,Divider Repair,Dhaka Roads Ltd,2.6,Sunny
+32690721,Laboni Beach Road,primary,90,Good,0,15,Medium,13,Pothole,Medium,1856,62345,314111,Pothole Repair,ABC Infra,2.7,Rainy
+32696588,Laboni Beach Road,trunk,23,Poor,20,5,Low,3,Broken Divider,High,7014,357033,390225,Resurfacing,Dhaka Roads Ltd,4.1,Cloudy
+32696650,Kolatoli Main Road,primary,84,Good,6,13,Medium,5,Waterlogging,High,6953,191558,84540,Pothole Repair,RoadCare,4.1,Sunny
+32696652,Cox's Bazar Main Road,trunk,85,Good,19,4,Medium,19,Cracks,Low,6057,148403,85698,Divider Repair,UrbanTrack,4.1,Cloudy
+32696705,Inani-Shamlapur,secondary,26,Poor,6,8,Medium,15,Broken Divider,High,5685,272274,371204,Divider Repair,RoadCare,3.3,Cloudy
+32741890,Ati Bazar-Kholamora-Brahmonkitta Road,primary,85,Good,5,4,Medium,1,Broken Divider,Medium,3256,494071,85773,Divider Repair,UrbanTrack,2.9,Foggy
+33804328,Kholamora-Konakhola Road,primary,44,Average,1,0,Low,22,Cracks,High,6842,425836,57148,Divider Repair,Dhaka Roads Ltd,3.3,Foggy
+33891559,Unknown Highway,secondary,76,Good,1,13,High,7,Cracks,High,5886,413211,189977,Divider Repair,ABC Infra,4.8,Rainy
+34298990,Jessore Rd,trunk,61,Average,1,0,Low,0,Waterlogging,Low,5212,271107,143119,Resurfacing,Dhaka Roads Ltd,3.5,Rainy
+34380231,Sher-E-Bangla Road,primary,69,Average,11,3,High,21,Broken Divider,Medium,694,263905,263620,Divider Repair,UrbanTrack,4.6,Cloudy
+34505130,Khan Jahan Ali Rd,primary,95,Good,4,7,Medium,2,Broken Divider,Medium,3035,77390,346648,Pothole Repair,Dhaka Roads Ltd,4.6,Rainy
+34506684,Faridpur-Rajbari Highway,secondary,33,Poor,19,9,Low,4,Cracks,High,1924,184521,185345,Divider Repair,ABC Infra,3.6,Foggy
+34947995,Rajbari-Baliakandi Road,primary,26,Poor,18,1,Low,10,Waterlogging,Low,4021,88001,208614,Pothole Repair,UrbanTrack,4.5,Foggy
+34958463,Dhaka-Sylhet Highway,secondary,81,Good,10,2,Medium,19,Broken Divider,High,7903,339810,139403,Resurfacing,RoadCare,3.2,Foggy
+45425688,Dhaka-Sylhet,trunk,66,Average,17,0,High,14,Cracks,High,2618,486969,73218,Pothole Repair,UrbanTrack,4.6,Rainy
+45425692,Cantonment Road,primary,92,Good,18,13,High,9,Waterlogging,Medium,7782,385133,202717,Divider Repair,RoadCare,4.8,Cloudy
+48411555,Dhaka-Rangpur Hwy,primary,23,Poor,15,11,Medium,11,Broken Divider,High,4918,291905,107131,Divider Repair,UrbanTrack,4.3,Sunny
+48411951,Rangpur-Bogra Highway,secondary,69,Average,9,12,Medium,25,Pothole,Medium,6902,52048,272084,Resurfacing,ABC Infra,4,Cloudy
+48411954,Khulna-Jessore Highway,secondary,91,Good,1,9,Medium,20,Cracks,High,8461,205078,303867,Divider Repair,Dhaka Roads Ltd,2.6,Rainy
+48492727,Dhamrai-Kaliakair Road,secondary,43,Average,20,7,Medium,11,Cracks,Medium,5604,457399,213313,Divider Repair,Dhaka Roads Ltd,3.3,Cloudy

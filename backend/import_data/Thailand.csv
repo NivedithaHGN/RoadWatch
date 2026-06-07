@@ -1,0 +1,411 @@
+osm_id,road_name,road_type,ref,maxspeed,road_health_score,road_condition,potholes_count,accident_count,complaints_count,traffic_density,vehicle_count,allocated_budget_usd,spent_budget_usd,maintenance_type,contractor_name,weather_condition
+11820660,2!'(L'2,primary,302,60,93,Good,18,9,14,Low,7044,241390,250422,Divider Repair,Thai Infra,Sunny
+12526576,'A+'#-@!7-4)8B%,trunk,126,0,58,Average,17,15,5,Low,2265,250416,212659,Resurfacing,UrbanTrack,Rainy
+12526580,"""1#4B(%",trunk,101,0,42,Average,1,11,13,Low,1672,455462,37550,Divider Repair,RoadCare,Sunny
+12873887,*8'##(#,secondary,3649,0,41,Average,7,13,6,Low,9723,388689,340575,Resurfacing,SafeHighway,Sunny
+13862361,"2""#01-8#2 4!8",motorway,5,0,85,Good,18,1,14,Medium,5250,153988,328007,Pothole Repair,Thai Infra,Sunny
+13862364,'A+'#-@!7-4)8B%,trunk,126,0,42,Average,2,12,12,Low,1775,241528,173987,Resurfacing,SafeHighway,Sunny
+13862368,'A+'#-@!7-4)8B%,trunk,126,0,31,Poor,10,0,21,High,9963,124345,181404,Pothole Repair,SafeHighway,Sunny
+13862369,'A+'#-@!7-4)8B%,trunk,126,0,35,Poor,17,1,12,High,389,154324,104051,Divider Repair,SafeHighway,Cloudy
+14610976,"+%B""4",trunk,1,0,38,Poor,14,14,3,Low,9555,433759,76511,Pothole Repair,RoadCare,Rainy
+15676733,!+4%,secondary,1141,50,40,Poor,11,5,2,Medium,9609,482542,191550,Pothole Repair,RoadCare,Rainy
+15677032,"
+8@-#LD.@'""L",trunk,11,80,51,Average,10,0,1,Medium,9406,409051,387543,Resurfacing,UrbanTrack,Foggy
+15677434,AI''#1,primary,118,90,81,Good,5,3,22,High,2633,53375,173398,Resurfacing,UrbanTrack,Foggy
+15678038,"
+8@-#LD.@'""L",trunk,11,80,32,Poor,20,13,9,Medium,4189,185377,71516,Resurfacing,Thai Infra,Foggy
+15678409,"
+8@-#LD.@'""L",trunk,11,0,69,Average,15,7,20,Low,9480,209414,174526,Pothole Repair,Thai Infra,Foggy
+18809916,"+%B""4",secondary,1,0,93,Good,9,7,11,Low,9218,310290,225913,Divider Repair,SafeHighway,Foggy
+18813521,'4 2'5#1*4,secondary,31,0,28,Poor,8,9,10,Low,9486,138301,108220,Pothole Repair,RoadCare,Rainy
+19795587,"
+8@-#LD.@'""L",trunk,11,80,75,Good,15,6,25,Low,6612,170400,40592,Divider Repair,UrbanTrack,Rainy
+19821991,!+4%,secondary,1141,0,60,Average,12,6,0,Low,5885,68614,350850,Divider Repair,UrbanTrack,Foggy
+19822654,*8@,secondary,1005,0,85,Good,18,7,16,Medium,3977,50313,384857,Resurfacing,RoadCare,Foggy
+19875957,"+I'""AI'",secondary,1004,0,79,Good,17,10,21,High,9543,72389,221211,Pothole Repair,UrbanTrack,Rainy
+21946733,"@(2%@!7--B""""2 4",tertiary,"-"".4-0004",0,82,Good,4,9,23,Low,3871,341004,24783,Resurfacing,UrbanTrack,Rainy
+22375267,+-B.,primary_link,1366,0,95,Good,0,2,10,Medium,3499,266723,398949,Pothole Repair,SafeHighway,Foggy
+22649773,!+4%,secondary,1141,50,91,Good,17,6,4,High,1970,488149,295948,Resurfacing,SafeHighway,Foggy
+22649812,!+4%,secondary,1141,0,21,Poor,4,7,1,Low,1918,120864,81328,Divider Repair,RoadCare,Sunny
+22649824,"*13A*2""C+!H",secondary,1317,60,42,Average,7,8,18,Medium,8879,350540,275653,Resurfacing,RoadCare,Cloudy
+22649831,!+4%,secondary,1141,0,67,Average,18,13,0,High,5366,69038,78503,Resurfacing,UrbanTrack,Rainy
+22650060,!+4%,secondary,1141,0,36,Poor,7,8,17,Medium,3533,432043,307914,Resurfacing,UrbanTrack,Cloudy
+22650067,!+4%,secondary,1141,0,47,Average,4,13,13,High,2997,396757,35859,Resurfacing,RoadCare,Foggy
+22802823,*8@,secondary,1005,0,22,Poor,0,1,22,High,985,110306,285528,Resurfacing,RoadCare,Sunny
+22882594,!+4%,primary,1141,0,22,Poor,3,7,9,Medium,2947,258409,325347,Pothole Repair,Thai Infra,Sunny
+22918540,'A+'#--,primary,121,0,55,Average,16,5,8,Low,6660,360273,80901,Pothole Repair,UrbanTrack,Cloudy
+22943244,!+4%,secondary,1141,0,55,Average,20,2,4,High,7810,268885,120434,Pothole Repair,UrbanTrack,Sunny
+22973092,"*1#2""*2""@H2",secondary,1367,0,33,Poor,6,6,21,High,7244,436639,281778,Divider Repair,Thai Infra,Foggy
+22973093,"*1#2""*2""@H2",secondary,1367,0,76,Good,3,6,10,Medium,7044,404522,257640,Pothole Repair,RoadCare,Foggy
+22973278,"*1#2""*2""@H2",secondary,1367,50,29,Poor,1,6,12,Low,3635,381789,265599,Pothole Repair,RoadCare,Sunny
+22993648,*8'4'(L,trunk,304,0,52,Average,4,15,21,Medium,306,364337,10864,Divider Repair,UrbanTrack,Foggy
+22994178,*4#4B*#,primary,314,0,86,Good,15,2,9,High,7442,255654,224623,Resurfacing,RoadCare,Cloudy
+22994264,*8'4'(L,trunk,304,0,66,Average,1,14,18,Low,5799,59664,355730,Resurfacing,SafeHighway,Foggy
+23016685,'A+'#--,primary,121,0,55,Average,0,5,1,High,2330,138391,125026,Divider Repair,Thai Infra,Sunny
+23099507,"2""2*(@%5H""@!7-)",primary,101,0,64,Average,11,7,0,Medium,6555,60565,232087,Resurfacing,RoadCare,Sunny
+23099510,!4# 2,primary,12,80,43,Average,4,2,10,Medium,1673,461942,224653,Resurfacing,RoadCare,Sunny
+23099516,!4# 2,trunk,12,0,67,Average,2,9,0,Medium,5171,142367,132047,Divider Repair,RoadCare,Sunny
+23299161,#'45H-,primary,1370,0,62,Average,8,7,9,Medium,9593,375552,351158,Divider Repair,SafeHighway,Sunny
+23351614,A#4H,secondary,*.4009,0,26,Poor,3,10,16,High,150,136623,389123,Pothole Repair,Thai Infra,Sunny
+23483781,@#0)1#5,primary,402,80,48,Average,3,10,24,High,1662,88483,93731,Divider Repair,SafeHighway,Sunny
+23492186,@#0)1#5,primary,402,80,93,Good,15,12,18,Low,596,176834,246033,Resurfacing,Thai Infra,Rainy
+23605490,%3AH - 1%0!8,secondary,4147,0,46,Average,20,3,24,High,3688,310308,41020,Pothole Repair,SafeHighway,Cloudy
+23745845,"-""8""2--H2-",primary,309,0,20,Poor,0,7,3,Medium,8491,442730,184310,Pothole Repair,RoadCare,Foggy
+23750525,!%4'##,primary,201,0,90,Good,14,8,2,High,245,325686,340419,Pothole Repair,UrbanTrack,Cloudy
+23750731,!%4'##,primary,201,0,83,Good,10,5,11,Low,6120,169489,194988,Resurfacing,UrbanTrack,Cloudy
+23751094,@4(,secondary,2440,0,90,Good,14,3,16,Low,6050,389185,175310,Resurfacing,Thai Infra,Sunny
+23753430,B#0,primary,309,0,40,Poor,7,12,9,Medium,7505,247329,98707,Pothole Repair,SafeHighway,Cloudy
+23948862,"
+8@-#LD.@'""L",trunk,11,90,93,Good,12,12,5,Low,8099,398292,349068,Pothole Repair,UrbanTrack,Sunny
+23948956,"+%B""4",trunk,1,0,87,Good,1,5,1,Medium,1156,313836,199794,Divider Repair,Thai Infra,Cloudy
+23977524,'5#2)#L 15,primary,4169,0,30,Poor,3,1,1,Medium,8241,241227,317193,Resurfacing,Thai Infra,Sunny
+24010570,'A+'#--,primary,121,0,53,Average,3,12,1,High,2169,233209,328483,Pothole Repair,SafeHighway,Cloudy
+24010610,'A+'#--,primary,121,0,77,Good,15,3,20,Low,1099,281482,392531,Divider Repair,Thai Infra,Cloudy
+24010779,'A+'#--,primary,121,0,50,Average,14,15,12,Medium,2372,398176,306560,Pothole Repair,UrbanTrack,Rainy
+24010784,'A+'#--,primary,121,0,52,Average,13,1,13,High,7853,266804,241502,Resurfacing,SafeHighway,Foggy
+24083310,Chaweng Choengmon Road,secondary,4171,0,77,Good,7,1,14,High,6160,250633,309432,Divider Repair,RoadCare,Sunny
+24141972,"*13A*2""C+!H",secondary,1317,0,87,Good,6,0,3,Low,4544,141483,137507,Pothole Repair,SafeHighway,Sunny
+24225747,!+4%,secondary,1141,0,78,Good,4,1,22,Low,7553,478280,120840,Divider Repair,UrbanTrack,Foggy
+24403492,'A+'#-@!7-*8#2)#L25,trunk,420,0,48,Average,12,3,1,High,8164,105768,16790,Pothole Repair,RoadCare,Cloudy
+24446174,@I2I20'1,secondary,4024,0,31,Poor,16,9,24,Low,7295,248510,126474,Pothole Repair,SafeHighway,Cloudy
+24446231,'4@(),secondary,4030,50,82,Good,2,1,20,High,9791,150745,109169,Resurfacing,SafeHighway,Foggy
+24609640,Thanon Chomkasen,tertiary,4009,0,63,Average,18,7,23,Low,5935,332300,329539,Divider Repair,RoadCare,Sunny
+24715264,I2*4+L - I2AI',secondary,3335,0,22,Poor,20,0,18,Low,1519,178372,297696,Divider Repair,SafeHighway,Sunny
+25037169,"B""2",secondary,4031,0,46,Average,18,15,0,High,5279,95838,229530,Divider Repair,Thai Infra,Foggy
+25039866,"B""2",secondary,4031,0,63,Average,8,13,16,Low,4813,162683,280194,Resurfacing,Thai Infra,Rainy
+25620825,(#5#4#L,primary,3344,0,55,Average,8,2,9,Medium,8095,80639,53096,Resurfacing,UrbanTrack,Foggy
+25620827,(#5#4#L,primary,3344,0,33,Poor,15,1,21,Medium,8863,310661,218865,Resurfacing,Thai Infra,Foggy
+25620847,(#5#4#L,primary,3344,0,33,Poor,11,4,8,Low,8227,107638,323410,Resurfacing,UrbanTrack,Sunny
+25620857,(#5#4#L,primary,3344,0,41,Average,20,8,7,High,4589,484955,24814,Pothole Repair,UrbanTrack,Cloudy
+25649015,@#1,secondary,34,0,91,Good,5,2,22,Medium,942,60541,137496,Pothole Repair,UrbanTrack,Cloudy
+25829736,*8'##(#,secondary,3649,0,23,Poor,5,12,3,Low,5856,286756,325910,Pothole Repair,UrbanTrack,Sunny
+26122375,"+%B""4",trunk,1,0,84,Good,3,10,19,Medium,3836,403868,325258,Pothole Repair,RoadCare,Cloudy
+26122376,"+%B""4",primary,1,0,21,Poor,20,15,4,High,4586,233426,202281,Resurfacing,RoadCare,Rainy
+26172258,Thanon Bo Phut,secondary,4171,0,38,Poor,16,12,17,High,8138,116450,254047,Divider Repair,Thai Infra,Sunny
+26214428,"B""2",secondary,4031,40,70,Average,0,5,8,Low,2214,494824,309202,Resurfacing,Thai Infra,Sunny
+26519121,!4# 2,primary,12,80,56,Average,17,4,5,High,8656,274348,17369,Divider Repair,RoadCare,Cloudy
+27173241,*88!'4,primary,3,0,41,Average,19,4,1,Medium,9872,223717,159472,Divider Repair,RoadCare,Cloudy
+27434186,"+%B""4",trunk,1,0,50,Average,4,2,22,High,6340,196287,246350,Pothole Repair,RoadCare,Foggy
+27434195,"+%B""4",trunk,1,0,43,Average,20,3,25,Low,3420,171904,325124,Resurfacing,SafeHighway,Sunny
+27434620,"
+8@-#LD.@'""L",trunk,11,0,80,Good,0,3,5,High,5751,382371,271180,Divider Repair,RoadCare,Cloudy
+27434984,"+%B""4",trunk,1,0,80,Good,8,2,10,Low,4030,266492,75985,Pothole Repair,UrbanTrack,Cloudy
+27434985,"+%B""4",trunk,1,0,32,Poor,3,9,17,Low,9257,55796,96238,Pothole Repair,SafeHighway,Rainy
+27450362,"-""8""2--H2-",primary,309,0,72,Good,0,5,7,Medium,5073,370549,148486,Resurfacing,UrbanTrack,Foggy
+27460923,"@%5H""@!7-A!H.H-*-",primary,128,0,37,Poor,12,15,22,Low,9451,196034,13767,Resurfacing,UrbanTrack,Cloudy
+27460924,"@%5H""@!7-A!H.H-*-",primary,128,0,63,Average,9,9,18,Medium,7810,52839,180854,Pothole Repair,Thai Infra,Cloudy
+27460925,"@%5H""@!7-A!H.H-*-",primary,128,0,38,Poor,20,13,12,High,1439,425170,356064,Resurfacing,RoadCare,Cloudy
+27466482,"*2""A!H*-A!H*0@#5""",primary,105,0,44,Average,5,1,11,Low,5167,295353,146709,Divider Repair,SafeHighway,Sunny
+27604257,(#5#4#L,primary,3344,0,88,Good,17,8,18,Medium,1350,267926,198465,Pothole Repair,Thai Infra,Rainy
+27622071,"*2""""8(2*#L",trunk,331,0,88,Good,16,2,23,Medium,5264,499160,300935,Resurfacing,RoadCare,Sunny
+27661771,#1*4-8!25,primary,346,0,77,Good,17,6,22,High,8498,194987,297505,Divider Repair,SafeHighway,Rainy
+27661822,4'2L,primary,346,0,87,Good,13,6,4,High,177,437799,217929,Divider Repair,UrbanTrack,Cloudy
+27678328,Naresuan Bridge,primary,12,80,41,Average,10,9,10,Low,7062,156872,379500,Resurfacing,SafeHighway,Sunny
+27954911,*%1--@JAI,tertiary,#.4110,0,38,Poor,3,5,14,High,3667,313159,367677,Divider Repair,Thai Infra,Cloudy
+28508967,#-4#L,primary,.1020,0,64,Average,13,4,18,Low,4579,197366,46677,Divider Repair,RoadCare,Sunny
+28519161,#-4#L,primary,.1020,0,25,Poor,20,13,19,Medium,4000,151297,221093,Pothole Repair,UrbanTrack,Sunny
+28519369,2!'(L'2,primary,302,60,89,Good,8,15,10,Medium,4831,346596,369313,Divider Repair,RoadCare,Sunny
+28519601,#1*4-8!25,primary,346,0,72,Good,17,9,24,Low,8234,437844,339729,Pothole Repair,UrbanTrack,Sunny
+28519641,4'2L,primary,306,0,83,Good,19,7,21,Low,4771,129364,314074,Divider Repair,Thai Infra,Cloudy
+28526297,"B""2",secondary,4031,0,95,Good,13,14,25,Low,2931,54931,350083,Pothole Repair,Thai Infra,Cloudy
+28924581,#02#!5,secondary,4030,0,83,Good,14,0,21,High,2299,417059,218855,Pothole Repair,Thai Infra,Rainy
+29255435,"+%B""4",trunk,1,0,94,Good,12,12,5,High,8960,63374,317794,Resurfacing,SafeHighway,Cloudy
+29422719,@)!*8,primary,24,0,63,Average,4,13,17,Medium,4871,389273,110810,Pothole Repair,Thai Infra,Rainy
+29423326,*44!22#,primary,24,0,51,Average,15,14,8,Medium,8294,407591,300518,Pothole Repair,RoadCare,Foggy
+29791076,3+#8-2%5,primary,3256,0,45,Average,12,10,10,High,7635,215943,158652,Resurfacing,SafeHighway,Rainy
+29791134,*88!'4,trunk,3,0,90,Good,5,15,22,Low,8444,151117,221372,Divider Repair,UrbanTrack,Foggy
+29792294,#124@(#L,secondary,302,0,42,Average,13,14,22,Low,4359,167186,259451,Pothole Repair,Thai Infra,Foggy
+29797452,"8!25@ %4!#0@5""#4",primary,3111,0,37,Poor,8,0,10,Low,9799,436361,285217,Pothole Repair,Thai Infra,Foggy
+29797603,"8!25@ %4!#0@5""#4",primary,3111,0,36,Poor,4,3,24,Medium,1339,367882,61616,Divider Repair,SafeHighway,Rainy
+29797604,"8!25@ %4!#0@5""#4",primary,3111,0,90,Good,10,8,1,Low,3321,402011,76082,Divider Repair,SafeHighway,Foggy
+29797605,"8!25@ %4!#0@5""#4",primary,3111,0,74,Good,19,14,3,Medium,6689,218147,283364,Pothole Repair,Thai Infra,Rainy
+29797607,"8!25@ %4!#0@5""#4",primary,3111,0,81,Good,2,6,1,High,7977,105144,337197,Divider Repair,UrbanTrack,Cloudy
+29797980,"(8#0""9#",primary,304,0,57,Average,8,8,10,Medium,5434,277474,33989,Divider Repair,Thai Infra,Cloudy
+29797982,"(8#0""9#",primary,315,0,22,Poor,6,5,3,High,8842,499210,219743,Divider Repair,Thai Infra,Sunny
+29797984,"(8#0""9#",primary,304,0,64,Average,11,12,18,Medium,2482,446532,372037,Divider Repair,UrbanTrack,Rainy
+29977042,*8*'1*4L,primary,303,0,44,Average,5,1,10,Medium,3406,309107,322227,Resurfacing,UrbanTrack,Cloudy
+29977044,*8*'1*4L,primary,303,0,29,Poor,14,6,19,Medium,4147,352069,224445,Divider Repair,RoadCare,Foggy
+30777719,25-%-*,tertiary,..59-005,0,71,Good,1,8,3,Low,2999,115477,287865,Resurfacing,SafeHighway,Foggy
+31060788,'A+'#-@!7-*8#2)#L25,trunk,420,0,28,Poor,14,7,12,Low,5470,304593,274298,Divider Repair,Thai Infra,Rainy
+31142590,*8'4'(L,trunk,304,0,50,Average,5,6,22,Medium,4641,70213,230118,Pothole Repair,RoadCare,Foggy
+31423273,#2!-4#2,primary,304,0,28,Poor,20,6,20,Low,2908,101026,240500,Divider Repair,UrbanTrack,Cloudy
+31423277,#2!-4#2,trunk,304,0,46,Average,1,13,17,Medium,6613,101482,99358,Resurfacing,Thai Infra,Sunny
+31952657,!4# 2,secondary,2,0,60,Average,9,8,12,Medium,2768,236015,329945,Divider Repair,RoadCare,Cloudy
+32007064,"+%B""4",primary,1,60,94,Good,14,7,21,High,6832,401030,36261,Divider Repair,UrbanTrack,Sunny
+32008077,'4 2'5#1*4,secondary,31,80,90,Good,16,14,12,Medium,6815,282280,185165,Pothole Repair,Thai Infra,Sunny
+32008424,'4 2'5#1*4,secondary,31,80,65,Average,5,13,7,Low,723,461347,12459,Divider Repair,RoadCare,Sunny
+32008434,'4 2'5#1*4,trunk,31,80,89,Good,18,3,4,Medium,7332,129199,90365,Divider Repair,Thai Infra,Foggy
+32008435,'4 2'5#1*4,trunk,31,80,72,Good,6,6,14,Low,6686,210542,167558,Divider Repair,Thai Infra,Foggy
+32008731,'4 2'5#1*4,trunk,31,80,27,Poor,13,2,21,Medium,3758,122993,308831,Resurfacing,Thai Infra,Rainy
+32008732,"+%B""4",trunk,1,0,74,Good,12,13,1,Medium,8788,247546,71688,Divider Repair,UrbanTrack,Sunny
+32015461,"@%5H""@!7-2@#G",secondary,.3019,60,71,Good,12,2,7,High,3256,319190,392326,Pothole Repair,RoadCare,Rainy
+32015462,"@%5H""@!7-2@#G",secondary,.3019,60,84,Good,6,9,18,High,8081,448000,320402,Divider Repair,Thai Infra,Foggy
+32015614,"@%5H""@!7-2@#G",secondary,.3019,60,82,Good,19,3,18,Low,2766,112894,105148,Resurfacing,SafeHighway,Rainy
+32024890,"@%5H""@!7-2@#G",secondary,.3019,60,61,Average,17,0,7,High,6474,250683,282617,Pothole Repair,Thai Infra,Rainy
+32024977,'4 2'5#1*4,secondary,31,80,49,Average,8,14,8,Low,6228,383933,155992,Pothole Repair,SafeHighway,Cloudy
+32045132,'4 2'5#1*4,secondary,31,80,95,Good,10,1,1,Low,1091,253272,393940,Divider Repair,RoadCare,Foggy
+32046481,"2""#01-8#2 4!8",motorway,31,100,81,Good,7,1,20,High,7317,232231,234469,Divider Repair,SafeHighway,Cloudy
+32046949,'4 2'5#1*4,trunk,31,80,26,Poor,9,7,12,Low,7296,129343,188622,Resurfacing,UrbanTrack,Sunny
+32048956,"2""#01-8#2 4!8",motorway,31,100,75,Good,4,6,18,Medium,8355,258322,331436,Pothole Repair,RoadCare,Foggy
+32048961,"2""#01-8#2 4!8",motorway,31,100,52,Average,5,9,14,Low,5757,313363,14767,Resurfacing,SafeHighway,Rainy
+32049311,'4 2'5#1*4,trunk,31,80,90,Good,9,6,15,Low,2952,187854,359512,Resurfacing,UrbanTrack,Sunny
+32049312,'4 2'5#1*4,secondary_link,31,0,50,Average,1,1,5,Low,8578,492767,192294,Resurfacing,UrbanTrack,Foggy
+32049343,'4 2'5#1*4,secondary_link,31,0,36,Poor,3,7,15,High,1430,199919,16563,Pothole Repair,Thai Infra,Foggy
+32049411,'4 2'5#1*4,secondary_link,31,0,88,Good,6,13,1,Medium,9959,496592,366342,Resurfacing,RoadCare,Rainy
+32081375,'4 2'5#1*4,secondary_link,31,0,29,Poor,4,8,23,Medium,8368,216087,121660,Pothole Repair,SafeHighway,Cloudy
+32081376,'4 2'5#1*4,secondary_link,31,0,50,Average,8,2,15,High,7900,404608,113954,Pothole Repair,RoadCare,Cloudy
+32081441,'4 2'5#1*4,secondary_link,31,0,36,Poor,17,7,19,Medium,3795,298557,274207,Resurfacing,RoadCare,Cloudy
+32081648,'4 2'5#1*4,trunk,31,0,62,Average,1,1,25,Medium,4168,429193,225390,Divider Repair,SafeHighway,Sunny
+32084877,'4 2'5#1*4,trunk,31,80,78,Good,7,8,10,Low,8769,204119,246244,Divider Repair,UrbanTrack,Foggy
+32087514,2!'(L'2,primary,302,60,49,Average,20,9,9,Low,198,71734,268190,Resurfacing,RoadCare,Foggy
+32087539,2!'(L'2,primary,302,60,26,Poor,15,7,14,Low,7945,325968,378498,Resurfacing,SafeHighway,Sunny
+32087542,2!'(L'2,primary,302,60,51,Average,20,11,4,Medium,6151,158949,224716,Resurfacing,RoadCare,Rainy
+32087890,"+%B""4",primary,1,80,84,Good,5,10,3,Medium,1818,460664,319509,Pothole Repair,RoadCare,Foggy
+32087936,"+%B""4",primary,1,80,36,Poor,5,10,4,Medium,8053,357124,367884,Divider Repair,SafeHighway,Cloudy
+32087937,"+%B""4",primary,1,80,47,Average,5,12,7,High,3671,454936,291289,Resurfacing,UrbanTrack,Foggy
+32088117,"+%B""4",primary,1,80,79,Good,6,11,23,High,9730,194947,316270,Divider Repair,SafeHighway,Sunny
+32088125,"+%B""4",primary,1,80,56,Average,17,3,10,Low,5057,462828,157753,Divider Repair,UrbanTrack,Foggy
+32089853,2!'(L'2,primary,302,60,51,Average,20,4,21,Medium,3441,107668,61487,Pothole Repair,Thai Infra,Sunny
+32089854,2!'(L'2,primary,302,60,40,Poor,14,14,20,Medium,2418,496452,307313,Pothole Repair,Thai Infra,Sunny
+32089857,2!'(L'2,primary,302,60,56,Average,15,15,20,High,7345,360910,149830,Divider Repair,SafeHighway,Sunny
+32089863,2!'(L'2,primary,302,60,92,Good,2,6,19,Low,4679,74400,293666,Pothole Repair,SafeHighway,Foggy
+32089864,2!'(L'2,primary,302,60,60,Average,0,8,3,Low,1853,250239,345601,Resurfacing,Thai Infra,Sunny
+32089865,2!'(L'2,primary,302,60,23,Poor,18,13,18,Medium,2614,458892,279664,Pothole Repair,RoadCare,Cloudy
+32370997,(#5*8#,secondary,4025,0,68,Average,10,11,15,Low,3758,69754,142173,Divider Repair,SafeHighway,Foggy
+32371230,#0@!2,secondary, .4055,0,45,Average,17,3,25,Low,5140,76161,124052,Pothole Repair,UrbanTrack,Rainy
+32425207,BB,tertiary,4233,0,81,Good,15,6,1,Low,1282,365872,212794,Pothole Repair,UrbanTrack,Foggy
+32425303,"C*""'",tertiary, .4009,0,66,Average,7,7,25,Medium,9102,284386,14825,Divider Repair,SafeHighway,Rainy
+32511183,AI'10,primary,304,0,57,Average,14,3,8,Medium,2578,193145,208558,Divider Repair,Thai Infra,Rainy
+32511185,AI'10,primary,304,0,95,Good,15,14,9,High,7091,68154,253224,Pothole Repair,Thai Infra,Foggy
+32511187,AI'10,primary,304,0,29,Poor,1,9,18,Low,5497,281085,391970,Divider Repair,UrbanTrack,Rainy
+32511188,AI'10,primary,304,0,81,Good,2,1,25,Medium,1505,138259,355943,Divider Repair,SafeHighway,Foggy
+32511199,AI'10,primary,304,0,93,Good,14,3,2,Low,8114,342045,25009,Pothole Repair,SafeHighway,Rainy
+32511200,AI'10,primary,304,0,42,Average,17,7,6,Low,1195,249586,385699,Divider Repair,SafeHighway,Cloudy
+32527612,!4# 2,primary,12,80,65,Average,18,0,13,Medium,2731,413758,236595,Pothole Repair,SafeHighway,Cloudy
+32527690,*4+'1L,primary,12,80,93,Good,11,7,7,High,256,121343,251278,Resurfacing,SafeHighway,Sunny
+32618404,!4# 2,primary,2,0,91,Good,1,1,10,Low,5637,341636,274305,Pothole Repair,UrbanTrack,Cloudy
+32659770,#0#2!5H 2,trunk,35,0,82,Good,6,12,22,Low,7482,79803,11488,Resurfacing,RoadCare,Sunny
+32660295,#0#2!5H 2,trunk,35,0,80,Good,1,3,17,Low,5214,378421,343022,Resurfacing,SafeHighway,Cloudy
+32662793,"+%B""4",trunk,1,0,48,Average,18,1,13,High,3459,350159,262975,Resurfacing,RoadCare,Sunny
+32663089,"+%B""4",trunk,1,0,82,Good,3,4,2,Medium,3698,113143,186689,Divider Repair,RoadCare,Foggy
+32663231,"+%B""4",trunk,1,80,35,Poor,18,3,9,Low,934,161173,75877,Divider Repair,RoadCare,Sunny
+32665572,'A+'#-@!7-4)8B%,trunk,126,0,36,Poor,5,7,0,High,9882,326988,116006,Resurfacing,RoadCare,Foggy
+32665573,'A+'#-@!7-4)8B%,trunk,126,0,54,Average,12,15,4,Low,4078,426766,31633,Divider Repair,UrbanTrack,Foggy
+32665594,'A+'#-@!7-4)8B%,trunk,126,0,56,Average,7,1,24,High,6518,317425,151766,Resurfacing,RoadCare,Foggy
+32665619,'A+'#-@!7-4)8B%,trunk,126,0,33,Poor,4,5,12,Medium,9677,70990,326449,Resurfacing,SafeHighway,Cloudy
+32665636,'A+'#-@!7-4)8B%,trunk,126,0,63,Average,1,2,0,Low,2561,454006,323316,Resurfacing,RoadCare,Foggy
+32665916,*4+'1L,primary,12,80,26,Poor,5,14,11,Low,2494,203330,389574,Resurfacing,Thai Infra,Foggy
+32665975,!4# 2,primary,12,80,57,Average,7,3,9,High,3907,61687,365840,Pothole Repair,RoadCare,Foggy
+32666064,Naresuan Bridge,primary,12,80,25,Poor,20,1,9,High,2470,194922,24293,Pothole Repair,UrbanTrack,Foggy
+32666704,*4+'1L,primary,12,0,88,Good,14,3,8,High,4018,97512,91562,Pothole Repair,SafeHighway,Rainy
+32683055,!%4'##,primary,12,0,86,Good,6,0,17,Low,8227,381836,366700,Divider Repair,RoadCare,Foggy
+32683477,"+%B""4",trunk,1,0,93,Good,12,2,23,Medium,6756,302351,396095,Resurfacing,SafeHighway,Rainy
+32684811,"*02!4# 2D""-!H2",primary,12,0,35,Poor,2,5,21,Low,4947,297750,366553,Resurfacing,SafeHighway,Sunny
+32742854,+1'+4 105,tertiary,.1019,0,42,Average,4,4,5,High,6648,366064,104254,Resurfacing,Thai Infra,Cloudy
+32806384,#2525,secondary,320,0,72,Good,14,5,16,High,2794,297815,283665,Resurfacing,SafeHighway,Foggy
+32806526,#252!,secondary,3452,0,77,Good,4,14,8,High,2329,387367,193802,Divider Repair,UrbanTrack,Cloudy
+32806528,#252!,secondary,3452,0,85,Good,2,6,5,Medium,8707,59837,66594,Pothole Repair,RoadCare,Foggy
+32845398,!%4'##,trunk,12,0,38,Poor,2,2,3,High,7521,385665,286089,Divider Repair,Thai Infra,Foggy
+32877130,A**8,secondary,3144,0,72,Good,18,7,16,Medium,6296,272908,307200,Pothole Repair,RoadCare,Sunny
+32894910,"*2""""8(2*#L",trunk,331,0,25,Poor,9,12,11,High,1265,186806,338691,Divider Repair,RoadCare,Foggy
+32905112,*2#2!-'258!,primary,2040,0,34,Poor,20,14,0,Medium,7735,89496,119764,Divider Repair,Thai Infra,Cloudy
+32998646,highway to nowhere,secondary,4034,0,20,Poor,1,10,23,Medium,1240,130546,147022,Pothole Repair,Thai Infra,Foggy
+33006824,"@%5H""@!7-+%H!*1",trunk,21,90,95,Good,16,8,8,Medium,9512,257968,166214,Resurfacing,SafeHighway,Cloudy
+33057205,"+%B""4",primary,1,0,26,Poor,8,14,13,High,7442,376995,203505,Divider Repair,RoadCare,Rainy
+33081693,"#1*4-#2""",primary,305,0,41,Average,8,4,3,Medium,3170,130722,236685,Divider Repair,RoadCare,Sunny
+33082201,"+%B""4",secondary,1,0,52,Average,19,6,1,High,9004,377364,145037,Pothole Repair,RoadCare,Sunny
+33082220,"+%B""4",secondary,1,0,71,Good,18,8,1,Medium,3529,425560,236260,Divider Repair,SafeHighway,Sunny
+33082234,"+%B""4",secondary,1,0,87,Good,10,7,24,High,7363,459368,161649,Pothole Repair,RoadCare,Foggy
+33082245,"+%B""4",trunk,1,0,61,Average,12,0,18,Medium,5201,419184,257720,Resurfacing,SafeHighway,Rainy
+33082257,"+%B""4",trunk,1,0,62,Average,8,2,20,High,3499,157371,203045,Pothole Repair,UrbanTrack,Cloudy
+33082266,"+%B""4",secondary,1,0,84,Good,14,10,10,Medium,4364,136347,250552,Resurfacing,Thai Infra,Cloudy
+33082301,"+%B""4",secondary,1,0,85,Good,15,1,13,Medium,3397,295003,163803,Divider Repair,RoadCare,Sunny
+33083810,"+%B""4",secondary,1,0,39,Poor,13,8,11,High,1826,264875,373787,Pothole Repair,SafeHighway,Rainy
+33084563,"#1*4-#2""",primary,305,0,78,Good,19,15,19,Medium,752,163083,73757,Pothole Repair,Thai Infra,Rainy
+33084670,"+%B""4",secondary,1,0,44,Average,3,0,12,Low,1138,216985,98916,Pothole Repair,SafeHighway,Rainy
+35027221,(#51#L,trunk,12,0,79,Good,1,6,8,Low,5607,162287,387469,Resurfacing,UrbanTrack,Rainy
+35603171,*88!'4,primary,3,0,85,Good,7,8,4,Low,4587,476926,108302,Resurfacing,RoadCare,Foggy
+35745939,@4(,trunk,207,0,83,Good,9,2,7,Low,1623,386876,180441,Resurfacing,SafeHighway,Foggy
+35751557,-#8#0@*#4,secondary,2477,0,55,Average,20,9,12,Low,698,53649,356319,Resurfacing,UrbanTrack,Cloudy
+35764929,"*I!H-"" - %0+2#2""",secondary,2120,0,33,Poor,15,15,10,Low,7671,232249,380268,Divider Repair,SafeHighway,Sunny
+36326598,"*2!A""4! - '1!H'",secondary,3017,0,30,Poor,3,0,25,High,6893,111653,349762,Pothole Repair,RoadCare,Rainy
+36326628,"@%5H""@!7-%8#5",trunk,366,80,93,Good,15,8,8,Medium,1132,280018,213537,Resurfacing,Thai Infra,Sunny
+36326633,8!25-20+1,primary,347,0,80,Good,2,0,6,Low,2480,241284,10675,Pothole Repair,SafeHighway,Sunny
+36335781,"+-%20@5"" - +1'*3B#",secondary,3551,0,80,Good,0,7,1,High,9568,313154,304256,Divider Repair,RoadCare,Rainy
+36817678,"2A**2"" 1",tertiary,3134,0,85,Good,13,11,13,Low,5559,197466,141592,Resurfacing,UrbanTrack,Cloudy
+37449864,"@(2%@!7--B""""2 3",tertiary,"-"".4-0003",0,94,Good,3,6,18,Medium,6368,373441,296387,Pothole Repair,Thai Infra,Cloudy
+37452912,B#0,primary,309,0,72,Good,1,11,15,High,9522,434077,380371,Resurfacing,SafeHighway,Foggy
+37740267,H-*#I2,secondary,1014,0,69,Average,12,11,3,Low,3425,101544,156677,Resurfacing,Thai Infra,Foggy
+38415265,!+4%,secondary,1141,0,60,Average,20,9,8,High,9508,357809,316095,Divider Repair,SafeHighway,Foggy
+38498795,"*13A*2""C+!H",secondary,1317,0,66,Average,4,12,17,Medium,603,214122,359819,Divider Repair,RoadCare,Sunny
+38500274,'A+'#--,primary,121,0,91,Good,9,9,8,Medium,2472,140828,299715,Divider Repair,Thai Infra,Foggy
+38500279,'A+'#--,primary,121,0,58,Average,7,3,25,Medium,8657,68856,248346,Divider Repair,Thai Infra,Rainy
+38500284,"*13A*2""C+!H",secondary,1317,60,43,Average,6,7,22,Low,3906,459430,261776,Resurfacing,Thai Infra,Rainy
+38500285,!+4%,secondary,1141,0,84,Good,17,10,19,Low,8665,265207,159721,Divider Repair,SafeHighway,Rainy
+38504224,"
+8@-#LD.@'""L",trunk,11,80,35,Poor,4,2,25,Low,8278,260784,315150,Divider Repair,SafeHighway,Sunny
+38504231,"
+8@-#LD.@'""L",trunk,11,80,92,Good,9,9,9,High,6166,391398,124893,Pothole Repair,SafeHighway,Sunny
+38504233,"
+8@-#LD.@'""L",trunk,11,80,63,Average,17,10,20,High,8674,229692,10750,Divider Repair,UrbanTrack,Cloudy
+38504234,"
+8@-#LD.@'""L",trunk,11,80,37,Poor,13,2,7,Medium,7607,194232,284384,Pothole Repair,Thai Infra,Foggy
+38539736,!+4%,secondary,1141,0,53,Average,3,3,16,Low,7770,84977,211439,Divider Repair,UrbanTrack,Sunny
+38539737,!+4%,secondary,1141,0,32,Poor,6,10,24,Low,3974,132688,224614,Pothole Repair,Thai Infra,Foggy
+38539738,!+4%,secondary,1141,0,25,Poor,6,0,22,Low,4566,338887,39208,Divider Repair,SafeHighway,Foggy
+38586008,"@%5H""@!7-%32",trunk,127,0,94,Good,11,14,23,High,8476,286292,274499,Resurfacing,RoadCare,Rainy
+38880037,!9%(2*#*2#,unclassified,3011,0,57,Average,5,6,4,Medium,2085,471551,352182,Resurfacing,UrbanTrack,Foggy
+39633138,"-""8""2--H2-",primary,309,0,81,Good,17,12,24,Low,350,497217,310709,Pothole Repair,Thai Infra,Rainy
+39661673,"@(2%@!7--B""""2 2",secondary,"-"".4-0002",0,64,Average,1,8,10,Medium,4216,475113,148245,Divider Repair,RoadCare,Sunny
+39662036,+I2#0%2 - I2#1',secondary,3034,0,64,Average,14,6,24,Low,3220,215311,386877,Divider Repair,SafeHighway,Cloudy
+39662037,+I2#0%2 - I2#1',secondary,3034,0,77,Good,3,3,17,High,6244,151670,98434,Pothole Repair,UrbanTrack,Sunny
+39683710,"
+8@-#LD.@'""L",trunk,11,80,25,Poor,7,13,3,Medium,5681,304959,21901,Resurfacing,SafeHighway,Sunny
+39683712,"
+8@-#LD.@'""L",trunk,11,80,90,Good,19,2,15,Low,3937,259390,164895,Divider Repair,Thai Infra,Cloudy
+39683714,"
+8@-#LD.@'""L",trunk,11,60,59,Average,8,12,16,Low,2636,220574,47466,Divider Repair,UrbanTrack,Foggy
+39948183,8!25-20+1,primary,347,0,52,Average,3,0,24,Medium,8331,197438,397290,Pothole Repair,UrbanTrack,Cloudy
+39949122,8!25-20+1,primary,347,0,67,Average,4,5,6,Medium,7347,180268,291591,Divider Repair,RoadCare,Rainy
+39949123,8!25-20+1,primary,347,0,59,Average,15,9,10,High,8441,473102,157938,Resurfacing,UrbanTrack,Foggy
+39949124,8!25-20+1,primary,347,0,81,Good,3,5,10,High,7517,454435,251996,Divider Repair,SafeHighway,Sunny
+39949125,8!25-20+1,primary,347,0,95,Good,18,12,3,Medium,7416,276887,164946,Divider Repair,RoadCare,Rainy
+39949131,"@%5H""@!7--""8""2",primary,356,0,43,Average,14,1,9,High,841,196356,61775,Resurfacing,UrbanTrack,Rainy
+40030752,*88!'4,trunk,3,0,85,Good,20,8,17,High,9794,181622,128209,Resurfacing,UrbanTrack,Rainy
+40134360,"!+2""(",primary,101,50,84,Good,9,14,11,High,7340,238966,283058,Resurfacing,SafeHighway,Sunny
+40134370,"*8#4"")L",primary,101,50,23,Poor,2,0,2,Low,5008,393071,100802,Pothole Repair,SafeHighway,Rainy
+40134381,*0212 2@+7-,secondary,.001,0,23,Poor,14,7,22,High,7107,218020,371106,Resurfacing,SafeHighway,Sunny
+40153220,!%4'##,primary,201,0,88,Good,14,10,13,Medium,5401,98721,54134,Pothole Repair,SafeHighway,Sunny
+40189133,"D""*2!15",tertiary,!.3138,0,57,Average,18,1,24,Low,9126,167569,53535,Pothole Repair,UrbanTrack,Sunny
+40191155,"#2""-*2#42",secondary,3049,0,29,Poor,3,5,7,High,6945,482412,136975,Pothole Repair,RoadCare,Rainy
+40191156,"#2""-*2#42",secondary,3049,0,62,Average,9,6,22,Medium,3805,271351,260636,Resurfacing,UrbanTrack,Sunny
+40191159,"*8'##(# (*2""C)",primary,305,0,28,Poor,8,5,21,Low,5773,88887,43856,Divider Repair,RoadCare,Foggy
+40191160,*8'##(#,primary,33,0,49,Average,19,3,1,High,4541,351248,228127,Pothole Repair,UrbanTrack,Cloudy
+40191375,"+%B""4",trunk,1,0,63,Average,19,9,8,Medium,6860,359184,23885,Divider Repair,UrbanTrack,Cloudy
+40191376,"+%B""4",trunk,1,0,52,Average,11,2,15,Low,5418,243394,343269,Resurfacing,SafeHighway,Sunny
+40191391,"+I'""D#I - +I'""I3#4",secondary,1149,0,65,Average,14,6,22,Medium,2863,344632,300533,Pothole Repair,UrbanTrack,Cloudy
+40191688,"+%B""4",primary,1,0,42,Average,12,4,2,High,3990,370172,268914,Divider Repair,Thai Infra,Cloudy
+40191713,"+%B""4",trunk,1,0,32,Poor,7,10,16,Medium,5206,142223,159147,Resurfacing,RoadCare,Foggy
+40195478,"+%B""4",trunk,1,0,31,Poor,0,8,22,Low,1397,471241,163452,Resurfacing,RoadCare,Sunny
+40195479,*8'##(#,secondary,3649,0,49,Average,0,10,17,Medium,4122,396688,84307,Pothole Repair,RoadCare,Cloudy
+40195480,*8'##(#,secondary,3649,0,38,Poor,8,10,7,High,689,376174,151110,Resurfacing,RoadCare,Sunny
+40195481,*8'##(#,secondary,3649,0,28,Poor,18,9,2,Low,1503,483337,114598,Pothole Repair,RoadCare,Foggy
+40196196,*8'##(#,primary,33,0,63,Average,10,14,23,High,8728,373864,78427,Resurfacing,SafeHighway,Rainy
+40196197,*8'##(#,primary,33,0,42,Average,16,4,4,Low,7995,61745,16857,Divider Repair,SafeHighway,Sunny
+40196199,*8'##(#,primary,33,0,25,Poor,0,8,22,Low,9588,405240,272439,Resurfacing,Thai Infra,Rainy
+40212025,"@%5H""@!7-2",primary,107,0,65,Average,7,12,6,High,5806,165961,380817,Divider Repair,SafeHighway,Foggy
+40230219,"!2%1""A!",primary,321,0,22,Poor,13,9,16,Medium,7033,378512,231249,Divider Repair,Thai Infra,Cloudy
+40233516,#0#2!5H 2,trunk,35,0,82,Good,6,10,17,High,1412,377412,88651,Resurfacing,SafeHighway,Sunny
+40233518,#0#2!5H 2,trunk,35,0,71,Good,5,0,6,High,9433,117998,302952,Resurfacing,RoadCare,Sunny
+40261297,"""#2#3#",primary,406,0,54,Average,18,3,7,Medium,7502,208723,104765,Divider Repair,RoadCare,Foggy
+40261302,"""#2#3#",primary,406,0,44,Average,16,10,20,Medium,727,72733,352907,Divider Repair,RoadCare,Foggy
+40262293,(#512,trunk,4,0,28,Poor,6,9,5,Low,9653,351277,177069,Divider Repair,UrbanTrack,Sunny
+40267212,#0#2!5H 2,trunk,35,0,31,Poor,9,5,24,High,8938,347566,346400,Divider Repair,Thai Infra,Foggy
+40267334,#0#2!5H 2,trunk,35,0,26,Poor,2,6,1,High,4501,288107,326122,Pothole Repair,RoadCare,Foggy
+40268077,"+%H!*1-@%""",trunk,21,0,29,Poor,16,1,1,Medium,4550,433728,278466,Pothole Repair,RoadCare,Sunny
+40268079,"+%H!*1-@%""",trunk,21,0,40,Poor,13,8,0,Low,5452,464763,305819,Pothole Repair,RoadCare,Rainy
+40268081,"+%H!*1-@%""",trunk,21,0,43,Average,16,1,11,High,1110,396591,92074,Pothole Repair,UrbanTrack,Foggy
+40268084,"+%H!*1-@%""",trunk,21,80,67,Average,3,4,3,Low,341,444970,361969,Pothole Repair,RoadCare,Rainy
+40268086,"+%H!*1-@%""",trunk,21,0,94,Good,0,6,1,Low,281,418835,389535,Resurfacing,Thai Infra,Sunny
+40268400,"@%5H""@!7-*#08#5",trunk,362,0,68,Average,19,4,16,Medium,323,306846,83860,Pothole Repair,SafeHighway,Rainy
+40268401,"@%5H""@!7-*#08#5",trunk,362,0,59,Average,4,10,20,Medium,6105,267179,377970,Divider Repair,SafeHighway,Foggy
+40268402,"@%5H""@!7-*#08#5",trunk,362,0,61,Average,13,14,12,High,4787,176760,50071,Pothole Repair,UrbanTrack,Cloudy
+40268404,"@%5H""@!7-*#08#5",trunk,362,0,40,Poor,8,3,6,High,2772,352787,76405,Pothole Repair,SafeHighway,Cloudy
+40268405,"@%5H""@!7-*#08#5",trunk,362,0,79,Good,15,5,15,High,9871,72506,67191,Pothole Repair,UrbanTrack,Rainy
+40268407,"+%B""4",primary,1,0,32,Poor,11,3,13,Low,9809,64107,252069,Resurfacing,Thai Infra,Sunny
+40283496,"@%5H""@!7--""8""2",primary,356,0,80,Good,13,8,16,High,9847,472858,50267,Divider Repair,SafeHighway,Rainy
+40283498,"@%5H""@!7--""8""2",primary,356,0,79,Good,16,14,25,High,1688,279964,291277,Divider Repair,UrbanTrack,Sunny
+40534638,*!@G-!82+2#,primary,299,0,23,Poor,5,15,14,Low,4959,416742,304827,Resurfacing,Thai Infra,Cloudy
+40534646,"@%5H""@!7-!82+2#",trunk,238,0,34,Poor,9,0,12,Medium,5730,361314,296218,Pothole Repair,SafeHighway,Sunny
+40550319,AI*4,primary,229,0,66,Average,17,11,24,High,1247,87675,111506,Pothole Repair,RoadCare,Rainy
+40600252,"@%5H""@!7-8D*",secondary,2436,0,24,Poor,0,9,5,High,1103,282546,367423,Pothole Repair,RoadCare,Foggy
+40666299,"+%B""4",trunk,1,0,93,Good,0,11,8,Low,5713,388155,295353,Resurfacing,SafeHighway,Rainy
+40666300,"+%B""4",trunk,1,0,54,Average,7,15,23,Medium,3567,422908,196515,Divider Repair,RoadCare,Rainy
+41063922,#+%' - H2@#7-,secondary,3467,0,25,Poor,12,1,13,High,3741,398735,166534,Pothole Repair,Thai Infra,Sunny
+41712908,*#0B#2,tertiary,*#.3038,0,27,Poor,11,2,3,Medium,4244,393307,378107,Divider Repair,Thai Infra,Cloudy
+41712909,#2)#L 15,secondary,*#.3038,0,71,Good,16,9,10,High,1858,151970,398460,Resurfacing,Thai Infra,Sunny
+42303976,"-""8""2-*8##8#5",primary,3263,0,46,Average,14,13,20,Low,751,113658,189880,Pothole Repair,SafeHighway,Cloudy
+42316647,"2+%'I-4H *2""I2A' - I2#@",tertiary,"-"".1-0006",0,88,Good,8,8,15,High,8145,337045,373148,Divider Repair,Thai Infra,Rainy
+43344864,!4# 2,trunk,2,0,80,Good,10,10,0,High,6276,177937,196863,Divider Repair,RoadCare,Foggy
+43344865,!4# 2,primary,2,0,93,Good,5,11,15,High,6531,130955,132534,Resurfacing,RoadCare,Sunny
+43366517,"*2""I2H-B-I2%-*0A",tertiary,"-"".1-0038",0,44,Average,10,8,5,Medium,1148,282399,310764,Divider Repair,Thai Infra,Sunny
+33000001,Naresuan Bridge,secondary,560,110,58,Average,19,15,14,Medium,8034,324867,334149,Resurfacing,RoadCare,Foggy
+33000002,Pattaya Beach Road,secondary,85,110,36,Poor,18,1,23,Medium,5613,150004,247633,Pothole Repair,RoadCare,Cloudy
+33000003,Ratchadaphisek Road,primary,2799,80,69,Average,4,14,6,Low,7616,190265,26263,Resurfacing,UrbanTrack,Cloudy
+33000004,Pattaya Beach Road,tertiary,4231,60,44,Average,6,15,2,Medium,4551,144875,257079,Divider Repair,RoadCare,Cloudy
+33000005,Ratchadaphisek Road,primary,4385,50,81,Good,1,7,8,Medium,7997,432977,270431,Pothole Repair,Thai Infra,Rainy
+33000006,Rama IV Road,tertiary,3688,80,50,Average,8,5,12,High,7726,297410,118269,Pothole Repair,RoadCare,Sunny
+33000007,Mittraphap Road,primary,785,100,83,Good,19,4,6,Low,486,298520,12542,Divider Repair,Thai Infra,Sunny
+33000008,Rama IX Bridge,secondary,1341,90,56,Average,19,3,22,Medium,1320,219450,190837,Pothole Repair,UrbanTrack,Sunny
+33000009,Naradhiwas Road,tertiary,2744,100,52,Average,4,13,18,Low,3984,495662,350899,Divider Repair,RoadCare,Sunny
+33000010,Phahonyothin Road,secondary,4579,80,64,Average,1,5,15,Low,553,70950,169408,Divider Repair,UrbanTrack,Rainy
+33000011,Thai Japanese Bridge,tertiary,1743,110,42,Average,15,6,10,Medium,971,315667,285754,Divider Repair,Thai Infra,Sunny
+33000012,Phuket Main Road,tertiary,2108,70,82,Good,10,13,10,Low,4003,268445,389228,Pothole Repair,Thai Infra,Rainy
+33000013,Vibhavadi Rangsit Road,tertiary,3335,50,63,Average,14,6,20,Medium,3453,390885,337814,Divider Repair,SafeHighway,Sunny
+33000014,Outer Ring Road,tertiary,3700,90,21,Poor,6,14,12,Low,6427,414474,258439,Pothole Repair,SafeHighway,Rainy
+33000015,Lat Phrao Road,tertiary,178,60,54,Average,9,1,14,Medium,5562,243653,45297,Pothole Repair,SafeHighway,Rainy
+33000016,Sukhumvit Road,primary,2681,60,81,Good,5,12,2,Low,5146,376098,243203,Divider Repair,UrbanTrack,Cloudy
+33000017,Mittraphap Road,secondary,1541,90,47,Average,5,13,18,Low,2324,195269,259011,Resurfacing,RoadCare,Foggy
+33000018,Lat Phrao Road,primary,4124,50,51,Average,5,10,11,High,2445,218735,325730,Divider Repair,Thai Infra,Foggy
+33000019,Krung Thon Bridge,secondary,3274,110,66,Average,12,6,22,Low,1900,229466,242331,Resurfacing,UrbanTrack,Rainy
+33000020,Outer Ring Road,primary,1190,90,34,Poor,16,0,20,Low,3329,432892,229028,Resurfacing,Thai Infra,Cloudy
+33000021,Vibhavadi Rangsit Road,secondary,450,100,21,Poor,12,9,16,Low,5601,333921,272978,Divider Repair,SafeHighway,Rainy
+33000022,Phetkasem Road,tertiary,2018,90,52,Average,3,4,4,Low,6873,240672,106475,Divider Repair,RoadCare,Foggy
+33000023,Phuket Main Road,secondary,2754,90,37,Poor,20,0,14,High,7512,467086,363977,Pothole Repair,SafeHighway,Cloudy
+33000024,Outer Ring Road,secondary,4699,60,93,Good,14,13,17,High,8089,154868,19644,Resurfacing,SafeHighway,Cloudy
+33000025,Vibhavadi Rangsit Road,tertiary,4704,100,49,Average,8,14,2,High,1930,116827,351268,Resurfacing,UrbanTrack,Rainy
+33000026,Krung Thon Bridge,secondary,2974,110,29,Poor,2,6,9,Low,3509,335014,399682,Resurfacing,Thai Infra,Rainy
+33000027,Outer Ring Road,secondary,3787,100,67,Average,1,0,1,High,391,358838,245671,Pothole Repair,RoadCare,Rainy
+33000028,Vibhavadi Rangsit Road,secondary,53,60,45,Average,19,4,14,Medium,3137,274599,278931,Divider Repair,SafeHighway,Sunny
+33000029,Phahonyothin Road,tertiary,3750,50,58,Average,4,11,2,High,6540,183269,153061,Resurfacing,RoadCare,Cloudy
+33000030,Phuket Main Road,primary,1295,50,48,Average,10,1,2,Low,3578,72676,312795,Resurfacing,UrbanTrack,Rainy
+33000031,Chiang Mai Highway,tertiary,2527,110,61,Average,0,13,11,Low,4151,107664,17190,Resurfacing,SafeHighway,Sunny
+33000032,Vibhavadi Rangsit Road,secondary,2058,90,25,Poor,16,12,10,Low,3316,221882,309266,Pothole Repair,SafeHighway,Sunny
+33000033,Silom Road,tertiary,1444,60,34,Poor,15,12,22,Low,8003,437629,389734,Resurfacing,Thai Infra,Foggy
+33000034,Lat Phrao Road,primary,52,110,49,Average,11,6,8,Medium,3537,381220,64449,Resurfacing,SafeHighway,Cloudy
+33000035,Rama IV Road,secondary,4253,110,51,Average,10,12,6,Low,8503,105315,58762,Resurfacing,RoadCare,Sunny
+33000036,Hat Yai Bypass,tertiary,3326,50,78,Good,3,9,25,High,6403,345127,260207,Divider Repair,SafeHighway,Rainy
+33000037,Outer Ring Road,primary,1098,110,81,Good,4,13,11,High,4273,140394,81436,Pothole Repair,Thai Infra,Cloudy
+33000038,Mittraphap Road,primary,3281,90,60,Average,17,14,4,High,5609,76954,47838,Resurfacing,SafeHighway,Rainy
+33000039,Thai Japanese Bridge,primary,2248,60,44,Average,20,0,18,High,2696,126003,357197,Resurfacing,Thai Infra,Sunny
+33000040,Asian Highway,secondary,3446,90,26,Poor,8,8,22,High,2670,359032,93819,Resurfacing,Thai Infra,Sunny
+33000041,Hat Yai Bypass,secondary,3076,70,95,Good,19,7,13,High,1579,51310,249316,Resurfacing,UrbanTrack,Rainy
+33000042,Thai Japanese Bridge,secondary,597,100,22,Poor,6,0,23,Low,1599,172804,87041,Divider Repair,SafeHighway,Foggy
+33000043,Pattaya Beach Road,secondary,3078,100,34,Poor,10,14,0,Medium,9414,372706,81817,Resurfacing,RoadCare,Foggy
+33000044,Naresuan Bridge,secondary,1861,90,71,Good,20,3,15,Low,2413,330561,134153,Resurfacing,RoadCare,Cloudy
+33000045,Phuket Main Road,secondary,2962,70,65,Average,11,8,19,Low,7057,248715,389284,Resurfacing,Thai Infra,Foggy
+33000046,Silom Road,tertiary,3606,40,53,Average,7,10,14,Medium,9479,486349,60989,Resurfacing,Thai Infra,Cloudy
+33000047,Vibhavadi Rangsit Road,secondary,51,110,61,Average,13,5,22,Medium,8470,66158,317054,Pothole Repair,Thai Infra,Foggy
+33000048,Mittraphap Road,primary,2367,90,61,Average,18,3,16,High,1396,400467,351398,Divider Repair,Thai Infra,Foggy
+33000049,Naresuan Bridge,primary,1643,60,43,Average,6,2,2,High,5207,153887,181525,Resurfacing,RoadCare,Foggy
+33000050,Mittraphap Road,primary,3089,100,48,Average,5,10,22,High,258,301979,183086,Pothole Repair,SafeHighway,Foggy
+33000051,Naradhiwas Road,secondary,4744,40,77,Good,16,1,4,High,4265,184190,37126,Pothole Repair,UrbanTrack,Rainy
+33000052,Outer Ring Road,tertiary,3853,50,73,Good,12,14,25,High,9010,155878,110149,Pothole Repair,Thai Infra,Cloudy
+33000053,Outer Ring Road,primary,3755,90,39,Poor,6,2,1,Medium,1357,318477,225335,Pothole Repair,RoadCare,Sunny
+33000054,Phuket Main Road,tertiary,813,50,22,Poor,8,10,23,High,7516,171834,304523,Divider Repair,SafeHighway,Cloudy
+33000055,Phuket Main Road,primary,3225,100,58,Average,20,2,11,Low,9743,493133,339561,Divider Repair,UrbanTrack,Rainy
+33000056,Phetkasem Road,primary,4734,60,52,Average,8,12,2,Medium,4334,499196,336757,Resurfacing,RoadCare,Rainy
+33000057,Phetkasem Road,primary,599,100,38,Poor,19,8,18,Medium,7130,323096,239841,Pothole Repair,SafeHighway,Foggy
+33000058,Rama IX Bridge,secondary,4959,80,62,Average,13,7,22,Low,4518,410486,93580,Divider Repair,UrbanTrack,Foggy
+33000059,Silom Road,secondary,3229,40,83,Good,1,1,25,High,6091,64275,183397,Divider Repair,UrbanTrack,Foggy
+33000060,Mittraphap Road,tertiary,4001,70,44,Average,2,7,2,Medium,2081,445285,271896,Resurfacing,SafeHighway,Cloudy
+33000061,Naresuan Bridge,primary,4340,90,85,Good,2,14,21,Low,2871,422176,334305,Divider Repair,Thai Infra,Foggy
+33000062,Vibhavadi Rangsit Road,secondary,1697,110,55,Average,20,7,3,Medium,3861,164951,299979,Resurfacing,UrbanTrack,Sunny
+33000063,Outer Ring Road,secondary,4253,90,79,Good,13,6,16,High,8681,478119,366009,Divider Repair,RoadCare,Cloudy
+33000064,Vibhavadi Rangsit Road,primary,2857,90,31,Poor,0,5,14,Medium,6963,299154,107945,Pothole Repair,Thai Infra,Foggy
+33000065,Silom Road,tertiary,3856,70,74,Good,2,11,23,Low,9953,386254,393983,Pothole Repair,Thai Infra,Rainy
+33000066,Rama IX Bridge,tertiary,1982,90,69,Average,6,3,21,Low,3626,498807,11275,Pothole Repair,UrbanTrack,Foggy
+33000067,Mittraphap Road,secondary,1288,70,63,Average,20,14,23,Low,9322,307666,176715,Resurfacing,Thai Infra,Rainy
+33000068,Lat Phrao Road,secondary,2113,100,82,Good,11,15,15,Low,2335,130246,38752,Pothole Repair,SafeHighway,Sunny
+33000069,Chiang Mai Highway,secondary,4551,80,53,Average,2,12,21,Medium,9307,109242,11840,Pothole Repair,RoadCare,Rainy
+33000070,Asian Highway,primary,2574,60,28,Poor,7,0,22,Low,2306,202072,131679,Divider Repair,Thai Infra,Rainy
+33000071,Phetkasem Road,secondary,3773,90,91,Good,11,15,7,High,5498,433883,376754,Resurfacing,UrbanTrack,Foggy
+33000072,Ratchadaphisek Road,primary,645,80,83,Good,12,6,10,Medium,6351,148778,200280,Pothole Repair,Thai Infra,Foggy
+33000073,Rama IV Road,tertiary,100,40,81,Good,12,14,22,High,7785,360955,161568,Pothole Repair,Thai Infra,Foggy
+33000074,Krung Thon Bridge,primary,3536,50,64,Average,15,0,8,Medium,153,108880,150120,Pothole Repair,SafeHighway,Rainy
+33000075,Rama IV Road,secondary,2089,40,21,Poor,0,14,1,Medium,7196,131160,81763,Divider Repair,RoadCare,Foggy
+33000076,Silom Road,primary,4405,40,86,Good,13,1,13,High,6118,449408,217896,Pothole Repair,SafeHighway,Rainy
+33000077,Mittraphap Road,tertiary,2264,100,84,Good,9,9,18,Medium,7419,372649,144541,Resurfacing,Thai Infra,Rainy
+33000078,Outer Ring Road,tertiary,897,40,36,Poor,1,3,20,Medium,9797,194962,135381,Pothole Repair,RoadCare,Sunny
+33000079,Mittraphap Road,tertiary,2386,70,73,Good,16,7,18,Low,6015,205939,191838,Resurfacing,UrbanTrack,Rainy
+33000080,Thai Japanese Bridge,tertiary,4299,40,50,Average,6,3,17,Medium,3093,351938,340670,Divider Repair,RoadCare,Sunny

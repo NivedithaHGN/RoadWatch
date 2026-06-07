@@ -1,0 +1,12 @@
+[
+  { "full_name": "Official Alice", "email": "alice@gov.org", "password": "alice123", "role": "govt" },
+  { "full_name": "Official Bob", "email": "bob@gov.org", "password": "bob123", "role": "govt" },
+  { "full_name": "Official Carol", "email": "carol@gov.org", "password": "carol123", "role": "govt" },
+  { "full_name": "Official Dave", "email": "dave@gov.org", "password": "dave123", "role": "govt" },
+  { "full_name": "Official Eve", "email": "eve@gov.org", "password": "eve123", "role": "govt" },
+  { "full_name": "Official Frank", "email": "frank@gov.org", "password": "frank123", "role": "govt" },
+  { "full_name": "Official Grace", "email": "grace@gov.org", "password": "grace123", "role": "govt" },
+  { "full_name": "Official Heidi", "email": "heidi@gov.org", "password": "heidi123", "role": "govt" },
+  { "full_name": "Official Ivan", "email": "ivan@gov.org", "password": "ivan123", "role": "govt" },
+  { "full_name": "Official Judy", "email": "judy@gov.org", "password": "judy123", "role": "govt" }
+]

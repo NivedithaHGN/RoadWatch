@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ROADWATCH - Infrastructure Intelligence Dashboard</title>
+
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+</head>
+
+<body>
+
+<!-- Welcome Login Modal -->
+<div id="welcomeModal" class="modal-overlay" style="display: none;">
+  <div class="modal-content">
+    <h2>Welcome to ROADWATCH</h2>
+    <p>Please sign in to submit and manage your infrastructure reports.</p>
+    <div class="modal-buttons">
+      <button class="btn-primary" onclick="window.location.href='login.html'">Sign In / Register</button>
+      <button class="btn-secondary" onclick="closeWelcomeModal()">Continue as Guest</button>
+    </div>
+  </div>
+</div>
+
+<div class="sidebar">
+  <div class="sidebar-top">
+    <h1>ROADWATCH</h1>
+    <ul>
+      <li class="active" onclick="window.location.href='index.html'">
+        <span>📊</span> Dashboard
+      </li>
+      <li onclick="window.location.href='contractors.html'">
+        <span>👷</span> Contractors
+      </li>
+      <li onclick="window.location.href='complaints.html'">
+        <span>⚠️</span> Complaints
+      </li>
+      <li onclick="window.location.href='analytics.html'">
+        <span>📈</span> Analytics
+      </li>
+      <li onclick="window.location.href='reports.html'">
+        <span>📁</span> Reports
+      </li>
+      <li onclick="window.location.href='settings.html'">
+        <span>⚙️</span> Settings
+      </li>
+    </ul>
+
+    <div class="country-box">
+      <h3>Select Country</h3>
+      <select id="countrySelect">
+        <option disabled>Loading countries...</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="sidebar-footer">
+    <div class="user-profile-badge" id="userProfileBadge" onclick="window.location.href='login.html'">
+      <div class="user-avatar" id="avatarLetter">P</div>
+      <div class="user-info">
+        <span class="user-name" id="profileName">Guest Session</span>
+        <span class="user-role" id="profileRole">Sign In</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="main-content">
+
+  <div class="topbar">
+    <input
+      type="text"
+      id="globalSearch"
+      placeholder="Search roads, projects or contractors..."
+    >
+
+    <div class="login-buttons" id="authHeaderButtons">
+      <button class="btn-secondary" onclick="window.location.href='login.html'">
+        Citizen Login
+      </button>
+      <button class="btn-primary" onclick="window.location.href='login.html'">
+        Govt Official Login
+      </button>
+    </div>
+  </div>
+
+  <div class="cards">
+    <div class="card">
+      <h2>Total Projects</h2>
+      <p id="projectsCount">--</p>
+      <div class="trend"><span>↑</span> 12% from last quarter</div>
+    </div>
+
+    <div class="card">
+      <h2>Road Health Score</h2>
+      <p id="healthScore">--</p>
+      <div class="trend"><span>↑</span> 4.2% quality rise</div>
+    </div>
+
+    <div class="card">
+      <h2>Active Complaints</h2>
+      <p id="complaintsCount">--</p>
+      <div class="trend" style="color: var(--color-danger)"><span>↑</span> 3% active reports</div>
+    </div>
+
+    <div class="card">
+      <h2>Total Budget</h2>
+      <p id="budgetCount">--</p>
+      <div class="trend"><span>↓</span> 1.5% optimized cost</div>
+    </div>
+  </div>
+
+  <div class="map-section">
+    <div id="map"></div>
+
+    <div class="map-info">
+      <h2>Country Projects</h2>
+      <div id="projectContainer">
+        <!-- Loaded dynamically -->
+      </div>
+    </div>
+  </div>
+
+  <div class="bottom-grid">
+    <div class="panel">
+      <h2>Recent Complaints</h2>
+      <div id="complaintsContainer">
+        <!-- Loaded dynamically -->
+      </div>
+    </div>
+
+    <div class="panel" id="complaintFormContainer">
+      <h2>Upload Complaint</h2>
+      <form id="complaintForm" enctype="multipart/form-data">
+        <input
+          type="text"
+          id="title"
+          name="title"
+          placeholder="Complaint Title"
+          required
+        >
+
+        <textarea
+          id="description"
+          name="description"
+          placeholder="Complaint Description..."
+        ></textarea>
+
+        <input
+          type="text"
+          id="location"
+          name="location"
+          placeholder="Specific Road/Location Name"
+          required
+        >
+
+        <input type="file" id="photo" name="photo" accept="image/*">
+
+        <button type="submit">
+          Submit Citizen Complaint
+        </button>
+      </form>
+    </div>
+
+    <div class="panel">
+      <h2>Upcoming Projects</h2>
+      <ul id="upcomingProjects">
+        <!-- Loaded dynamically -->
+      </ul>
+    </div>
+  </div>
+
+</div>
+
+<!-- Floating Chatbot -->
+<div id="chatbot-button" onclick="toggleChatbot()" style="display: flex; align-items: center; justify-content: center;">
+  <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"></path>
+  </svg>
+</div>
+
+<div id="chatbot-window">
+  <div class="chatbot-header">
+    <h4>ROADWATCH Assistant</h4>
+    <div>
+      <button onclick="toggleChatbot()" style="background:none; border:none; color:white; cursor:pointer; font-size: 1.2rem; margin-right: 5px;">−</button>
+      <button onclick="toggleChatbot()" style="background:none; border:none; color:white; cursor:pointer; font-size: 1.2rem;">✖</button>
+    </div>
+  </div>
+  <div class="chatbot-messages" id="chatbotMessages">
+    <div class="message bot-message">Hello! I'm the ROADWATCH AI. How can I assist you with infrastructure data today?</div>
+  </div>
+  <div class="chatbot-input">
+    <input type="text" id="chatbotInput" placeholder="Ask a question..." onkeypress="if(event.key === 'Enter') sendChatMessage()">
+    <button onclick="sendChatMessage()">Send</button>
+  </div>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script src="/socket.io/socket.io.js"></script>
+<script src="app.js"></script>
+<script>
+  // Hide 'Upload Complaint' panel for govt officials on dashboard
+  (function() {
+    const userStr = localStorage.getItem('roadwatch_user');
+    if (userStr) {
+      const user = JSON.parse(userStr);
+      if (user.role === 'govt' || user.role === 'admin') {
+        const panels = document.querySelectorAll('.bottom-grid .panel');
+        panels.forEach(panel => {
+          const heading = panel.querySelector('h2');
+          if (heading && heading.innerText.trim() === 'Upload Complaint') {
+            panel.style.display = 'none';
+          }
+        });
+      }
+    }
+  })();
+</script>
+</body>
+</html>

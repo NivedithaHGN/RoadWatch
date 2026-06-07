@@ -1,0 +1,480 @@
+osm_id,road_name,road_type,ref,maxspeed,road_health_score,road_condition,potholes_count,accident_count,accident_severity,complaints_count,complaint_type,traffic_density,vehicle_count,allocated_budget_usd,spent_budget_usd,maintenance_type,contractor_name,contractor_rating,weather_condition
+4860427,New Tangalle Road,trunk,A2,60,67,Average,12,4,Low,14,Cracks,Medium,4526,309660,74488,Pothole Repair,UrbanTrack,3.6,Rainy
+4860438,Henry Pedris Mawatha (Hirimbura Road),primary,B128,60,61,Average,12,12,Low,22,Pothole,Medium,9247,272106,171918,Divider Repair,UrbanTrack,3.4,Sunny
+5131121,Sirimavo Bandaranaike Mawatha (Peradeniya Road),trunk,A1,60,75,Good,20,7,Medium,7,Broken Divider,Low,920,396319,34116,Divider Repair,Lanka Infra,4,Foggy
+5888188,Wakwella Road,primary,B130,50,60,Average,17,5,Low,19,Waterlogging,Medium,3067,251088,261487,Resurfacing,SafeHighway,3,Cloudy
+5888927,Old Matara Road,trunk,Old-A2,60,83,Good,19,3,Medium,17,Waterlogging,High,503,198436,208948,Pothole Repair,Lanka Infra,4.4,Rainy
+6105008,Galle Road,trunk,A2,70,53,Average,15,3,Medium,22,Broken Divider,Medium,4089,286709,368191,Resurfacing,RoadCare,2.6,Foggy
+6105649,Ambepussa - Kurunegala Road,trunk,AA006,60,31,Poor,5,12,Medium,17,Broken Divider,Medium,7925,301410,354993,Pothole Repair,UrbanTrack,4.9,Sunny
+6141233,Sea Street,primary,AB34,30,84,Good,10,1,Low,21,Pothole,High,6600,164768,32653,Resurfacing,Lanka Infra,4.8,Cloudy
+6170046,Galle Road,trunk,A2,70,70,Average,3,14,Low,12,Waterlogging,Medium,1101,494382,42906,Resurfacing,Lanka Infra,3.5,Foggy
+6170900,Badulla Road,trunk,A5,60,34,Poor,8,3,High,5,Waterlogging,Low,9445,310399,225394,Pothole Repair,RoadCare,4.3,Foggy
+6724124,Wakwella Road,primary,B130,50,47,Average,9,8,Medium,14,Broken Divider,High,157,257178,19917,Pothole Repair,Lanka Infra,3.4,Sunny
+6724195,Galle Road,trunk,A2,70,73,Good,7,7,Low,12,Broken Divider,Medium,2359,217767,365019,Pothole Repair,SafeHighway,4,Rainy
+6724201,Galle Road,trunk,A2,70,44,Average,9,6,High,21,Waterlogging,High,9795,483993,271315,Resurfacing,Lanka Infra,4.3,Cloudy
+6758161,Olcott Mawatha,primary,B128,60,67,Average,0,2,Medium,19,Broken Divider,Medium,8214,225021,297842,Resurfacing,UrbanTrack,3.1,Sunny
+8013932,Main Street,trunk,Old-A2,60,47,Average,13,4,Low,19,Cracks,Low,5070,183798,343033,Pothole Repair,RoadCare,4,Foggy
+8013933,Main Street,trunk,Old-A2,60,63,Average,10,6,Low,22,Broken Divider,Medium,4617,163329,255568,Divider Repair,SafeHighway,2.8,Rainy
+8076775,Main Street,trunk,Old-A2,60,61,Average,0,1,Low,16,Pothole,Low,9541,467580,182998,Pothole Repair,SafeHighway,3.1,Sunny
+8076778,Sea Street,trunk,AB12/New A2,60,51,Average,19,15,Medium,19,Waterlogging,Low,2795,173604,192724,Divider Repair,SafeHighway,3.6,Rainy
+8111663,Galle Face Centre Road,trunk,A2,60,87,Good,5,13,Medium,5,Cracks,Medium,5124,124100,179330,Divider Repair,UrbanTrack,4.2,Foggy
+8581742,Bauddhaloka Mawatha,primary,AC2,60,45,Average,2,2,High,1,Waterlogging,Low,7915,204585,355419,Divider Repair,SafeHighway,4.1,Rainy
+8625142,Racecourse Road,primary,B61,50,46,Average,9,2,Medium,10,Cracks,Low,2283,207800,71847,Pothole Repair,SafeHighway,3.7,Rainy
+8625167,Arthur V. Dias Mawatha (Main Street),primary,AB27,50,90,Good,2,4,High,24,Broken Divider,Low,4796,209214,382683,Divider Repair,SafeHighway,3.5,Sunny
+8625207,Hill Street (Dehiwela-Maharagama Road),primary,B94,50,55,Average,5,15,Medium,9,Pothole,Medium,204,401901,194983,Divider Repair,UrbanTrack,3.6,Rainy
+8625233,Baladaksha Mawatha,primary,B37,30,46,Average,13,9,Medium,2,Waterlogging,Medium,6110,302890,235573,Divider Repair,Lanka Infra,5,Rainy
+8625251,Matara Road,trunk,A2,60,63,Average,16,6,High,11,Cracks,High,1247,484490,160310,Pothole Repair,Lanka Infra,3.7,Cloudy
+8659985,New Kelani Bridge Road,trunk,A1,60,88,Good,18,2,High,13,Waterlogging,Medium,8876,475250,52279,Resurfacing,Lanka Infra,4.2,Rainy
+8855691,Waskaduwa-Bandaragama Road,primary,B458,70,68,Average,7,15,Medium,19,Pothole,High,7038,498951,192227,Resurfacing,RoadCare,2.7,Rainy
+8873170,Galle Road,trunk,A2,70,44,Average,12,5,Medium,8,Waterlogging,High,6423,409022,310624,Resurfacing,UrbanTrack,4.2,Sunny
+8873215,Gintota-Wakwella Road,primary,B138,50,34,Poor,12,3,Low,13,Broken Divider,Medium,1333,115810,231364,Resurfacing,SafeHighway,2.7,Foggy
+8873216,Gintota-Wakwella Road,primary,B138,50,68,Average,5,0,High,11,Broken Divider,High,8594,121729,229322,Divider Repair,Lanka Infra,3.4,Foggy
+9459878,Wakwella Road,primary,B130,50,36,Poor,3,1,High,11,Broken Divider,Medium,4681,371311,76756,Pothole Repair,SafeHighway,2.8,Rainy
+9750333,Main Street,trunk,A2,60,76,Good,5,14,Low,24,Broken Divider,Low,9312,130299,90584,Resurfacing,SafeHighway,3.9,Foggy
+9750337,Circular Road,primary,B557,50,29,Poor,2,13,Medium,22,Pothole,High,5015,159595,59647,Resurfacing,SafeHighway,3.1,Rainy
+9750341,Dondra Light House Road,primary,B107,50,35,Poor,15,12,Medium,12,Pothole,Low,5614,167426,259885,Pothole Repair,Lanka Infra,2.6,Rainy
+9750345,Dikwella-Wewurukannala Road,primary,B525,50,69,Average,16,1,Low,2,Cracks,Low,688,382482,92113,Pothole Repair,UrbanTrack,4,Rainy
+9750348,Beliatte-Tangalle Road,primary,B141,72,68,Average,4,13,High,22,Pothole,Low,8728,329491,246262,Divider Repair,UrbanTrack,2.7,Foggy
+9750392,Belliatte-Weeraketiya Road,primary,B627,60,56,Average,10,8,High,12,Waterlogging,Medium,2120,483097,50607,Pothole Repair,UrbanTrack,3.2,Foggy
+9750435,New Tangalle Road,trunk,A2,60,22,Poor,5,4,Medium,21,Cracks,Medium,9614,244891,175725,Resurfacing,RoadCare,4.6,Foggy
+9750457,Ella - Wellawaya Road,trunk,AA023,70,49,Average,15,12,Medium,23,Waterlogging,High,1888,171274,352172,Pothole Repair,Lanka Infra,2.8,Foggy
+9751649,Dikwella-Beliatte Road,primary,B101,72,60,Average,20,0,Medium,17,Broken Divider,High,6073,280387,82903,Pothole Repair,RoadCare,4.7,Sunny
+9760191,Nuwara Eliya-Badulla Road,trunk,A5,60,26,Poor,15,13,High,1,Broken Divider,High,8482,112882,145826,Divider Repair,RoadCare,4,Foggy
+9776132,Queen Elizabeth Drive,trunk,A5,50,60,Average,15,10,Low,4,Pothole,Low,7664,407788,355640,Divider Repair,Lanka Infra,4.9,Rainy
+9783017,Badulla - Bandarawela Road,trunk,AA016,70,75,Good,15,8,Medium,25,Waterlogging,Medium,252,144462,288074,Pothole Repair,SafeHighway,4.6,Rainy
+9783038,Diyatalawa-Mirahawatta Road,secondary,B104,50,40,Poor,14,4,Low,2,Waterlogging,Medium,2403,187913,90607,Resurfacing,UrbanTrack,4.3,Cloudy
+10358885,Gintota-Wakwella Road,primary,B138,50,88,Good,11,15,High,3,Pothole,Medium,8185,146593,79752,Pothole Repair,RoadCare,3.6,Sunny
+10359316,Old Kandy Road (Old Bazaar Street),primary,B331,50,55,Average,11,14,Medium,7,Pothole,High,9559,236439,180953,Pothole Repair,UrbanTrack,4,Foggy
+10548243,Dodanduwa-Gonapinuwala Road,primary,B106,50,70,Average,10,13,High,0,Pothole,Low,1344,112467,317642,Pothole Repair,UrbanTrack,4.9,Foggy
+10548282,Galle Road,trunk,A2,60,30,Poor,12,7,Medium,24,Waterlogging,Medium,9909,298124,59504,Divider Repair,UrbanTrack,4.1,Foggy
+10548283,Lotus Road,primary,AC15,60,76,Good,5,3,High,12,Pothole,High,163,455975,164644,Pothole Repair,RoadCare,4.7,Cloudy
+10548322,Sea Beach Road,primary,AC26,50,25,Poor,18,12,Medium,2,Pothole,Medium,7553,390515,307666,Pothole Repair,UrbanTrack,4.1,Cloudy
+10548344,5th Cross Street,secondary,AC9,40,70,Average,15,4,Low,7,Waterlogging,High,2687,478292,271004,Resurfacing,UrbanTrack,3.8,Foggy
+10548362,Olcott Mawatha,trunk,A1,60,75,Good,0,11,High,8,Pothole,Low,6396,263589,233827,Pothole Repair,RoadCare,3,Rainy
+10557898,Sri Sangaraja Mawatha,trunk,A1,60,21,Poor,3,6,High,7,Waterlogging,High,9628,101691,89817,Divider Repair,SafeHighway,3.4,Foggy
+10586778,Bodhiraja Mawatha,tertiary,AC10,40,90,Good,5,3,Medium,10,Broken Divider,High,7579,469482,50017,Divider Repair,Lanka Infra,2.6,Rainy
+10590157,Lotus Road,primary,AC15,50,91,Good,3,13,High,24,Broken Divider,High,5008,148786,295851,Divider Repair,UrbanTrack,4.9,Cloudy
+11053415,Akuressa Road,trunk,A17,70,31,Poor,17,8,High,3,Broken Divider,Low,7990,366757,233085,Pothole Repair,UrbanTrack,4.5,Sunny
+11528485,Jail Road,primary,AB22,50,77,Good,15,15,Low,4,Broken Divider,Low,2583,421267,379263,Divider Repair,RoadCare,3.9,Cloudy
+11528559,Wilmot Street (Main Street),trunk,Old A2,60,61,Average,16,3,Medium,12,Waterlogging,Medium,6227,325102,217945,Divider Repair,SafeHighway,3.2,Rainy
+11528642,Hirimbura Road,primary,B128,60,72,Good,7,1,Low,23,Pothole,Low,6269,76504,382688,Resurfacing,Lanka Infra,3.7,Rainy
+13758914,Independence Avenue,primary,AC1,60,70,Average,0,0,Low,15,Broken Divider,High,955,165338,237283,Pothole Repair,UrbanTrack,4.2,Sunny
+13758969,Talduwa-Meewitigammana Road,primary,B408,60,95,Good,16,4,High,9,Cracks,Medium,3033,449061,392691,Divider Repair,UrbanTrack,3.2,Sunny
+13840194,Horana - Padukka Road,primary,B123,50,35,Poor,10,9,Low,11,Pothole,Medium,4009,166337,327135,Resurfacing,RoadCare,4.7,Cloudy
+13858419,Galle Road,trunk,A2,60,53,Average,16,1,Medium,21,Cracks,High,1330,410869,14984,Pothole Repair,SafeHighway,3.4,Cloudy
+13881187,H. K. Edmond Mawatha,primary,B109,50,49,Average,9,9,Low,23,Cracks,Low,189,456452,268339,Divider Repair,SafeHighway,4.1,Rainy
+13881209,Morris Road,primary,B109,50,55,Average,14,4,High,18,Waterlogging,High,2019,407686,48919,Resurfacing,RoadCare,4.4,Cloudy
+13881229,Main Street,primary,B49,40,70,Average,10,7,High,21,Broken Divider,High,5927,202963,86277,Resurfacing,RoadCare,4.5,Rainy
+13881232,Galle Road,trunk,A2,70,43,Average,7,5,High,0,Pothole,Low,2060,196217,264238,Divider Repair,RoadCare,5,Cloudy
+13881240,Galle Road,trunk,A2,70,90,Good,16,13,High,1,Pothole,High,3651,361307,60803,Resurfacing,Lanka Infra,5,Rainy
+13884292,D. R. Wijewardene Mawatha,primary,AC6,60,52,Average,17,14,Medium,15,Pothole,Low,8344,202484,246135,Pothole Repair,SafeHighway,4.8,Foggy
+14340724,Main Street,trunk,A2,60,43,Average,12,14,Low,14,Cracks,Low,6331,63078,14164,Divider Repair,SafeHighway,4.2,Rainy
+14340729,Colombo Road,trunk,A2,60,82,Good,8,0,Low,4,Waterlogging,High,8416,403127,243472,Pothole Repair,SafeHighway,4.1,Foggy
+14340731,Wakwella Road,primary,B130,50,36,Poor,9,13,Low,11,Waterlogging,Low,7226,267687,338799,Pothole Repair,RoadCare,4.8,Foggy
+14340733,Esplanade Road,primary,B37,40,38,Poor,0,7,Low,22,Broken Divider,Medium,1774,482562,41333,Pothole Repair,SafeHighway,3.6,Sunny
+14340740,Esplanade Road,primary,B37,40,94,Good,20,12,High,19,Waterlogging,Low,8089,81694,62495,Resurfacing,SafeHighway,2.7,Rainy
+14340745,Baladaksha Mawatha,primary,B37,30,27,Poor,5,5,High,3,Pothole,Low,5990,66752,43129,Pothole Repair,UrbanTrack,3.5,Rainy
+14428007,Galle-Wakwella Road,primary,B130,50,33,Poor,12,3,Medium,16,Broken Divider,Low,7342,189383,286777,Resurfacing,RoadCare,3,Foggy
+18598833,Galle Face Centre Road,trunk,A2,60,55,Average,4,3,Low,12,Waterlogging,Medium,4784,93406,71625,Divider Repair,RoadCare,4.8,Foggy
+18598993,Ananda Coomaraswamy Mawatha,trunk,A0,50,43,Average,10,9,High,14,Pothole,Low,285,303751,92643,Pothole Repair,UrbanTrack,3.1,Sunny
+18599019,Baseline Road,trunk,A1,60,75,Good,9,11,High,16,Waterlogging,Low,9952,264837,287621,Pothole Repair,Lanka Infra,2.7,Sunny
+18599092,Hill Street,primary,B249,50,51,Average,4,12,Medium,2,Cracks,High,5104,463651,284856,Pothole Repair,UrbanTrack,3.4,Sunny
+18599118,Main Street (New Bazaar Street),primary,B331-5,50,84,Good,14,14,Low,25,Cracks,Low,6496,98840,355551,Pothole Repair,Lanka Infra,4.2,Foggy
+18599172,Sir Ernest de Silva Mawatha,trunk,A4,60,50,Average,13,9,Low,15,Cracks,Medium,9663,335037,146023,Pothole Repair,SafeHighway,3.9,Foggy
+19144420,Blackpool-Ambewela Road,primary,B512,60,41,Average,5,4,Medium,2,Broken Divider,Medium,5731,434827,345717,Resurfacing,RoadCare,4.6,Rainy
+19144424,Lady MacCulum's Drive,tertiary,B249,30,57,Average,5,14,High,17,Cracks,High,9289,253607,271909,Resurfacing,UrbanTrack,4.7,Sunny
+19145855,Kandy Road,trunk,A5,50,27,Poor,6,13,Low,4,Cracks,Low,4982,468106,41946,Divider Repair,UrbanTrack,4.6,Foggy
+19314681,Gintota-Wakwella Road,primary,B138,50,78,Good,6,13,Medium,4,Cracks,High,9910,369365,11150,Pothole Repair,Lanka Infra,4.4,Cloudy
+19314684,Gintota-Wakwella Road,primary,B138,50,20,Poor,11,6,Medium,21,Pothole,Low,1261,197352,326104,Resurfacing,SafeHighway,2.6,Rainy
+19314718,Wakwella Road,primary,B130,50,33,Poor,8,6,Low,22,Waterlogging,Low,567,105032,301069,Pothole Repair,RoadCare,3.8,Sunny
+19314720,Wakwella Road,primary,B130,50,67,Average,7,3,Medium,11,Cracks,High,2858,485209,340210,Pothole Repair,SafeHighway,3,Sunny
+19314728,Galle Road,trunk,A2,70,83,Good,14,9,High,6,Waterlogging,Medium,8000,463171,374202,Resurfacing,Lanka Infra,4.2,Rainy
+19314731,Galle Road,trunk,A2,70,23,Poor,1,6,Low,16,Pothole,Medium,952,451966,279059,Resurfacing,UrbanTrack,3.1,Rainy
+19314737,Galle Road,trunk,A2,70,73,Good,12,10,Low,3,Cracks,Medium,7719,475425,234881,Pothole Repair,SafeHighway,2.7,Rainy
+19314746,Galle Road,trunk,A2,70,73,Good,3,2,Medium,1,Cracks,Low,4028,443356,215914,Pothole Repair,RoadCare,4.1,Rainy
+19315522,Galle Road,trunk,A2,60,68,Average,4,3,High,3,Pothole,Medium,6750,205606,291229,Resurfacing,Lanka Infra,4.7,Foggy
+19315523,Galle Road,trunk,A2,60,66,Average,3,12,Low,14,Waterlogging,Medium,5809,469727,161705,Pothole Repair,RoadCare,2.7,Sunny
+19325147,Galle Road New Deviation,primary,AB11,60,51,Average,1,8,Medium,21,Cracks,Medium,6227,212869,123642,Resurfacing,UrbanTrack,4.3,Foggy
+19325157,Galle Road New Deviation,primary,AB11,50,27,Poor,14,6,Medium,10,Pothole,Low,6276,334646,92329,Divider Repair,UrbanTrack,3.9,Sunny
+19811332,Anagarika Dharmapala Mawatha (Allen Avenue),primary,B11,40,45,Average,11,11,High,20,Cracks,Low,9025,420072,81210,Resurfacing,UrbanTrack,3.6,Foggy
+19811337,Attidiya Road,primary,B389,50,83,Good,15,12,High,21,Cracks,High,9135,257475,25949,Divider Repair,RoadCare,4.2,Cloudy
+19882439,Pepiliyana Road,secondary,B389,50,45,Average,4,14,Medium,10,Waterlogging,High,9658,338720,182002,Pothole Repair,SafeHighway,3.8,Rainy
+19882440,S. De S. Jayasinghe Road,primary,B120,50,70,Average,2,7,Low,17,Broken Divider,Low,3030,270104,173913,Pothole Repair,SafeHighway,3.7,Foggy
+22362995,Piliyandala-Maharagama Road,primary,B367,50,45,Average,9,1,Low,12,Waterlogging,High,8718,148638,109453,Divider Repair,UrbanTrack,4.3,Sunny
+22364299,Pamunuwa Road,primary,B504,40,25,Poor,3,11,Medium,1,Broken Divider,Medium,6038,263836,104468,Resurfacing,Lanka Infra,4.7,Cloudy
+22819742,Horana-Kalutara Road,primary,B224,50,75,Good,11,4,Low,0,Broken Divider,High,4116,102950,218027,Divider Repair,Lanka Infra,4.5,Sunny
+22819747,Padukka - Ingirya Road,primary,B240,50,36,Poor,7,8,High,25,Cracks,Medium,376,204258,34108,Pothole Repair,UrbanTrack,4.5,Cloudy
+22942704,Radella Short Cut Road,primary,B381,60,94,Good,4,11,Low,23,Waterlogging,Low,7378,66357,53503,Resurfacing,UrbanTrack,4.9,Cloudy
+22942705,Nanu Oya Road,trunk,A7,70,58,Average,16,1,Medium,15,Waterlogging,High,5068,453628,170877,Pothole Repair,Lanka Infra,4.7,Sunny
+22942706,Hatton-Maskeliya-Sri Pada Road,primary,B149,60,20,Poor,4,6,Medium,16,Waterlogging,Low,8223,473679,128238,Divider Repair,UrbanTrack,4.3,Foggy
+23007728,Baddegama Road,primary,B128,60,81,Good,5,14,Medium,4,Cracks,Medium,7662,106567,319079,Divider Repair,Lanka Infra,4.5,Sunny
+23007735,Batapola Road,primary,B176,50,49,Average,13,2,Medium,2,Cracks,High,529,400145,367780,Resurfacing,Lanka Infra,4.3,Rainy
+23007745,Hikkaduwa-Baddegama Road,primary,B153,60,77,Good,16,0,High,23,Pothole,High,8518,343398,50036,Resurfacing,RoadCare,2.5,Rainy
+23007747,Dodanduwa-Gonapinuwala Road,primary,B106,50,29,Poor,14,11,Medium,22,Cracks,High,3831,385058,169515,Pothole Repair,Lanka Infra,3.2,Cloudy
+23007749,Hikkaduwa-Baddegama Road,primary,B153,60,73,Good,7,9,Medium,11,Cracks,Medium,7672,144194,163334,Pothole Repair,UrbanTrack,4.5,Cloudy
+23153228,Galle Road,trunk,A2,70,61,Average,15,10,High,1,Waterlogging,Medium,9418,58486,255969,Pothole Repair,UrbanTrack,3.1,Rainy
+23153230,Galle Road,trunk,A2,70,49,Average,19,9,Medium,11,Broken Divider,High,2022,453255,192606,Pothole Repair,Lanka Infra,2.6,Foggy
+23153238,Galle Road,trunk,A2,70,42,Average,15,3,High,4,Pothole,Medium,5368,206827,245961,Divider Repair,RoadCare,2.7,Rainy
+23153243,Galle Road,trunk,A2,70,80,Good,10,8,Low,4,Cracks,Low,2537,193247,281491,Divider Repair,RoadCare,3.3,Foggy
+23153251,Matara Road,trunk,A2,60,59,Average,5,11,Medium,14,Waterlogging,High,249,112335,244902,Pothole Repair,Lanka Infra,4,Foggy
+23169380,Srimath Anagarika Dharmapala Mawatha,trunk,A0,60,70,Average,9,12,High,12,Broken Divider,High,2387,489656,52082,Divider Repair,Lanka Infra,2.7,Foggy
+23169384,Ananda Coomaraswamy Mawatha,trunk,A0,60,42,Average,1,15,High,21,Cracks,High,2717,152764,217342,Resurfacing,UrbanTrack,3.8,Cloudy
+23185502,Nawala Road,primary,B470,50,92,Good,19,14,High,3,Pothole,Low,6381,447039,166359,Divider Repair,SafeHighway,4.8,Rainy
+23185504,Old Kesbawa Road,primary,B134,50,32,Poor,18,14,High,2,Waterlogging,Medium,3649,379741,278780,Divider Repair,SafeHighway,5,Cloudy
+23185505,Jinadasa Niyathapala Mawatha (Nawala Road),primary,B307,50,88,Good,15,3,High,8,Broken Divider,High,5267,265663,96400,Pothole Repair,UrbanTrack,3.3,Cloudy
+23185849,Dehiwela Road (Dehiwela-Maharagama Road),primary,B94,50,70,Average,10,3,Low,24,Cracks,Medium,4630,171080,112881,Pothole Repair,Lanka Infra,4.6,Rainy
+23185850,Pamunuwa Road,primary,B504,40,55,Average,3,3,Medium,6,Cracks,Medium,9625,199685,141127,Pothole Repair,RoadCare,2.9,Rainy
+23185851,New Hospital Road,primary,AB5,40,24,Poor,0,6,High,18,Broken Divider,Low,6582,315859,193253,Divider Repair,SafeHighway,3.2,Foggy
+23185852,New Hospital Road,primary,AB5,40,87,Good,17,14,Medium,22,Cracks,Low,5748,415676,309429,Divider Repair,RoadCare,4.7,Cloudy
+23185859,Attidiya Road,primary,B389,50,69,Average,13,10,Low,25,Pothole,Medium,7272,131515,184841,Divider Repair,Lanka Infra,3.4,Cloudy
+23190545,Parliament Road,primary,AB15,40,27,Poor,1,11,Medium,11,Cracks,Medium,2630,369538,158707,Resurfacing,SafeHighway,2.7,Cloudy
+23194251,Olcott Mawatha,trunk,A1,60,59,Average,20,1,Medium,16,Pothole,Low,1864,300630,120615,Pothole Repair,SafeHighway,4.3,Sunny
+23201982,Abdul Wahab Mawatha (Talapitiya Road),primary,AB36,40,62,Average,17,2,Medium,25,Cracks,Low,301,269779,114197,Pothole Repair,UrbanTrack,3.5,Foggy
+23233929,Dr. S. A. Wickramasinghe Mawatha (Station Road),primary,B27-16,40,38,Poor,6,3,Low,17,Pothole,High,1645,404982,69630,Resurfacing,Lanka Infra,3.1,Foggy
+23233944,Beach Road,primary,B524,60,74,Good,1,5,High,24,Waterlogging,High,5148,443723,370334,Pothole Repair,SafeHighway,4,Foggy
+23233980,Mahaanaama Bridge,trunk,A2,40,95,Good,7,6,Low,7,Pothole,Low,4226,104762,114991,Divider Repair,Lanka Infra,4.9,Rainy
+23233981,Anagarika Dharmapala Mawatha,trunk,A2,40,34,Poor,1,11,High,10,Cracks,High,4128,342115,304004,Resurfacing,Lanka Infra,2.9,Sunny
+23323033,Colombo-Piliyandala-Horana Road,primary,B84,50,53,Average,19,6,High,18,Pothole,Low,8362,314803,242624,Resurfacing,RoadCare,3.2,Cloudy
+23323086,Kotagama Sri Vachissara Mawatha,primary,B229,50,73,Good,20,4,Medium,21,Waterlogging,Medium,9016,87063,285299,Resurfacing,RoadCare,3,Sunny
+23323109,Welipara (Chandra Silva Mawatha),primary,B534,40,58,Average,3,5,Low,8,Pothole,Low,914,335444,113309,Resurfacing,Lanka Infra,2.6,Cloudy
+23323122,Old Kottawa Road,primary,B291,50,67,Average,12,10,Medium,11,Waterlogging,Low,476,65062,289402,Divider Repair,UrbanTrack,3.3,Sunny
+23323309,Horana - Padukka Road,primary,B123,50,85,Good,13,0,Low,20,Waterlogging,Low,9814,249060,51168,Divider Repair,RoadCare,2.7,Sunny
+23323373,Kottawa-Mattegoda,primary,B654,50,59,Average,17,7,High,23,Cracks,Medium,9514,364622,311566,Divider Repair,Lanka Infra,4.3,Cloudy
+23323408,Kottawa-Thalagala Road,primary,B239,50,27,Poor,13,9,Medium,2,Pothole,Low,3656,170247,61935,Pothole Repair,UrbanTrack,2.7,Sunny
+23351957,Old Kesbawa Road,primary,B134,50,94,Good,3,11,Low,25,Waterlogging,Medium,7697,68669,117548,Resurfacing,SafeHighway,2.8,Foggy
+23408427,Nagoda-Kalawellawa-Bellapitiya Road,primary,B304,60,27,Poor,9,5,Low,0,Waterlogging,Low,7049,248551,177600,Resurfacing,SafeHighway,2.9,Rainy
+23426574,Sri Aryawilasha Road,primary,B404,50,91,Good,8,9,Low,24,Pothole,High,9978,283566,248129,Resurfacing,SafeHighway,4.1,Rainy
+23427527,Sri Soratha Mawatha,primary,B316,40,30,Poor,15,11,Medium,23,Pothole,Low,2078,238370,385219,Pothole Repair,UrbanTrack,3,Cloudy
+23456968,Kaduwela Road (New Kandy Road),primary,B263,60,85,Good,13,7,High,21,Waterlogging,Low,4413,237573,74106,Divider Repair,UrbanTrack,3.5,Rainy
+23456969,Polduwa Road,primary,B653,40,90,Good,15,3,Medium,22,Cracks,Low,2432,400081,26509,Divider Repair,Lanka Infra,3.1,Cloudy
+23532038,Kesbewa - Kindelpitiya - Bandaragama Road,primary,B216,72,88,Good,19,4,Medium,12,Broken Divider,Low,4016,310147,212727,Divider Repair,Lanka Infra,4.7,Sunny
+23565541,New Hospital Road,primary,AB5,40,87,Good,11,15,Low,14,Cracks,High,8304,417701,78162,Resurfacing,SafeHighway,2.7,Foggy
+23570028,Olcott Mawatha,trunk,A1,60,82,Good,14,4,Low,20,Broken Divider,High,4474,483486,331471,Divider Repair,UrbanTrack,3.8,Cloudy
+23604544,Piliyandala-Maharagama Road,primary,B367,50,82,Good,4,8,Medium,11,Waterlogging,High,6220,457648,337032,Resurfacing,Lanka Infra,3.8,Cloudy
+23691496,Moratuwa-Piliyandala Road,primary,B295,60,27,Poor,14,15,Low,15,Waterlogging,Low,5389,259044,17715,Divider Repair,UrbanTrack,2.5,Sunny
+23703656,Sri Somananda Mawatha,primary,B405,40,49,Average,20,4,Low,0,Pothole,High,6167,362029,192422,Resurfacing,Lanka Infra,4.6,Rainy
+23721602,Sri Jayewardenepura Mawatha,trunk,A0,70,41,Average,0,14,Low,1,Cracks,High,2370,138536,53534,Pothole Repair,SafeHighway,4,Foggy
+23796925,Kirigampanuwa Road,primary,B654,40,79,Good,18,12,Medium,11,Cracks,Medium,4740,273407,14084,Resurfacing,UrbanTrack,2.8,Rainy
+23802729,Sirimavo Bandaranaike Mawatha (Peradeniya Road),trunk,A1,60,52,Average,16,15,Medium,23,Pothole,High,1976,147423,374958,Divider Repair,Lanka Infra,4.3,Rainy
+23802733,Sri Dalada Veediya,trunk,A1,60,73,Good,4,12,High,5,Broken Divider,Medium,6117,114637,88157,Pothole Repair,Lanka Infra,3.3,Rainy
+23802861,D. S. Senanayake Veediya (Trincomalee Street),trunk,A9,60,40,Poor,16,15,Medium,25,Pothole,Low,4824,346789,258839,Resurfacing,RoadCare,3.1,Foggy
+23802868,Yatinuwara Veediya,primary,B519,50,41,Average,6,0,High,17,Broken Divider,Medium,5593,360645,395996,Resurfacing,Lanka Infra,4.1,Sunny
+23802869,Thilak Ratnayake Mawatha,primary,B70,50,24,Poor,7,11,Low,25,Cracks,Low,1470,240305,226131,Pothole Repair,SafeHighway,3.1,Foggy
+23802870,Katugastota Road,trunk,A9,60,22,Poor,16,11,Low,5,Pothole,Medium,3967,117483,281018,Pothole Repair,Lanka Infra,4.5,Cloudy
+23810654,Moragaswewa-Illukwewa Road,primary,B294,50,30,Poor,8,1,Low,10,Pothole,High,4087,297779,313683,Resurfacing,RoadCare,2.6,Sunny
+23810666,Anuradhapura Road,trunk,A9,70,58,Average,5,13,Medium,16,Cracks,Low,4502,347857,265679,Divider Repair,Lanka Infra,3.4,Cloudy
+23810971,S. W. R. D. Bandaranaike Mawatha,primary,B27-1,60,82,Good,9,10,Medium,10,Waterlogging,High,170,481016,337137,Pothole Repair,RoadCare,3.1,Sunny
+23810972,Gampola Road,trunk,A5,50,47,Average,16,11,Medium,20,Pothole,Medium,4748,166089,362672,Divider Repair,SafeHighway,3.7,Foggy
+23811054,Sri Jayewardenepura Mawatha,trunk,A0,70,94,Good,16,9,High,0,Pothole,Medium,9215,185161,95993,Divider Repair,RoadCare,3,Rainy
+23811488,Madawala Road,trunk,A9,60,37,Poor,7,5,Low,19,Pothole,Low,9740,190221,124078,Divider Repair,Lanka Infra,3.8,Foggy
+23811489,Madawala Road,primary,B205,60,51,Average,13,3,Low,25,Cracks,Medium,4670,191437,168497,Pothole Repair,UrbanTrack,3.6,Cloudy
+23811494,Katugastota Bridge,trunk,A9,60,31,Poor,13,5,High,0,Cracks,Low,3410,222270,165535,Pothole Repair,RoadCare,3.6,Cloudy
+23813073,Main Street (Trincomalee Street),trunk,A9,60,53,Average,13,9,Medium,2,Broken Divider,Low,3024,153702,337285,Resurfacing,RoadCare,4.5,Rainy
+23813074,King Street,primary,B194,50,43,Average,6,9,Medium,17,Cracks,Medium,8027,251565,222040,Divider Repair,Lanka Infra,4.9,Sunny
+23813075,Kandy-Jaffna Road,trunk,A9,70,51,Average,17,10,Medium,16,Broken Divider,Medium,5780,342656,151114,Pothole Repair,RoadCare,2.9,Foggy
+23813284,Parliament Drive,primary,B531,50,58,Average,5,13,High,19,Waterlogging,High,2067,289297,129928,Resurfacing,SafeHighway,2.9,Foggy
+23813394,Parliament Road,primary,AB15,70,40,Poor,20,3,Low,14,Waterlogging,Low,196,386675,204433,Resurfacing,SafeHighway,2.5,Rainy
+23813397,Parliament Road,primary,AB15,70,28,Poor,15,5,High,2,Cracks,High,9930,233454,191245,Resurfacing,UrbanTrack,2.7,Sunny
+23813957,Dambulla - Habarana Road,trunk,AA006,70,74,Good,15,0,High,3,Cracks,High,9381,436114,315309,Pothole Repair,RoadCare,4.6,Cloudy
+23813958,Kandy-Jaffna Road,trunk,A9,70,57,Average,5,4,High,18,Waterlogging,High,9261,295472,34497,Resurfacing,SafeHighway,4,Sunny
+23813959,Dambulla-Bakamuna-Kalagahawela Road,primary,B615,60,67,Average,17,13,High,15,Pothole,Medium,6465,163267,16844,Pothole Repair,Lanka Infra,4.4,Rainy
+23813960,Kandalama Road,primary,B561,60,46,Average,3,4,Medium,25,Cracks,Medium,1990,404555,189336,Pothole Repair,SafeHighway,2.9,Foggy
+23825681,Dutugemunu Street,primary,B84,60,57,Average,20,7,High,1,Cracks,Medium,4768,76365,355578,Divider Repair,Lanka Infra,4,Rainy
+23825685,H. Sri Nassanka Mawatha (Maya Avenue),trunk,A4,50,92,Good,9,15,High,23,Broken Divider,High,3542,262894,168465,Divider Repair,UrbanTrack,3.6,Rainy
+23825686,Sri Sambuddhatwa Jayanthi Mawatha (Havelock Road),trunk,A4,50,45,Average,0,11,High,23,Pothole,Low,3424,177955,17268,Divider Repair,Lanka Infra,3.1,Cloudy
+23825712,Homagama Diyagama Road,primary,B452,50,75,Good,2,0,Medium,1,Waterlogging,High,8798,280928,15102,Resurfacing,SafeHighway,4.1,Sunny
+23855289,Hirimbura Road,primary,B128,60,32,Poor,6,3,Low,6,Cracks,High,4913,488725,47929,Divider Repair,UrbanTrack,4.6,Rainy
+23862002,Dambulla-Bakamuna-Kalagahawela Road,primary,B615,60,52,Average,8,6,Low,7,Waterlogging,Medium,7986,498893,273308,Pothole Repair,SafeHighway,4,Cloudy
+23863356,Gannoruwa Road,primary,B365,60,79,Good,14,0,Medium,15,Waterlogging,Medium,1250,490101,376853,Resurfacing,RoadCare,3.9,Rainy
+23863357,Sirimavo Bandaranaike Mawatha (Peradeniya Road),trunk,A1,60,25,Poor,8,10,High,3,Broken Divider,Medium,8233,146034,316251,Resurfacing,RoadCare,3.5,Sunny
+23924485,Sir Chittampalam A. Gardiner Mawatha,trunk,A4,60,27,Poor,16,2,Low,2,Broken Divider,Low,9677,319238,148257,Divider Repair,SafeHighway,3.6,Rainy
+24255931,W. A. Silva Mawatha (High Street),primary,AC32,50,56,Average,12,1,Low,23,Waterlogging,Low,7810,239285,257579,Divider Repair,SafeHighway,3.8,Sunny
+24255939,Sir Chittampalam A. Gardiner Mawatha,trunk,A4,60,61,Average,17,8,Medium,23,Waterlogging,Low,5542,212811,322185,Resurfacing,UrbanTrack,2.8,Foggy
+24255940,Sir Chittampalam A. Gardiner Mawatha,trunk,A4,60,77,Good,17,3,Medium,2,Waterlogging,High,7191,173471,243791,Pothole Repair,RoadCare,4.9,Cloudy
+24255941,Sir Chittampalam A. Gardiner Mawatha,trunk,A4,60,57,Average,15,15,Medium,17,Cracks,High,7040,321855,16668,Divider Repair,UrbanTrack,4.8,Sunny
+24255942,Sir Chittampalam A. Gardiner Mawatha,trunk,A4,60,46,Average,14,13,Medium,24,Waterlogging,Low,9470,360864,85452,Divider Repair,Lanka Infra,4,Rainy
+24256077,P. de S. Kularatne Mawatha,primary,AC19,60,22,Poor,0,5,Medium,0,Broken Divider,High,4239,328543,132796,Pothole Repair,UrbanTrack,2.8,Foggy
+24296642,Prof. E. O. E. Pereira Mawatha,primary,AB37,70,75,Good,0,15,Medium,15,Broken Divider,High,6596,144788,353877,Pothole Repair,RoadCare,4,Foggy
+24296643,Kandy Road,trunk,A5,60,76,Good,13,5,Low,24,Cracks,Low,9247,328835,187988,Resurfacing,Lanka Infra,4.6,Rainy
+24296644,Prof. E. O. E. Pereira Mawatha,primary,AB37,70,36,Poor,10,15,Low,14,Cracks,High,3524,424494,344017,Divider Repair,UrbanTrack,4.2,Sunny
+24296645,Prof. E. O. E. Pereira Mawatha,primary,AB37,70,59,Average,0,15,Low,14,Broken Divider,Low,752,306332,302260,Resurfacing,Lanka Infra,4.8,Sunny
+24296648,Adahanamaluwa Road,primary,B70,50,23,Poor,12,14,Low,15,Broken Divider,Low,5271,468828,94048,Divider Repair,UrbanTrack,3.2,Rainy
+24355838,Nalanda Oya Bridge,trunk,A9,70,26,Poor,18,1,Medium,3,Pothole,High,1537,287464,337534,Resurfacing,Lanka Infra,4.6,Sunny
+24355839,Kandy-Jaffna Road,trunk,A9,70,60,Average,16,7,Low,24,Cracks,Low,7750,252044,50757,Resurfacing,RoadCare,3.9,Sunny
+24381583,Sirimavo Bandaranaike Mawatha (Peradeniya Road),trunk,A1,60,77,Good,3,8,High,18,Cracks,Medium,7598,386029,149436,Pothole Repair,UrbanTrack,4.4,Cloudy
+24462384,Havelock Road,primary,B84,60,82,Good,14,0,Medium,3,Waterlogging,Medium,7467,259812,291146,Resurfacing,SafeHighway,2.5,Rainy
+24503404,Weligama-Welipitiya Road,primary,B465,60,49,Average,14,14,Medium,22,Waterlogging,Low,4448,392080,236141,Divider Repair,SafeHighway,4.9,Cloudy
+24503410,Akuressa Road,primary,B466,50,26,Poor,15,6,Medium,15,Pothole,High,1382,389247,55763,Divider Repair,Lanka Infra,4.8,Sunny
+24503878,Matara Road,trunk,A2,60,49,Average,19,2,Low,10,Pothole,Low,6042,366063,130391,Pothole Repair,Lanka Infra,3.5,Cloudy
+24548063,Jinadasa Niyathapala Mawatha (Nawala Road),primary,B307,50,58,Average,20,0,Low,21,Cracks,High,2442,428238,117003,Resurfacing,Lanka Infra,4.7,Rainy
+24563846,Dr. N. M. Perera Mawatha (Cotta Road),primary,AC4,60,65,Average,20,14,High,14,Waterlogging,High,4717,380014,392252,Resurfacing,RoadCare,4,Foggy
+24760216,Bauddhaloka Mawatha,primary,AC2,60,43,Average,15,10,Low,9,Cracks,Low,1451,235511,10893,Pothole Repair,Lanka Infra,4.2,Cloudy
+24773533,Alexandra Roundabout,trunk,A0,60,37,Poor,1,6,Low,4,Broken Divider,Low,8854,225867,138649,Divider Repair,SafeHighway,4.3,Sunny
+24775231,Horton Place,trunk,A0,60,83,Good,3,5,Medium,14,Broken Divider,Medium,1893,259375,82106,Pothole Repair,UrbanTrack,3.1,Foggy
+24790513,Pamankada Road,primary,AC21,40,51,Average,6,13,Medium,3,Pothole,Low,762,213333,130832,Divider Repair,Lanka Infra,4.8,Rainy
+24790881,Lotus Road,primary,AC15,30,41,Average,4,6,Low,9,Cracks,High,4074,415621,321869,Resurfacing,Lanka Infra,4.5,Cloudy
+24791498,Pamankada Road,primary,AC21,40,52,Average,5,6,High,2,Waterlogging,Low,3047,194165,375596,Pothole Repair,SafeHighway,4.6,Rainy
+24791500,P. de S. Kularatne Mawatha,primary,AC19,60,80,Good,13,15,High,20,Broken Divider,Low,6749,287583,279486,Pothole Repair,SafeHighway,4.7,Rainy
+24791907,Galle Road,trunk,A2,60,34,Poor,8,1,Medium,9,Waterlogging,Low,2851,211589,200155,Resurfacing,UrbanTrack,4.7,Sunny
+24791916,Galle Road,trunk,A2,60,57,Average,9,5,Low,7,Cracks,High,4919,466591,186520,Resurfacing,RoadCare,4.8,Foggy
+24791921,Galle Road,trunk,A2,60,53,Average,20,9,High,19,Broken Divider,Low,9390,386380,200397,Divider Repair,RoadCare,4.2,Sunny
+24793835,Sir Ernest de Silva Mawatha,trunk,A4,60,83,Good,15,15,Medium,10,Pothole,Medium,5078,330382,237442,Resurfacing,Lanka Infra,4.9,Cloudy
+25293163,Talawatugoda Road,primary,B368,50,57,Average,1,3,Low,23,Waterlogging,Low,4073,90990,92386,Pothole Repair,RoadCare,3.4,Rainy
+25293612,Rathmalana-Mirihana Road,primary,B389,50,85,Good,14,13,Low,18,Pothole,Medium,7992,379486,57512,Divider Repair,SafeHighway,3.1,Sunny
+25299059,Subhadrarama Road,primary,B389,50,48,Average,4,11,Low,3,Cracks,Medium,7256,342544,30631,Pothole Repair,Lanka Infra,3.7,Rainy
+26699190,Negombo Road,trunk,A3,60,48,Average,12,9,Medium,16,Waterlogging,Low,9181,419832,131327,Resurfacing,RoadCare,4.2,Sunny
+28119293,Kudawella Road,primary,B566,40,61,Average,8,3,High,24,Pothole,High,9995,488594,181440,Divider Repair,SafeHighway,4.3,Sunny
+28119295,Tangalle-Kurundupokuna Road,primary,B628,60,86,Good,13,4,Medium,23,Pothole,Medium,3578,62018,310834,Pothole Repair,Lanka Infra,4.3,Cloudy
+28119406,Colombo-Puttalam Road,trunk,A3,70,51,Average,12,4,Low,25,Cracks,Low,2916,228403,163201,Pothole Repair,RoadCare,3.2,Rainy
+28136835,High Level Road,trunk,A4,60,37,Poor,14,3,High,7,Cracks,Low,9624,72085,155891,Pothole Repair,RoadCare,2.8,Sunny
+28307581,Matara-Hakmana Road,primary,B275,40,30,Poor,1,9,Low,16,Waterlogging,Medium,4613,139896,348185,Pothole Repair,SafeHighway,3.3,Cloudy
+28309350,Colombo-Ratnapura Road,trunk,A4,72,82,Good,12,7,Low,7,Broken Divider,High,795,361179,158951,Pothole Repair,Lanka Infra,3,Foggy
+28309352,Pelmadulla-Embilipitiya Road,trunk,A18,60,84,Good,7,6,Medium,8,Pothole,High,8466,69267,86887,Pothole Repair,UrbanTrack,2.8,Rainy
+28329869,Galle Road,trunk,A2,60,73,Good,2,9,High,23,Cracks,Medium,302,199682,266485,Divider Repair,Lanka Infra,2.6,Sunny
+28331424,Galle Road,trunk,A2,70,87,Good,17,0,High,21,Pothole,Low,2704,452089,384608,Pothole Repair,UrbanTrack,3.3,Sunny
+28483674,Sirimavo Bandaranaike Mawatha (Prince of Wales Avenue),primary,AC24,60,93,Good,20,1,High,22,Waterlogging,Low,2388,227179,220369,Pothole Repair,UrbanTrack,3.6,Foggy
+28483729,St. Joseph's Street,primary,B407,50,88,Good,20,12,Medium,5,Broken Divider,High,3774,418930,307416,Pothole Repair,Lanka Infra,4.8,Foggy
+28516324,Rajapaksa Broadway,primary,B27-21,40,91,Good,4,8,Low,1,Broken Divider,High,9127,123871,194138,Pothole Repair,RoadCare,4.2,Foggy
+28516325,Chilaw Road,primary,B78,50,71,Good,10,12,Low,7,Pothole,High,9917,459378,134561,Pothole Repair,Lanka Infra,4.4,Cloudy
+28530643,Poruthota Road,primary,B241,40,54,Average,6,10,High,15,Broken Divider,Low,1651,480797,374470,Resurfacing,UrbanTrack,4.5,Cloudy
+28531127,St. Nicholas Road,primary,B425,40,94,Good,20,6,Low,21,Waterlogging,Low,4869,298961,333469,Divider Repair,RoadCare,4.7,Foggy
+28531349,Poruthota Road,primary,B241,40,24,Poor,13,12,High,23,Pothole,High,6821,87863,174453,Resurfacing,Lanka Infra,3.7,Foggy
+29010346,Kawdana Road,primary,B547,50,20,Poor,16,2,Low,13,Broken Divider,Low,5093,412381,12110,Resurfacing,Lanka Infra,4.6,Rainy
+29476174,High Level Road,trunk,A4,60,66,Average,13,12,Low,16,Cracks,Medium,7649,51483,268361,Divider Repair,UrbanTrack,3,Rainy
+29476202,Horana-Anguruwatota Road,primary,B157,50,79,Good,3,1,Low,5,Pothole,Low,9852,129192,387070,Resurfacing,SafeHighway,3.9,Sunny
+29476718,Waskaduwa-Bandaragama Road,primary,B458,70,47,Average,7,1,Low,7,Pothole,High,735,281134,215708,Pothole Repair,UrbanTrack,2.5,Foggy
+29476719,Waskaduwa-Bandaragama Road,primary,B458,70,77,Good,20,3,Low,13,Waterlogging,Medium,1687,173803,397438,Divider Repair,SafeHighway,4.8,Rainy
+29477444,H. Sri Nassanka Mawatha (Maya Avenue),trunk,A4,50,58,Average,5,12,Low,15,Broken Divider,High,7899,382975,151620,Pothole Repair,Lanka Infra,4.9,Foggy
+29477613,Godagama-Padukka Road,primary,B240,50,74,Good,6,9,High,3,Pothole,Low,6197,498493,277130,Divider Repair,SafeHighway,3.2,Foggy
+29477623,Malabe - Godagama Road,primary,B240,60,88,Good,3,10,High,15,Waterlogging,High,1825,483108,375207,Divider Repair,SafeHighway,3.7,Rainy
+29478075,Malabe - Athurugiriya Road,primary,B240,60,50,Average,5,3,Low,2,Waterlogging,Medium,5198,386709,169867,Resurfacing,UrbanTrack,3.9,Sunny
+29478223,Station Road,primary,B452,50,82,Good,4,15,Medium,1,Waterlogging,High,7215,121415,110338,Resurfacing,UrbanTrack,4.6,Sunny
+29478248,Homagama Athurugiriya road,primary,B452,50,79,Good,11,15,Medium,10,Broken Divider,High,1415,351036,115354,Pothole Repair,UrbanTrack,3.7,Foggy
+29480030,Gampaha-Yakkala Road,trunk,A33,50,82,Good,0,11,High,19,Broken Divider,High,4452,410210,55790,Pothole Repair,RoadCare,4.2,Cloudy
+29480084,New Kandy Road,primary,B214,60,66,Average,14,5,High,22,Broken Divider,High,1305,366110,197420,Pothole Repair,Lanka Infra,3.7,Cloudy
+29480676,Wattala-Mahara Road,primary,B460,70,51,Average,3,11,Low,6,Cracks,Low,6215,458568,108395,Pothole Repair,UrbanTrack,4.7,Foggy
+29480722,Colombo-Kandy Road,trunk,A1,60,40,Poor,15,5,Medium,25,Pothole,High,7164,331357,42585,Resurfacing,Lanka Infra,3.2,Sunny
+29481239,Kiribathgoda-Makola-Sapugaskanda Road,primary,B221,50,48,Average,9,2,Low,11,Pothole,Low,151,160247,55746,Resurfacing,RoadCare,4.8,Foggy
+29481255,Kiribathgoda-Makola-Sapugaskanda Road,primary,B221,50,25,Poor,19,4,High,18,Pothole,Low,1509,189454,95091,Resurfacing,RoadCare,3.2,Rainy
+29481710,Colombo-Kandy Road,trunk,A1,60,90,Good,20,4,Medium,8,Cracks,High,4750,86894,17313,Divider Repair,Lanka Infra,3.5,Rainy
+29481937,New Kelani Bridge Road,trunk,A1,60,78,Good,20,13,Low,11,Pothole,Low,7635,484573,189546,Resurfacing,SafeHighway,2.7,Rainy
+29482053,Colombo-Kandy Road,trunk,A1,60,25,Poor,8,13,Medium,20,Waterlogging,Low,6777,215735,336555,Resurfacing,SafeHighway,2.8,Foggy
+29482229,Biyagama Road,primary,B214,0,91,Good,17,3,Medium,17,Waterlogging,High,349,128800,94048,Pothole Repair,UrbanTrack,4.8,Rainy
+29482756,Canal Road (New Negombo Road),primary,B152,50,20,Poor,3,4,High,17,Broken Divider,Medium,3155,388459,127330,Resurfacing,UrbanTrack,3.5,Foggy
+29482903,Sirimavo Bandaranaike Mawatha (Prince of Wales Avenue),primary,AC24,60,85,Good,19,9,Medium,22,Waterlogging,Medium,4131,494753,158882,Resurfacing,UrbanTrack,4.4,Foggy
+29483074,Sirimavo Bandaranaike Mawatha (Prince of Wales Avenue),primary,AC24,60,95,Good,9,6,High,4,Broken Divider,High,8652,236874,376925,Resurfacing,RoadCare,3.6,Rainy
+29483284,Negombo Road,trunk,A3,60,37,Poor,11,11,Medium,4,Cracks,High,8247,426418,127105,Divider Repair,Lanka Infra,4.5,Sunny
+29483316,Colombo-Kandy Road,trunk,A1,60,67,Average,9,10,High,2,Pothole,Low,381,479018,290724,Pothole Repair,UrbanTrack,5,Sunny
+29483327,Kandy Road,trunk,A3,60,56,Average,17,12,Medium,17,Cracks,High,3293,168595,335758,Divider Repair,SafeHighway,4.8,Sunny
+29483329,Colombo-Kandy Road,trunk,A1,60,73,Good,18,9,High,10,Pothole,High,6407,466028,320035,Divider Repair,RoadCare,3.1,Foggy
+30465744,Yatiyantota Road,trunk,A7,60,67,Average,6,3,High,25,Cracks,High,7484,276887,138915,Resurfacing,Lanka Infra,4.4,Sunny
+30465759,Nanu Oya Road,trunk,A7,70,44,Average,6,9,Medium,0,Waterlogging,High,8448,335131,388603,Pothole Repair,SafeHighway,3.9,Foggy
+30465760,Nanu Oya Road,trunk,A7,70,71,Good,19,4,Low,12,Cracks,High,5850,424836,144538,Resurfacing,SafeHighway,4,Rainy
+30465764,Blackpool-Ambewela Road,primary,B512,60,57,Average,1,7,Medium,0,Waterlogging,High,2785,264688,372391,Resurfacing,RoadCare,2.6,Sunny
+30465765,Rendapola - Ambewela Road,secondary,B507,50,67,Average,14,4,Medium,6,Waterlogging,High,6458,259645,381089,Pothole Repair,RoadCare,2.6,Sunny
+30466341,Yatiyantota Road,trunk,A7,60,85,Good,18,4,Medium,17,Pothole,Low,1403,315739,210426,Resurfacing,SafeHighway,4.4,Rainy
+30466342,Gurugalla Bridge,primary,B408,60,54,Average,4,14,Medium,12,Cracks,High,9828,71308,21340,Resurfacing,RoadCare,4.8,Rainy
+30466343,Talduwa-Meewitigammana Road,primary,B408,60,93,Good,17,7,Low,9,Broken Divider,Low,7263,222334,171207,Pothole Repair,Lanka Infra,4.2,Rainy
+33215237,Beliatte-Kirinda Road,primary,B630,60,54,Average,18,2,Medium,24,Waterlogging,High,5850,222306,332987,Divider Repair,SafeHighway,4.1,Cloudy
+34695099,Avissawella Road,primary,B435,60,82,Good,1,7,High,18,Waterlogging,Medium,4046,496271,151330,Pothole Repair,UrbanTrack,4.5,Foggy
+34697219,Biyagama Road,primary,B214,0,22,Poor,10,1,Low,24,Cracks,Medium,2172,393741,264839,Divider Repair,SafeHighway,3.4,Rainy
+34697220,Waragoda Road,primary,B215,40,44,Average,13,10,Medium,18,Cracks,High,8279,330786,224538,Resurfacing,RoadCare,4.8,Rainy
+34697221,Biyagama Road,primary,B214,50,58,Average,11,2,Low,15,Cracks,Medium,5096,157734,228884,Pothole Repair,SafeHighway,3.2,Rainy
+34697226,Kiribathgoda-Makola-Sapugaskanda Road,primary,B221,50,54,Average,12,10,Low,8,Pothole,High,168,399007,67569,Pothole Repair,UrbanTrack,3.9,Cloudy
+34698602,Ambatale Road,primary,AB10,60,30,Poor,2,2,Low,22,Pothole,Medium,5151,68190,108031,Pothole Repair,SafeHighway,2.6,Rainy
+34698606,Welikada-Kohilawatte Road,primary,B469,50,76,Good,2,14,Medium,18,Pothole,High,5303,431843,198400,Divider Repair,Lanka Infra,4.6,Cloudy
+34698613,Mandawila Road,primary,B231,50,50,Average,14,5,Low,16,Waterlogging,Medium,5770,256651,268438,Resurfacing,UrbanTrack,3.8,Sunny
+34698616,Weerasingha Mallimarachchi Mawatha (Kolonnawa Road),primary,B96,50,92,Good,9,9,High,5,Waterlogging,Medium,1979,330784,58678,Divider Repair,RoadCare,4.9,Foggy
+34698617,Sri Dharmarama Road (Albion Road),primary,AC27,50,33,Poor,5,2,High,23,Pothole,Low,6346,181470,390716,Divider Repair,Lanka Infra,4.5,Sunny
+34698620,Parakumba Mawatha,primary,B232,50,83,Good,18,12,Medium,15,Waterlogging,High,8401,134010,231084,Divider Repair,SafeHighway,4.7,Rainy
+34698624,Gajaba Road,primary,B232,50,39,Poor,12,13,Medium,6,Waterlogging,High,1252,403955,334722,Pothole Repair,RoadCare,4.8,Sunny
+34698626,Nawala Road,primary,B470,50,66,Average,10,11,Low,15,Cracks,Medium,1785,79261,268157,Pothole Repair,RoadCare,3,Sunny
+34698627,Nawala Road,primary,B470,50,24,Poor,4,7,Medium,23,Pothole,High,8368,141132,374352,Resurfacing,SafeHighway,2.9,Rainy
+34698631,Nawala Road,primary,B470,50,25,Poor,12,9,Low,8,Waterlogging,Medium,8888,410733,55873,Resurfacing,UrbanTrack,3.7,Foggy
+34698638,Buthgamuwa Road,primary,B469,50,53,Average,8,13,Low,10,Pothole,Low,4128,252616,220472,Pothole Repair,RoadCare,2.6,Sunny
+34699270,Negombo-Giriulla Road,primary,B322,50,28,Poor,13,6,Medium,24,Cracks,Low,9226,197980,282359,Resurfacing,UrbanTrack,4.7,Cloudy
+34699271,Negombo-Giriulla Road,primary,B322,50,77,Good,8,0,High,5,Broken Divider,High,4177,477368,339509,Resurfacing,SafeHighway,3.4,Rainy
+34700452,Hendala Road,primary,B151,50,20,Poor,20,4,High,20,Waterlogging,Low,8077,284927,141239,Divider Repair,Lanka Infra,2.7,Rainy
+34700453,Hekitta Road,primary,B459,50,78,Good,19,5,High,9,Cracks,High,6454,327908,163871,Pothole Repair,SafeHighway,4.6,Foggy
+34700454,Canal Road (New Negombo Road),primary,B152,50,52,Average,8,11,High,15,Broken Divider,Low,8835,320443,158766,Resurfacing,RoadCare,2.5,Foggy
+34700457,Pamunugama Road (New Negombo Road),primary,B596,40,24,Poor,15,9,High,3,Pothole,Medium,3064,340233,273897,Divider Repair,Lanka Infra,4,Cloudy
+37927553,Narthupana-Warakagoda Road,primary,B310,50,53,Average,9,8,Medium,9,Cracks,Low,471,293859,117578,Pothole Repair,Lanka Infra,3.5,Cloudy
+37927614,Katukurunda-Neboda Road,primary,B207,60,20,Poor,0,11,High,20,Cracks,High,5204,377598,277298,Divider Repair,Lanka Infra,4.9,Cloudy
+44075888,Riverside Road,primary,B191,60,27,Poor,9,7,High,13,Pothole,Low,7825,420148,12788,Pothole Repair,SafeHighway,2.7,Cloudy
+44630114,Madatugama-Pubbogama-Andiyagala Road,secondary,B556,50,39,Poor,5,0,Medium,6,Cracks,Medium,9769,202861,43840,Resurfacing,Lanka Infra,3.8,Foggy
+44631334,New Kandy Road,trunk,A13,60,25,Poor,13,6,Medium,5,Pothole,Low,3324,344645,32717,Pothole Repair,UrbanTrack,4.3,Foggy
+44631343,Maithripala Senanayake Mawatha (Main Street),trunk,A12,60,48,Average,3,11,High,4,Pothole,Low,4883,341666,394759,Pothole Repair,UrbanTrack,3.6,Cloudy
+44631344,D. S. Senanayake Mawatha,primary,AB2-2,50,79,Good,12,8,Medium,7,Pothole,Low,3826,62723,121828,Divider Repair,Lanka Infra,3.6,Rainy
+44631877,Anagarika Dharmapala Mawatha,primary,AB2-1,50,52,Average,16,15,High,21,Pothole,Medium,7060,381662,179672,Resurfacing,SafeHighway,4.9,Sunny
+44631878,Maithripala Senanayake Mawatha (Main Street),trunk,A12,60,78,Good,0,13,Low,24,Pothole,Medium,9881,167930,30741,Resurfacing,UrbanTrack,2.9,Sunny
+44631879,Kandy-Jaffna Road,trunk,A9,70,84,Good,12,11,Low,9,Broken Divider,Low,6549,425462,286752,Pothole Repair,Lanka Infra,3.9,Sunny
+44631882,Malwatu Oya Left Bank Road,secondary,B397-13,40,46,Average,12,0,Medium,10,Pothole,High,1472,460271,184036,Resurfacing,SafeHighway,2.9,Foggy
+44677665,Nanadana Mawatha,secondary,B397-6,40,72,Good,0,6,Low,9,Waterlogging,Low,8308,401216,99225,Resurfacing,SafeHighway,4.3,Sunny
+44677668,Sri Maha Bodhi Mawatha,primary,AB25,40,39,Poor,6,7,Medium,5,Waterlogging,Low,8013,445022,94615,Divider Repair,RoadCare,3.2,Foggy
+44677670,Dakanu Dagoba Mawatha,primary,B397-9,50,24,Poor,17,10,Medium,22,Pothole,Medium,7503,79745,69608,Resurfacing,Lanka Infra,2.9,Rainy
+44677671,Mihindu Mawatha,primary,B638,40,73,Good,3,2,Medium,6,Waterlogging,Medium,2143,316509,173740,Divider Repair,UrbanTrack,4.2,Foggy
+44677679,Anuradhapura - Padeniya Road,trunk,AA028,40,52,Average,9,8,High,25,Waterlogging,High,3525,459401,56908,Resurfacing,UrbanTrack,3.4,Foggy
+44677691,Old Puttalam Road,primary,B234,50,91,Good,10,6,Medium,13,Pothole,Low,7611,141896,89229,Pothole Repair,RoadCare,4.1,Sunny
+44677693,Sangamitta Mawatha,secondary,B397-14,40,71,Good,8,6,High,21,Pothole,Low,5566,67249,114184,Resurfacing,UrbanTrack,4.6,Sunny
+44677694,Nanadana Mawatha,secondary,B397-6,40,68,Average,13,1,Medium,20,Pothole,Low,1078,117578,213215,Divider Repair,SafeHighway,3,Cloudy
+44677699,Sri Maha Bodhi Mawatha (Market Street),primary,AB2-7,60,74,Good,18,1,Medium,12,Pothole,Medium,7066,110703,151729,Pothole Repair,RoadCare,2.7,Sunny
+44677700,Halpanu Ela Left Bank Road,secondary,B515,40,57,Average,6,10,High,23,Waterlogging,Medium,2633,474903,354603,Pothole Repair,SafeHighway,2.7,Rainy
+44678407,Maradankadawala-Habarana Road,trunk,A11,60,72,Good,18,6,High,0,Broken Divider,Medium,8803,353831,372350,Resurfacing,SafeHighway,3.7,Rainy
+44678419,Kandy Road,trunk,AB23,60,30,Poor,3,14,Medium,12,Cracks,Medium,1825,63380,239936,Pothole Repair,Lanka Infra,3.2,Cloudy
+46830985,Keppetipola-Boralanda-Haputale Road,secondary,B353,50,73,Good,20,5,Medium,18,Waterlogging,High,5174,343271,223266,Pothole Repair,UrbanTrack,3.3,Sunny
+46830986,Beragala - Hali Ela Road,trunk,AA016,70,57,Average,6,2,Low,18,Waterlogging,Low,5833,97899,282412,Resurfacing,UrbanTrack,4.9,Cloudy
+46830988,Haputale-Dambetenna Road,tertiary,B147,50,36,Poor,9,0,High,18,Waterlogging,Low,554,116821,271055,Divider Repair,RoadCare,3.4,Cloudy
+46897996,Kawdana Road,primary,B547,50,94,Good,5,5,High,11,Waterlogging,High,6905,344360,236879,Pothole Repair,UrbanTrack,4.7,Foggy
+46968039,Borupana Road,primary,B388,40,84,Good,0,15,Low,8,Waterlogging,Medium,3249,104142,89039,Divider Repair,RoadCare,3.7,Rainy
+47322396,Katugastota-Kurunegala-Puttalam Road,trunk,A10,60,87,Good,1,7,High,0,Broken Divider,High,4000,467567,194909,Pothole Repair,SafeHighway,3.2,Foggy
+47325736,Outer Circular Road (Wata Wandana Road),secondary,B341,30,75,Good,3,15,Low,23,Waterlogging,Low,7810,282898,122345,Resurfacing,Lanka Infra,4.7,Sunny
+47325739,Anuradhapura Road,trunk,A9,60,85,Good,16,10,Medium,12,Waterlogging,Low,6497,116646,131883,Pothole Repair,UrbanTrack,3.4,Sunny
+47359454,Ambewela-Pattipola Road,primary,B512,60,47,Average,4,11,Low,2,Pothole,Medium,5822,355669,63451,Divider Repair,RoadCare,4.2,Foggy
+47387375,Ratunapura-Wellawaya Road,trunk,A4,72,91,Good,5,11,Low,18,Cracks,Low,9402,321501,326679,Resurfacing,Lanka Infra,3.1,Rainy
+47387384,Tissa Road,trunk,Old A2,70,90,Good,17,15,High,3,Waterlogging,High,3719,458192,184058,Divider Repair,SafeHighway,2.9,Foggy
+48053815,Belliatte-Weeraketiya Road,primary,B627,60,24,Poor,20,1,High,13,Waterlogging,High,5298,242765,125388,Pothole Repair,SafeHighway,5,Foggy
+48054622,Pelmadulla-Embilipitiya Road,trunk,A18,72,75,Good,20,4,Medium,19,Broken Divider,Medium,337,124697,388759,Resurfacing,UrbanTrack,3.1,Cloudy
+48054627,Pelmadulla-Embilipitiya Road,trunk,A18,72,50,Average,0,0,High,14,Cracks,Low,2634,337016,345450,Resurfacing,SafeHighway,3.3,Sunny
+48055158,Embilipitiya-Nonagama Road,trunk,A18,72,48,Average,4,12,High,0,Waterlogging,Medium,9093,440706,361402,Pothole Repair,UrbanTrack,4.6,Cloudy
+48055340,Mirijjawila-Sooriyawewa Road,primary,B562,60,75,Good,15,10,High,22,Waterlogging,Low,1061,361576,270082,Pothole Repair,SafeHighway,3.5,Foggy
+48055456,Hambantota-Wellawaya Road,trunk,A2,70,67,Average,7,7,Low,4,Pothole,Low,8109,302050,331039,Pothole Repair,Lanka Infra,2.7,Sunny
+48055457,Hambantota-Wellawaya Road,trunk,A2,70,38,Poor,9,3,Low,10,Cracks,Medium,462,487506,91843,Pothole Repair,RoadCare,4.5,Foggy
+48055794,New Tissa Road,trunk,New-A2,60,44,Average,11,8,Low,11,Broken Divider,Low,7353,484108,385372,Pothole Repair,UrbanTrack,3.4,Foggy
+48056148,Tangalle Road,trunk,A2,70,75,Good,10,1,Low,4,Waterlogging,High,2219,85863,251972,Divider Repair,RoadCare,4,Foggy
+48056309,Timbolketiya-Tanamalwila Road,primary,B427,72,20,Poor,5,5,Medium,6,Cracks,Low,5314,106058,40434,Divider Repair,RoadCare,3.2,Rainy
+48057887,Pannegamuwa-Tissa Road,primary,B464,70,76,Good,19,12,Medium,15,Broken Divider,Low,4039,176073,109781,Pothole Repair,UrbanTrack,3.2,Sunny
+48057969,Keppetipola-Boralanda-Haputale Road,secondary,B353,50,64,Average,9,4,High,22,Cracks,High,2530,65149,387219,Pothole Repair,UrbanTrack,2.5,Foggy
+48058001,Keppetipola-Boralanda-Haputale Road,secondary,B353,50,80,Good,16,13,High,19,Pothole,Low,3526,201702,70251,Divider Repair,UrbanTrack,4.3,Rainy
+48461417,Katugastota-Kurunegala-Puttalam Road,trunk,A10,60,93,Good,19,1,Low,5,Cracks,Medium,8959,55251,185683,Divider Repair,Lanka Infra,4.1,Foggy
+48461418,Chilaw - Wariyapola Road,primary,B079,60,57,Average,19,2,Medium,2,Broken Divider,High,1838,199100,44872,Divider Repair,Lanka Infra,3,Rainy
+48592371,D.P. Wijesinghe Mawatha,primary,B645,50,31,Poor,14,0,Low,17,Cracks,Low,8226,457822,70688,Resurfacing,UrbanTrack,3.2,Foggy
+48598816,Thoppuwa-Nattandiya-Madampe Road,secondary,B419,50,57,Average,12,5,High,7,Waterlogging,High,7884,492404,278203,Resurfacing,UrbanTrack,4.9,Rainy
+48600878,Talawatugoda Road,primary,B47,50,93,Good,10,10,Medium,4,Broken Divider,Medium,3861,404962,297959,Divider Repair,RoadCare,2.5,Foggy
+48652498,Negombo-Giriulla Road,primary,B322,0,92,Good,13,10,High,9,Waterlogging,Low,682,292073,209114,Pothole Repair,Lanka Infra,3.4,Cloudy
+48652500,Kurunegala-Negombo Road,primary,B247,60,42,Average,13,15,Low,16,Waterlogging,Medium,911,247585,43309,Divider Repair,UrbanTrack,4.8,Foggy
+48652539,Kurunegala - Kandy Road,trunk,A10,70,52,Average,5,7,High,11,Cracks,Medium,1721,110891,130243,Resurfacing,UrbanTrack,4.3,Foggy
+48652917,Kurunegala-Negombo Road,primary,B308,60,87,Good,10,8,Low,19,Pothole,High,4492,148571,101199,Resurfacing,RoadCare,3.2,Sunny
+48652919,Ekala-Kotadeniyawa Road,primary,B111,0,32,Poor,14,0,High,7,Broken Divider,Low,4917,277627,178315,Divider Repair,Lanka Infra,3,Sunny
+48652995,Negombo-Mirigama Road,primary,B324,50,21,Poor,20,3,Medium,1,Pothole,High,5247,385281,45720,Divider Repair,Lanka Infra,2.5,Foggy
+48653068,Minuwangoda-Miriswatta-Katana Road,primary,B289,0,62,Average,7,2,Medium,20,Pothole,Medium,5049,117004,153697,Pothole Repair,SafeHighway,3.1,Rainy
+48654737,Pasyala-Giriulla Road,primary,AB29,60,73,Good,13,15,High,22,Pothole,High,3341,475946,244988,Resurfacing,Lanka Infra,3.9,Sunny
+48671098,Thihariya-Warapalana Road,primary,B416,50,44,Average,20,8,High,13,Pothole,Low,4911,146339,57087,Pothole Repair,SafeHighway,4,Foggy
+48671172,Thihariya-Warapalana Road,primary,B416,50,31,Poor,14,9,Medium,23,Pothole,High,7846,328854,351539,Divider Repair,UrbanTrack,4.8,Foggy
+48671174,Thihariya-Warapalana Road,primary,B416,50,43,Average,8,11,High,25,Cracks,Medium,1774,399840,72723,Resurfacing,Lanka Infra,4.4,Foggy
+48671276,Thihariya-Warapalana Road,primary,B416,50,40,Poor,19,0,Medium,5,Broken Divider,Low,5377,457158,160873,Divider Repair,UrbanTrack,3.2,Sunny
+48677467,Ananda Coomaraswamy Mawatha,trunk,A0,50,28,Poor,20,3,Low,25,Pothole,Low,5390,436478,273459,Resurfacing,SafeHighway,4.1,Foggy
+48678155,High Level Road,trunk,A4,60,24,Poor,12,10,Low,25,Broken Divider,Medium,5742,89115,81783,Pothole Repair,RoadCare,4.8,Foggy
+48678156,Avissawella Bypass Road,primary,AB45,60,31,Poor,4,2,Low,16,Broken Divider,Low,7544,301907,100681,Pothole Repair,UrbanTrack,3.6,Sunny
+48678169,Maitland Place,primary,AC1,60,35,Poor,13,5,High,24,Cracks,High,465,491863,61646,Pothole Repair,UrbanTrack,3.7,Sunny
+48678177,Galigamuwa-Ruwanwella Road,secondary,B127,50,79,Good,18,7,Medium,13,Cracks,High,3338,481117,263584,Pothole Repair,Lanka Infra,2.6,Cloudy
+48678604,Ananda Coomaraswamy Mawatha,trunk,A0,50,22,Poor,4,15,Medium,9,Pothole,Low,4456,106735,247468,Resurfacing,SafeHighway,3.6,Sunny
+48678960,Gohagoda Road,primary,B365,60,52,Average,20,2,High,7,Waterlogging,High,5903,434635,26417,Pothole Repair,Lanka Infra,4.4,Foggy
+48681871,Bauddhaloka Mawatha,primary,AC2,60,22,Poor,11,3,Medium,7,Broken Divider,Medium,534,295955,388926,Resurfacing,UrbanTrack,3,Rainy
+48701240,Galle Road,trunk,A2,60,57,Average,8,7,High,23,Broken Divider,Medium,6042,325925,24123,Resurfacing,SafeHighway,3,Sunny
+48703481,Lotus Road,primary,AC15,60,20,Poor,0,1,Low,6,Broken Divider,Low,3564,417281,117807,Pothole Repair,SafeHighway,4.9,Rainy
+48704558,Pamankada Road,primary,AC21,40,44,Average,2,1,Medium,20,Broken Divider,Medium,790,108784,217711,Resurfacing,SafeHighway,2.9,Rainy
+48726959,Dudley Senanayake Mawatha (Castle Street),trunk,A0,60,30,Poor,16,7,High,9,Broken Divider,Low,356,356367,94056,Divider Repair,Lanka Infra,3.9,Rainy
+48728444,Sri Jayewardenepura Mawatha,trunk,A0,70,20,Poor,10,9,Medium,25,Pothole,Medium,6198,361620,386870,Divider Repair,SafeHighway,3,Cloudy
+48728445,Sri Jayewardenepura Mawatha,trunk,A0,70,28,Poor,14,5,High,25,Waterlogging,Low,1552,105557,202553,Divider Repair,UrbanTrack,3.8,Cloudy
+48729755,Cotta Road,primary,B62,60,50,Average,9,13,Low,0,Waterlogging,High,4749,266353,247996,Resurfacing,Lanka Infra,2.8,Foggy
+48737618,Rambukkana-Mawathagama Road,secondary,B281,50,45,Average,0,7,Medium,17,Pothole,Low,4985,470347,399111,Divider Repair,SafeHighway,3.8,Cloudy
+48737619,Rambukkana-Mawanella Road,secondary,B199,50,60,Average,4,6,Low,11,Waterlogging,High,3054,131178,118301,Pothole Repair,RoadCare,4,Sunny
+48737621,Mawathagama-Barandana Road,secondary,B280,50,20,Poor,15,3,High,5,Cracks,Medium,9860,466936,212026,Divider Repair,RoadCare,4.2,Sunny
+48737622,Mawathagama-Barandana Road,secondary,B281,50,72,Good,4,10,Medium,2,Cracks,High,6476,216819,11476,Pothole Repair,SafeHighway,2.8,Cloudy
+48749135,Habarana-Trincomalee-Batticaloa Road,trunk,A11,70,80,Good,16,10,High,16,Pothole,Low,4981,113118,28496,Pothole Repair,RoadCare,4.6,Sunny
+48757883,Jubilee Post,primary,B291,50,43,Average,8,12,Medium,18,Pothole,Low,1077,364515,78427,Divider Repair,RoadCare,3.5,Foggy
+48760994,Kurunegala - Narammala - Madampe Road,primary,B247,70,35,Poor,14,12,Medium,14,Pothole,Low,6878,372111,197453,Divider Repair,Lanka Infra,3.2,Rainy
+48796233,Sambudthwa Jayanthi Mawatha,primary,B120,50,84,Good,10,12,Low,20,Broken Divider,Medium,1738,54340,247882,Resurfacing,Lanka Infra,4.1,Cloudy
+48799956,Independence Avenue,primary,AC1,60,56,Average,0,3,Low,6,Pothole,Low,1274,346536,20217,Resurfacing,UrbanTrack,2.7,Cloudy
+48803635,Sri Saddharma Mawatha,trunk,A1,60,41,Average,15,11,Low,19,Pothole,Low,8777,408431,83832,Resurfacing,Lanka Infra,3.3,Sunny
+48803639,Maligawatta Road,secondary,AC18,50,28,Poor,15,15,High,21,Broken Divider,Low,1835,113364,95590,Pothole Repair,UrbanTrack,3.8,Rainy
+48805113,N. H. M. Abdul Cader Mawatha,primary,AC20,50,49,Average,8,10,High,22,Waterlogging,Medium,7878,180567,11063,Resurfacing,UrbanTrack,2.8,Foggy
+48848554,Kaduwela – Athurugiriya Road,primary,B174,50,82,Good,7,15,Medium,7,Pothole,Medium,6301,154349,98858,Divider Repair,SafeHighway,3.8,Foggy
+48848571,Sri Gnanawimala Mawatha,primary,B451,50,27,Poor,13,10,High,14,Broken Divider,High,9407,316478,20698,Resurfacing,RoadCare,3.6,Rainy
+48859777,New Kandy Road,primary,B214,60,82,Good,13,0,High,25,Pothole,Low,3381,56529,63683,Resurfacing,SafeHighway,3.4,Sunny
+48859781,Weliweriya-Kirindiwela Road,primary,B472,50,93,Good,11,9,Low,3,Cracks,Medium,723,429474,194258,Resurfacing,SafeHighway,4.7,Cloudy
+48859919,High Level Road,trunk,A4,50,61,Average,18,3,Low,12,Waterlogging,Low,3574,176556,324909,Pothole Repair,Lanka Infra,4.1,Sunny
+48859920,High Level Road,trunk,A4,60,32,Poor,3,15,Low,19,Waterlogging,Medium,3961,396182,126726,Pothole Repair,Lanka Infra,3.3,Rainy
+48893713,Anagarika Dharmapala Mawatha (Allen Avenue),primary,B11,40,31,Poor,10,6,Low,23,Pothole,Medium,2394,421648,41165,Resurfacing,SafeHighway,4.4,Sunny
+48952387,Sedawatta Road,primary,AB10,60,79,Good,9,2,High,21,Pothole,High,8026,328015,134966,Pothole Repair,RoadCare,4.5,Foggy
+48953374,Biyagama Makola Road,primary,B632,50,95,Good,20,5,High,15,Broken Divider,Medium,2663,117394,382389,Pothole Repair,RoadCare,2.6,Cloudy
+48955354,Biyagama Free Trade Zone Road,primary,B632,50,25,Poor,12,4,Medium,14,Pothole,Low,181,478102,32854,Resurfacing,UrbanTrack,2.7,Rainy
+48955687,Pattiwila-Makola Road,primary,B362,50,70,Average,4,2,Low,10,Waterlogging,Low,5430,405834,238837,Pothole Repair,SafeHighway,2.6,Cloudy
+48958438,Station Road,tertiary,B027,40,39,Poor,19,2,Medium,24,Pothole,Medium,9216,253983,93816,Pothole Repair,UrbanTrack,3.5,Rainy
+48958693,Buthgamuwa Road,primary,B469,50,48,Average,6,6,Low,20,Cracks,High,722,201117,110560,Resurfacing,SafeHighway,4.2,Cloudy
+48960694,Negombo Road,trunk,A3,60,50,Average,1,7,Low,22,Pothole,High,7115,373084,368442,Pothole Repair,RoadCare,4.9,Cloudy
+48999708,Kawdana Road,primary,B547,50,72,Good,2,10,Low,3,Waterlogging,High,7734,190956,254481,Divider Repair,RoadCare,2.8,Sunny
+48999711,Kawdana Road,primary,B547,50,79,Good,2,8,Medium,7,Broken Divider,Medium,5800,394787,174721,Pothole Repair,UrbanTrack,3,Sunny
+49002008,Anagarika Dharmapala Mawatha (Allen Avenue),primary,B11,40,63,Average,9,4,Medium,22,Cracks,Low,5219,407082,354045,Divider Repair,RoadCare,2.7,Foggy
+49900152,Jaffna - Kankesanthurai Road,trunk,AA009,40,93,Good,4,11,Low,1,Waterlogging,High,1427,431412,38618,Pothole Repair,RoadCare,3.5,Foggy
+49900403,Puliyankulam-Mullaittivu,secondary,B296,50,42,Average,0,14,High,2,Broken Divider,Medium,5398,261922,166439,Resurfacing,SafeHighway,3.1,Sunny
+49900404,Kanagarayankulam Karappakuthy Road,residential,NVVNE125,40,53,Average,13,13,Low,20,Pothole,Low,6678,383925,190877,Divider Repair,SafeHighway,4.7,Rainy
+49901314,Oddusudan-Nedunkerni Road,tertiary,B334,50,25,Poor,7,8,Low,4,Broken Divider,Medium,1024,386062,39487,Resurfacing,Lanka Infra,4.1,Sunny
+49901468,Mankulam-Vellankulam Road,secondary,B269,50,49,Average,7,5,Low,10,Waterlogging,High,5691,479313,202041,Divider Repair,UrbanTrack,4.9,Rainy
+49927288,Krindiwita-Ganemulla Road,primary,B226,50,49,Average,10,5,Low,21,Cracks,High,4844,122862,173076,Resurfacing,Lanka Infra,3.8,Cloudy
+50002949,Philip Gunawardene Mawatha (Reid Avenue),trunk,A4,60,86,Good,8,0,Low,13,Waterlogging,Low,2533,269286,188423,Pothole Repair,SafeHighway,4.7,Foggy
+50070021,High Level Road,trunk,A4,50,24,Poor,12,8,Low,24,Broken Divider,Medium,1337,384512,219793,Divider Repair,SafeHighway,4.7,Rainy
+50071262,Galle Road,trunk,A2,60,31,Poor,2,10,Medium,23,Pothole,High,1858,276059,228238,Pothole Repair,SafeHighway,2.5,Cloudy
+50071266,Galle Road,trunk,A2,50,39,Poor,16,13,Low,6,Broken Divider,Medium,6278,155277,143980,Pothole Repair,UrbanTrack,3,Sunny
+50071268,Galle Road,trunk,A2,60,74,Good,0,0,High,25,Broken Divider,Low,8839,384577,383357,Pothole Repair,UrbanTrack,3,Rainy
+50123544,Kantale-Allai Road,secondary,B10,50,80,Good,14,6,High,1,Broken Divider,Low,8385,98387,223048,Pothole Repair,RoadCare,4.2,Sunny
+50123546,Kantale-Allai Road,secondary,B10,50,51,Average,8,8,Low,3,Pothole,Low,6630,319059,164160,Divider Repair,UrbanTrack,4.2,Rainy
+50127324,Orutota Road,primary,B570,50,56,Average,8,10,Low,24,Pothole,High,4593,230209,398396,Pothole Repair,SafeHighway,4.2,Cloudy
+50127325,Uruval oya bridge,primary,B570,50,89,Good,16,0,High,7,Waterlogging,Low,6685,346201,61571,Pothole Repair,UrbanTrack,3,Cloudy
+50130625,Bauddhaloka Mawatha (King George Avenue),primary,B219,50,36,Poor,18,11,High,19,Waterlogging,Medium,1731,53235,320355,Divider Repair,SafeHighway,5,Foggy
+50130628,Main Street (Bazaaar St),primary,B50,40,34,Poor,15,5,Low,18,Cracks,Medium,8026,265658,394287,Resurfacing,UrbanTrack,2.7,Sunny
+50130632,Orutota Road,primary,B569,50,42,Average,12,5,High,10,Waterlogging,High,1131,54762,217639,Divider Repair,Lanka Infra,3.3,Foggy
+50131273,Galagedara-Rambukkana Road,primary,B122,50,62,Average,2,15,High,25,Pothole,High,7390,267818,32190,Divider Repair,UrbanTrack,4,Cloudy
+50131343,Bauddhaloka Mawatha,secondary,B82,50,85,Good,9,3,High,7,Pothole,Medium,6656,222505,115207,Divider Repair,SafeHighway,4.6,Rainy
+50131783,Kurunegala-Negombo Road,primary,B247,60,21,Poor,6,7,High,16,Broken Divider,Low,7657,367067,30869,Pothole Repair,UrbanTrack,2.9,Cloudy
+50131784,Main Street,primary,B051,60,26,Poor,3,4,Medium,14,Cracks,High,5088,319359,277303,Resurfacing,RoadCare,3.3,Rainy
+50132707,Temple Road,primary,B530,50,69,Average,17,4,Low,10,Broken Divider,Low,5416,186432,369322,Resurfacing,SafeHighway,2.8,Foggy
+50133268,Old Kesbawa Road,primary,B134,50,27,Poor,14,5,High,0,Waterlogging,High,2541,467295,104314,Divider Repair,UrbanTrack,3.1,Rainy
+50133381,Galle Road,trunk,A2,60,59,Average,20,12,Low,3,Cracks,Low,1118,151825,274693,Divider Repair,RoadCare,3.9,Sunny
+50165568,Gampaha-Ja Ela Road,trunk,A33,50,92,Good,13,1,High,7,Pothole,Low,8335,159508,335804,Resurfacing,UrbanTrack,3.1,Foggy
+50165994,Minuwangoda-Gampaha-Mriswatta Road,primary,B288,0,67,Average,11,13,Low,7,Waterlogging,Medium,748,119369,285306,Resurfacing,RoadCare,3.5,Foggy
+50166173,Gampaha-Ja Ela Road,trunk,A33,60,77,Good,1,5,Low,6,Pothole,Medium,3803,157970,195305,Resurfacing,UrbanTrack,4.8,Cloudy
+50168353,Gampaha-Ja Ela Road,trunk,A33,60,37,Poor,5,6,Medium,22,Cracks,Low,6113,86182,125950,Resurfacing,UrbanTrack,3.2,Foggy
+50168908,Gampaha-Ja Ela Road,trunk,A33,60,58,Average,8,14,High,22,Broken Divider,Medium,3230,391818,314937,Resurfacing,RoadCare,3,Cloudy
+50177894,Makola-Udupila Road,primary,B262,50,62,Average,15,5,Low,20,Waterlogging,Low,971,88408,127846,Resurfacing,Lanka Infra,3,Foggy
+50186053,Makola-Udupila Road,primary,B262,50,93,Good,18,0,Medium,14,Waterlogging,Low,1838,433540,267628,Resurfacing,Lanka Infra,4.7,Sunny
+50281338,Katunayake-Veyangoda Road,primary,B208,0,89,Good,5,9,High,23,Cracks,High,186,391031,255096,Resurfacing,UrbanTrack,3.9,Foggy
+50281341,Katunayake-Veyangoda Road,primary,B208,0,32,Poor,20,6,Medium,23,Broken Divider,High,391,288962,159366,Resurfacing,Lanka Infra,3.9,Rainy
+50281421,Ekala-Kotadeniyawa Road,primary,B111,0,47,Average,15,10,Medium,22,Cracks,High,4234,392109,35086,Resurfacing,Lanka Infra,3.3,Sunny
+50281648,Katunayake-Veyangoda Road,primary,B208,0,94,Good,4,8,Medium,15,Pothole,Medium,7259,191893,226513,Resurfacing,Lanka Infra,3.3,Foggy
+50281649,Ekala-Kotadeniyawa Road,primary,B111,0,82,Good,6,11,High,15,Broken Divider,High,7044,121860,235732,Pothole Repair,RoadCare,3,Foggy
+50281651,Ekala-Kotadeniyawa Road,primary,B111,0,33,Poor,20,6,High,4,Waterlogging,Medium,1608,108719,257293,Resurfacing,Lanka Infra,2.7,Sunny
+50281652,Ekala-Kotadeniyawa Road,primary,B111,0,25,Poor,2,8,High,14,Pothole,High,4677,204773,164315,Pothole Repair,SafeHighway,3,Foggy
+50281653,Katunayake-Veyangoda Road,primary,B208,0,52,Average,9,2,Medium,25,Waterlogging,High,7137,163271,226682,Divider Repair,UrbanTrack,3,Foggy
+50281774,Katunayake-Veyangoda Road,primary,B208,0,70,Average,19,5,Low,23,Waterlogging,Medium,4467,398292,347980,Pothole Repair,RoadCare,4.9,Rainy
+50281806,Minuwangoda-Gampaha-Mriswatta Road,primary,B288,0,34,Poor,13,4,Medium,12,Pothole,Low,6091,92956,166888,Pothole Repair,SafeHighway,3.5,Sunny
+50282560,Kotugoda-Udugampola Road,primary,B400,50,43,Average,12,14,Low,11,Broken Divider,Medium,1188,394684,139151,Divider Repair,UrbanTrack,4.4,Cloudy
+50282561,Minuwangoda-Gampaha-Mriswatta Road,primary,B288,0,63,Average,11,7,High,18,Broken Divider,Low,8939,393228,134823,Divider Repair,Lanka Infra,2.8,Rainy
+50282562,Udugampola-Divulapitiya Road,primary,B430,50,57,Average,20,1,Medium,5,Pothole,Low,5114,290445,202091,Pothole Repair,RoadCare,3.7,Foggy
+50282563,Udugampola-Divulapitiya Road,primary,B430,50,77,Good,14,1,High,15,Cracks,Low,3323,193357,211166,Divider Repair,Lanka Infra,3.6,Foggy
+50282565,Minuwangoda-Gampaha-Mriswatta Road,primary,B288,0,42,Average,10,2,Low,24,Broken Divider,Low,9552,57256,154500,Divider Repair,RoadCare,4.9,Cloudy
+50282566,Kotugoda-Udugampola Road,primary,B400,50,83,Good,13,9,Medium,20,Broken Divider,Medium,3552,254356,302328,Resurfacing,UrbanTrack,4.8,Sunny
+50282567,Minuwangoda-Gampaha-Mriswatta Road,primary,B288,0,51,Average,1,14,High,19,Cracks,Medium,8596,218460,185569,Resurfacing,SafeHighway,3.5,Cloudy
+50282646,Old Minuwangoda Road,primary,B288,50,69,Average,3,13,Medium,0,Waterlogging,Medium,1719,104411,175739,Pothole Repair,Lanka Infra,2.8,Cloudy
+50283186,Kotugoda-Udugampola Road,primary,B400,50,64,Average,16,10,Low,24,Pothole,Medium,2267,464492,264673,Divider Repair,RoadCare,2.7,Rainy
+50283708,Minuwangoda-Gampaha-Mriswatta Road,primary,B288,0,65,Average,12,14,Medium,0,Cracks,Medium,2455,354304,31254,Divider Repair,RoadCare,4.9,Foggy
+50286636,Gampaha-Ja Ela Road,trunk,A33,60,81,Good,10,11,Low,23,Cracks,High,7876,209006,104572,Pothole Repair,SafeHighway,4.2,Foggy
+50286639,Ekala-Kotadeniyawa Road,primary,B111,0,51,Average,7,7,Medium,21,Cracks,High,7694,89982,215829,Divider Repair,SafeHighway,2.7,Foggy
+50286642,Ekala-Kotadeniyawa Road,primary,B111,0,45,Average,14,10,Low,12,Waterlogging,Medium,3843,396886,268014,Divider Repair,RoadCare,4.8,Foggy
+50286643,Gampaha-Ja Ela Road,trunk,A33,60,90,Good,17,15,Medium,18,Waterlogging,Low,4284,99008,307571,Resurfacing,SafeHighway,3.7,Foggy
+50286644,Gampaha-Ja Ela Road,trunk,A33,60,28,Poor,17,4,High,1,Cracks,High,2657,68998,98606,Pothole Repair,Lanka Infra,3.3,Sunny
+50286645,Gampaha-Ja Ela Road,trunk,A33,60,93,Good,5,9,Low,24,Cracks,Low,1858,74387,44074,Divider Repair,UrbanTrack,3.9,Cloudy
+50287362,Seeduwa-Kotugoda Road,primary,B400,50,28,Poor,8,0,High,13,Broken Divider,High,7074,315430,126549,Divider Repair,Lanka Infra,3.1,Rainy
+50287363,Seeduwa-Kotugoda Road,primary,B400,50,48,Average,18,0,Low,8,Waterlogging,Low,7535,407541,394377,Pothole Repair,UrbanTrack,4,Sunny
+50287368,Seeduwa-Kotugoda Road,primary,B400,50,30,Poor,0,4,High,3,Cracks,Low,1723,296266,240169,Resurfacing,UrbanTrack,4,Cloudy
+50302216,Minuwangoda-Miriswatta-Katana Road,primary,B289,0,68,Average,12,13,Low,0,Broken Divider,Low,4357,442080,364517,Divider Repair,RoadCare,2.6,Foggy
+50302460,Biyagama Free Trade Zone Road,primary,B632,50,76,Good,17,3,Low,21,Waterlogging,High,8011,229605,93083,Divider Repair,Lanka Infra,4.9,Cloudy
+50303856,Baseline Road,primary,B597,40,62,Average,2,6,High,21,Waterlogging,High,9631,334510,341261,Divider Repair,SafeHighway,4.2,Foggy
+50305366,Katunayake-Veyangoda Road,primary,B208,0,75,Good,2,6,Low,22,Cracks,High,6497,300624,236029,Pothole Repair,RoadCare,5,Sunny
+50305367,Katunayake-Veyangoda Road,primary,B208,0,40,Poor,13,0,Low,19,Pothole,High,8420,144431,108622,Divider Repair,RoadCare,2.6,Sunny
+50306655,Colombo-Puttalam Road,trunk,A3,70,22,Poor,3,4,Medium,13,Cracks,High,9124,311121,279218,Pothole Repair,Lanka Infra,4.2,Rainy
+50306656,Colombo-Puttalam Road,trunk,A3,70,56,Average,20,3,Medium,7,Waterlogging,Low,6498,225993,133556,Divider Repair,UrbanTrack,3.6,Sunny
+50308076,Madampalla Road,primary,B228,50,92,Good,14,15,Medium,1,Broken Divider,Low,2188,211981,322320,Pothole Repair,SafeHighway,4.5,Cloudy
+50309327,Main Street,primary,B261,60,89,Good,14,2,Low,1,Cracks,Medium,2123,183257,77680,Resurfacing,Lanka Infra,3.9,Rainy
+50310144,Rajapaksa Broadway,primary,B27-21,40,73,Good,20,10,High,20,Pothole,Low,6137,309470,94773,Pothole Repair,RoadCare,4.5,Cloudy
+50310196,Custom Road,primary,B407,50,42,Average,20,14,Low,13,Broken Divider,High,8791,303971,103946,Resurfacing,RoadCare,3.3,Sunny
