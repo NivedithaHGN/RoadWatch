@@ -1,7 +1,7 @@
 # ROADWATCH — Infrastructure Intelligence Dashboard
 
 > A full-stack real-time infrastructure monitoring platform for tracking road projects, citizen complaints, contractor performance, and government analytics — powered by Node.js, SQLite, Socket.io and a fully offline-capable frontend.
-> Currently this can be used for bimstec countries except India.
+> Currently this can be used for BIMSTEC countries except India.
 
 ---
 
