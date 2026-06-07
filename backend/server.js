@@ -738,7 +738,7 @@ io.on('connection', (socket) => {
   });
 });
 
-// Launch server
+// Launch backend server
 server.listen(PORT, () => {
   console.log(`==================================================`);
   console.log(` ROADWATCH Backend is running on http://localhost:${PORT}`);
