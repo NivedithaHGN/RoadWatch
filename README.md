@@ -160,11 +160,6 @@ Results are filtered for the **currently selected country** with highlighted mat
 
 ---
 
-## 📸 Screenshots
-
-> *(Add screenshots of your dashboard, complaints page, and a report here)*
-
----
 
 ## 🛡️ Security Notes
 
@@ -180,8 +175,4 @@ Results are filtered for the **currently selected country** with highlighted mat
 Built for a full-stack hackathon. Uses open-source tools:
 [Express](https://expressjs.com/) · [SQLite3](https://www.npmjs.com/package/sqlite3) · [Socket.io](https://socket.io/) · [Leaflet.js](https://leafletjs.com/) · [Multer](https://www.npmjs.com/package/multer)
 
----
 
-## 📄 License
-
-[MIT](LICENSE)
