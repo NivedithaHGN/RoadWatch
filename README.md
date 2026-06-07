@@ -171,6 +171,31 @@ Results are filtered for the **currently selected country** with highlighted mat
 
 ---
 
+## Contributors
+
+Kandula Jahnavi
+- Data extraction
+- AI Chatbot
+
+Kathyayini Prabhu
+- Data Cleaning & PreProcessing
+
+Siddamsetty Ramanjaneyulu
+- Frontend Development
+
+Samprith P
+- Frontend Development
+- Interactive GIS Mapping (Leaflet.js)
+  
+Niveditha H G
+- Backend Development
+- Data Integration
+- API Integration
+- Application Deployment
+- Relational Database Management (SQLite)
+- Hybrid Online/Offline State Management
+
+
 ## Acknowledgements
 
 Built for a full-stack hackathon. Uses open-source tools:
