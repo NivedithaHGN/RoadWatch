@@ -1,0 +1,15 @@
+# Dependency directories
+node_modules/
+backend/node_modules/
+
+# SQLite temporary database files
+backend/roadwatch.db-shm
+backend/roadwatch.db-wal
+
+# Log files
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+.env.local
