@@ -1,27 +1,27 @@
-# 🛣️ ROADWATCH — Infrastructure Intelligence Dashboard
+# ROADWATCH — Infrastructure Intelligence Dashboard
 
 > A full-stack real-time infrastructure monitoring platform for tracking road projects, citizen complaints, contractor performance, and government analytics — powered by Node.js, SQLite, Socket.io and a fully offline-capable frontend.
 
 ---
 
-## 🌐 Live Features
+## Live Features
 
 | Feature | Description |
 |---|---|
-| 📊 **Dashboard** | Live KPI cards — health score, projects, complaints, budget per country |
-| 🗺️ **Interactive Map** | Leaflet.js map with live project markers per country |
-| ⚠️ **Complaints Center** | Citizens file complaints with photo upload; govt/admin resolve or delete |
-| 👷 **Contractors** | View active auditing firms and project assignments per country |
-| 📈 **Analytics** | Infrastructure trends and performance metrics |
-| 📁 **Reports** | Auto-generated visual HTML reports with CSS bar charts, doughnut and trend graphs |
-| 🔔 **Real-time Alerts** | Socket.io country-room alerts — toast popups when complaints are filed/resolved |
-| 🔍 **Global Search** | Live search across projects, complaints and contractors |
-| ⚙️ **Settings** | Dark/Light mode toggle, notification preferences, privacy guard |
-| 📴 **Offline Mode** | Full `localStorage` virtual DB fallback when server is unreachable |
+| **Dashboard** | Live KPI cards — health score, projects, complaints, budget per country |
+| **Interactive Map** | Leaflet.js map with live project markers per country |
+| **Complaints Center** | Citizens file complaints with photo upload; govt/admin resolve or delete |
+| **Contractors** | View active auditing firms and project assignments per country |
+| **Analytics** | Infrastructure trends and performance metrics |
+| **Reports** | Auto-generated visual HTML reports with CSS bar charts, doughnut and trend graphs |
+| **Real-time Alerts** | Socket.io country-room alerts — toast popups when complaints are filed/resolved |
+| **Global Search** | Live search across projects, complaints and contractors |
+| **Settings** | Dark/Light mode toggle, notification preferences, privacy guard |
+| **Offline Mode** | Full `localStorage` virtual DB fallback when server is unreachable |
 
 ---
 
-## 🏗️ Tech Stack
+## Tech Stack
 
 **Backend**
 - [Node.js](https://nodejs.org/) + [Express.js](https://expressjs.com/)
@@ -37,7 +37,7 @@
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) v18+
@@ -71,7 +71,7 @@ http://localhost:3001
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 full-stack-hackathon/
@@ -96,7 +96,7 @@ full-stack-hackathon/
 
 ---
 
-## 👥 User Roles
+## User Roles
 
 | Role | Capabilities |
 |---|---|
@@ -109,7 +109,7 @@ full-stack-hackathon/
 
 ---
 
-## 🔔 Real-time Citizen Alerts
+## Real-time Citizen Alerts
 
 ROADWATCH uses **Socket.io country rooms** to deliver targeted alerts:
 
@@ -120,12 +120,12 @@ ROADWATCH uses **Socket.io country rooms** to deliver targeted alerts:
 ```
 User watches "India"  →  socket.join('India')
 Complaint filed in India  →  io.to('India').emit('complaint_filed', {...})
-Toast appears: ⚠️ "New Complaint Filed — Pothole on NH44"
+Toast appears: "New Complaint Filed — Pothole on NH44"
 ```
 
 ---
 
-## 📊 Reports
+## Reports
 
 Clicking **View Report** opens a fully self-contained HTML report with:
 - 4 KPI cards with YoY trend badges
@@ -139,7 +139,7 @@ Clicking **View Report** opens a fully self-contained HTML report with:
 
 ---
 
-## 📴 Offline Mode
+## Offline Mode
 
 If the Express server is unreachable (or the app is opened via `file://`), ROADWATCH automatically activates **LocalStorage Virtual DB Mode**:
 - All data (countries, complaints, contractors) is persisted in `localStorage`
@@ -149,19 +149,19 @@ If the Express server is unreachable (or the app is opened via `file://`), ROADW
 
 ---
 
-## 🔍 Global Search
+## Global Search
 
 The top search bar searches live across:
-- 🏗️ Projects
-- ⚠️ Complaints
-- 👷 Contractors
+- Projects
+- Complaints
+- Contractors
 
 Results are filtered for the **currently selected country** with highlighted match text and clickable navigation.
 
 ---
 
 
-## 🛡️ Security Notes
+## Security Notes
 
 - Complaint deletion is restricted to **admin** or the **original complaint author**
 - Government officials cannot delete complaints
@@ -170,9 +170,7 @@ Results are filtered for the **currently selected country** with highlighted mat
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 Built for a full-stack hackathon. Uses open-source tools:
 [Express](https://expressjs.com/) · [SQLite3](https://www.npmjs.com/package/sqlite3) · [Socket.io](https://socket.io/) · [Leaflet.js](https://leafletjs.com/) · [Multer](https://www.npmjs.com/package/multer)
-
-
