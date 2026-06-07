@@ -403,7 +403,7 @@ app.get('/api/admin/users', (req, res) => {
     return res.status(403).json({ error: 'Access denied. Please provide the correct secret key (?secret=roadwatch_admin).' });
   }
 
-  db.all('SELECT id, full_name, email, role, theme, notifications, created_at FROM users ORDER BY id DESC', [], (err, rows) => {
+  db.all('SELECT id, full_name, email, role FROM users ORDER BY id DESC', [], (err, rows) => {
     if (err) {
       return res.status(500).json({ error: err.message });
     }
